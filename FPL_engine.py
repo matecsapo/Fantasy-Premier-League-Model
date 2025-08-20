@@ -1,8 +1,8 @@
 import pandas as pd
 from data_processing import load_data
-from points_features import add_features
-from points_model import split_train_test, train_model, evaluate_model, save_model
-from points_model_config import FEATURES, NUM_ESTIMATORS
+from features import add_features
+from model import split_train_test, train_model, evaluate_model, save_model
+from model_config import FEATURES, NUM_ESTIMATORS
 import argparse
 
 def main():

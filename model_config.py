@@ -2,16 +2,80 @@ MODEL_NAME = "test.json"
 
 MODEL_PATH = f'models/{MODEL_NAME}'
 
-NUM_GWS_TO_ROLL = 4
+NUM_GWS_TO_ROLL = 3
 
 # Random Forest Specifications
 NUM_ESTIMATORS = 500
 
-MAX_DEPTH = 4
+MAX_DEPTH = 10
 
 MIN_SAMPLES_SPLIT = 5
 
 FEATURES = [
+    # Playtime ()
+    #'last_season_starts',
+    'last_season_minutes',
+    'last_season_minutes_bucket_Low',
+    'last_season_minutes_bucket_Medium',
+    'last_season_minutes_bucket_High',
+    'last_season_minutes_bucket_Ironman',
+    f'ema{NUM_GWS_TO_ROLL}_minutes',
+    'ema_minutes_bucket_0-30',
+    'ema_minutes_bucket_30-60',
+    'ema_minutes_bucket_60-90',
+    'ema_minutes_bucket_90+',
+
+    # PLAYER UNDERSTATS
+    # Attacking metrics
+    #'last_season_assists_per90',
+    'last_season_expected_assists_per90',
+    #'last_season_goals_scored_per90',
+    'last_season_expected_goals_per90',
+    'last_season_expected_goal_involvements_per90',
+    #'last_season_penalties_missed_per90',
+    #f'ema{NUM_GWS_TO_ROLL}_assists',
+    f'ema{NUM_GWS_TO_ROLL}_expected_assists',
+    #f'ema{NUM_GWS_TO_ROLL}_goals_scored',
+    f'ema{NUM_GWS_TO_ROLL}_expected_goals',
+    f'ema{NUM_GWS_TO_ROLL}_expected_goal_involvements',
+    #f'ema{NUM_GWS_TO_ROLL}_penalties_missed',
+    # Defensive Metrics
+    #'last_season_goals_conceded_per90',
+    'last_season_expected_goals_conceded_per90',
+    #'last_season_clean_sheets_per90',
+    #'last_season_saves_per90',
+    #'last_season_penalties_saved_per90',
+    #'last_season_own_goals_per90',
+    #'last_season_red_cards_per90',
+    #'last_season_yellow_cards_per90',
+    #f'ema{NUM_GWS_TO_ROLL}_goals_conceded',
+    f'ema{NUM_GWS_TO_ROLL}_expected_goals_conceded',
+    #f'ema{NUM_GWS_TO_ROLL}_clean_sheets',
+    #f'ema{NUM_GWS_TO_ROLL}_saves',
+    #f'ema{NUM_GWS_TO_ROLL}_penalties_saved',
+    #f'ema{NUM_GWS_TO_ROLL}_own_goals',
+    #f'ema{NUM_GWS_TO_ROLL}_red_cards',
+    #f'ema{NUM_GWS_TO_ROLL}_yellow_cards',
+
+    # Points History
+    'last_season_total_points_per90',
+    #'last_season_ict_index_per90',
+    #'last_season_influence_per90',
+    'last_season_end_cost',
+    f'ema{NUM_GWS_TO_ROLL}_total_points',
+    #f'ema{NUM_GWS_TO_ROLL}_ict_index',
+    #f'ema{NUM_GWS_TO_ROLL}_influence',
+    f'ema{NUM_GWS_TO_ROLL}_value',
+
+    # Team Understats
+    'team_strength',
+
+    # Fixture Difficulty
+    'is_home',
+    'opponent_strength'
+]
+
+OLD_FEATURES = [
     # Expected Values (Via Opta)
     #'xP',
     #'expected_assists',

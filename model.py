@@ -4,7 +4,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error, mean_squared_error, root_mean_squared_error
 import joblib
-from points_model_config import FEATURES, MODEL_PATH, MODEL_NAME, NUM_ESTIMATORS, MAX_DEPTH, MIN_SAMPLES_SPLIT
+from model_config import FEATURES, MODEL_PATH, MODEL_NAME, NUM_ESTIMATORS, MAX_DEPTH, MIN_SAMPLES_SPLIT
 
 
 def split_train_test(data):

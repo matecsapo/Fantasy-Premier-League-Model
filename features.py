@@ -1,25 +1,27 @@
 import pandas as pd
 import glob
 import os
-from points_model_config import NUM_GWS_TO_ROLL
+from model_config import NUM_GWS_TO_ROLL
 
 def add_features(data):
     # Grab player ids
     data = data.rename(columns={'element': 'id'})
     
     # Historic Player Performance
-    data = add_historic_player_performance(data)
+    data = add_historic_data(data)
 
     # 3-GW Rolling Form
-    data = add_form_performance(data, NUM_GWS_TO_ROLL)
+    data = add_form_data(data, NUM_GWS_TO_ROLL)
+
+    # Add minutes bucketing (one-hot encoding)
+    data = add_minutes_buckets(data)
 
     # Add fixture information
     data = add_fixture_information(data)
     
     return data
 
-
-def add_historic_player_performance(data):
+def add_historic_data(data):
     last_season_cache = {}
     stats_cols = [
         'assists', 'bonus', 'bps', 'clean_sheets', 'creativity',
@@ -27,7 +29,7 @@ def add_historic_player_performance(data):
         'expected_goals_conceded', 'goals_conceded', 'goals_scored',
         'ict_index', 'influence', 'minutes', 'own_goals', 'penalties_missed',
         'penalties_saved', 'red_cards', 'saves', 'starts', 'threat',
-        'total_points', 'yellow_cards'
+        'total_points', 'yellow_cards', 'end_cost'
     ]
     # Initialize columns
     for col in stats_cols:
@@ -58,7 +60,7 @@ def add_historic_player_performance(data):
                     data.loc[data['id'] == player_id, f'last_season_{col}_per90'] = value / minutes * 90
     return data
 
-def add_form_performance(data, num_gws_to_roll):
+def add_form_data(data, num_gws_to_roll):
     exclude = {"id", "round", "kickoff_time", "modified", "fixture"}
     all_features = [
         "assists","bonus","bps","clean_sheets","creativity","expected_assists",
@@ -110,6 +112,27 @@ def add_form_performance(data, num_gws_to_roll):
     # Fill missing values
     form_cols = [c for c in data.columns if c.startswith(f"form{num_gws_to_roll}_") or c.startswith(f"ema{num_gws_to_roll}_")]
     data[form_cols] = data[form_cols].fillna(0)
+    return data
+
+def add_minutes_buckets(data):
+    # Bucket last season minutes into workload tiers
+    data["last_season_minutes_bucket"] = pd.cut(
+        data["last_season_minutes"],
+        bins=[-1, 900, 1800, 2700, 4000],  # <10 full games, ~10–20, ~20–30, 30+
+        labels=["Low", "Medium", "High", "Ironman"]
+    )
+    # Bucket recent EMA minutes (rotation risk proxy)
+    data["ema_minutes_bucket"] = pd.cut(
+        data[f"ema{NUM_GWS_TO_ROLL}_minutes"],
+        bins=[-1, 30, 60, 90, 120],  # bench / sub / starter / always 90+
+        labels=["0-30", "30-60", "60-90", "90+"]
+    )
+    # One-hot encode
+    data = pd.get_dummies(
+        data, 
+        columns=["last_season_minutes_bucket", "ema_minutes_bucket"], 
+        drop_first=False
+    )
     return data
 
 def add_fixture_information(data):
