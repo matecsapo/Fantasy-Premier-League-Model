@@ -1,19 +1,23 @@
-MODEL_NAME = "test.json"
+MODEL_NAME = "V1.json"
 
 MODEL_PATH = f'models/{MODEL_NAME}'
+
+TRAIN_SEASONS = [22, 23]
+
+TEST_SEASONS = [24]
 
 NUM_GWS_TO_ROLL = 3
 
 # Random Forest Specifications
 NUM_ESTIMATORS = 500
 
-MAX_DEPTH = 10
+MAX_DEPTH = 7
 
-MIN_SAMPLES_SPLIT = 5
+MIN_SAMPLES_SPLIT = 3
 
 FEATURES = [
     # Playtime ()
-    #'last_season_starts',
+    'last_season_starts',
     'last_season_minutes',
     'last_season_minutes_bucket_Low',
     'last_season_minutes_bucket_Medium',
@@ -42,37 +46,46 @@ FEATURES = [
     # Defensive Metrics
     #'last_season_goals_conceded_per90',
     'last_season_expected_goals_conceded_per90',
-    #'last_season_clean_sheets_per90',
-    #'last_season_saves_per90',
+    'last_season_clean_sheets_per90',
+    'last_season_saves_per90',
     #'last_season_penalties_saved_per90',
     #'last_season_own_goals_per90',
-    #'last_season_red_cards_per90',
+    'last_season_red_cards_per90',
     #'last_season_yellow_cards_per90',
     #f'ema{NUM_GWS_TO_ROLL}_goals_conceded',
     f'ema{NUM_GWS_TO_ROLL}_expected_goals_conceded',
-    #f'ema{NUM_GWS_TO_ROLL}_clean_sheets',
-    #f'ema{NUM_GWS_TO_ROLL}_saves',
+    f'ema{NUM_GWS_TO_ROLL}_clean_sheets',
+    f'ema{NUM_GWS_TO_ROLL}_saves',
     #f'ema{NUM_GWS_TO_ROLL}_penalties_saved',
     #f'ema{NUM_GWS_TO_ROLL}_own_goals',
-    #f'ema{NUM_GWS_TO_ROLL}_red_cards',
+    f'ema{NUM_GWS_TO_ROLL}_red_cards',
     #f'ema{NUM_GWS_TO_ROLL}_yellow_cards',
 
     # Points History
     'last_season_total_points_per90',
-    #'last_season_ict_index_per90',
-    #'last_season_influence_per90',
+    'last_season_ict_index_per90',
+    'last_season_influence_per90',
     'last_season_end_cost',
     f'ema{NUM_GWS_TO_ROLL}_total_points',
-    #f'ema{NUM_GWS_TO_ROLL}_ict_index',
-    #f'ema{NUM_GWS_TO_ROLL}_influence',
+    f'ema{NUM_GWS_TO_ROLL}_ict_index',
+    f'ema{NUM_GWS_TO_ROLL}_influence',
     f'ema{NUM_GWS_TO_ROLL}_value',
+    f'ema{NUM_GWS_TO_ROLL}_selected',
+    #f'ema{NUM_GWS_TO_ROLL}_transfers_balance',
 
     # Team Understats
     'team_strength',
+    f'ema{NUM_GWS_TO_ROLL}_team_goals_scored',
+    f'ema{NUM_GWS_TO_ROLL}_team_goals_conceded',
+
+    # Player importance to team
+    'player_goals_scored_portion',
+    #'player_goals_conceded_portion',
 
     # Fixture Difficulty
     'is_home',
-    'opponent_strength'
+    'opponent_strength',
+    'strength_diff'
 ]
 
 OLD_FEATURES = [
@@ -213,6 +226,8 @@ OLD_FEATURES = [
     # Historic Team Performance
 
     # Current Team Form
+    f'ema{NUM_GWS_TO_ROLL}_team_expected_goals_scored',
+    f'ema{NUM_GWS_TO_ROLL}_team_expected_goals_conceded',
 
     # Fixture Difficulty
     'is_home',

@@ -2,7 +2,7 @@ import pandas as pd
 from data_processing import load_data
 from features import add_features
 from model import split_train_test, train_model, evaluate_model, save_model
-from model_config import FEATURES, NUM_ESTIMATORS
+from model_config import FEATURES, NUM_ESTIMATORS, NUM_GWS_TO_ROLL
 import argparse
 
 def main():
@@ -12,7 +12,7 @@ def main():
         "--model",
         type=str,
         default="linear",
-        choices=["linear", "randomforest"],
+        choices=["linear", "randomforest", "xgboostregressor"],
         help="Which model to use"
     )
     parser.add_argument(
