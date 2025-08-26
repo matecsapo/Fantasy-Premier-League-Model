@@ -105,7 +105,7 @@ def save_model(model):
 # Trains an XGBoost Regressor model, tests it, and save it to models/
 def main():
     # Get data - we generally use gw >= 3 to have recent form data to use
-    data = get_data("2024-2025", 1, 38, 0)
+    data = get_data("2024-2025", 1, 38, 0, True)
 
     # Keep only rows with valid points label
     data = data[data[LABEL].notna()]

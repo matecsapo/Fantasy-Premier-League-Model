@@ -104,7 +104,7 @@ DATA_FEATURES = IDENTIFYING_FEATURES + POSITION_FEATURE + EARLY_SEASON_INTELLIGE
 
 # Creates all features for all desired datapoints
 # player_id | gw | ... features ...
-def get_data(season, start_gw, end_gw, oppenent_game_relative_num):
+def get_data(season, start_gw, end_gw, oppenent_game_relative_num, FPL_data_shit):
     # prepare dataset
     players_gws = []
     for gw in range(start_gw, end_gw + 1):
@@ -126,7 +126,7 @@ def get_data(season, start_gw, end_gw, oppenent_game_relative_num):
     datapoints = pd.merge(datapoints, stats_features, on=["player_id", "gw"], how="left")
 
     # FPL features
-    fpl_features = get_FPL_features(season)
+    fpl_features = get_FPL_features(season, FPL_data_shit)
     datapoints = pd.merge(datapoints, fpl_features, on=["player_id", "gw"], how="left")
 
     # Team features
@@ -147,7 +147,7 @@ def get_data(season, start_gw, end_gw, oppenent_game_relative_num):
 
 # Returns the FPL-related features associated with player + gw datapoints
 # player_id | gw | ... FPL_features ...
-def get_FPL_features(season):
+def get_FPL_features(season, FPL_data_shift):
     features = load_FPL_info(season, 0, 38)
     features = features.rename(columns={"id": "player_id"})
     features = features.rename(columns={"event_points" : "points"})
@@ -162,9 +162,10 @@ def get_FPL_features(season):
     features = features.sort_values(["player_id", "gw"]).reset_index(drop=True)
     # Calculate season_points_per90 and form_points
     #########
-    # Shift gameweek-dependent features to ensure we don't leak future data
-    shift_features = ["status", "now_cost", "selected_by_percent", "form", "form_rank", "value_form", "value_season"]
-    features[shift_features] = features.groupby("player_id")[shift_features].transform(lambda x: x.shift(1))
+    # Shift gameweek-dependent features if needed to ensure we don't leak future data
+    if FPL_data_shift:
+        shift_features = ["status", "now_cost", "selected_by_percent", "form", "form_rank", "value_form", "value_season"]
+        features[shift_features] = features.groupby("player_id")[shift_features].transform(lambda x: x.shift(1))
     # Add one-hot-encoding of availability status
     status_dummies = pd.get_dummies(features['status'], prefix='status')
     features = pd.concat([features, status_dummies], axis=1)
@@ -268,6 +269,6 @@ def get_stats_features(season):
 #data = data.sort_values(by=["player_id", "gw"])
 #data.to_csv("features.csv")
 
-#data = get_data("2025-2026", 3, 3, 0)
+#data = get_data("2025-2026", 3, 3, 0, False)
 #data = data.sort_values(by=["player_id", "gw"])
 #data.to_csv("features.csv") 

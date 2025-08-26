@@ -20,7 +20,7 @@ def predict(season, gameweek, model_name, horizon):
     elif model_name == "V2_ESI":
         chosen_model_feature_set = MODEL_V2_ESI_FEATURES
     # List of players + identifying info to predict for (all)
-    predictions = get_data(season, gameweek, gameweek, 0)
+    predictions = get_data(season, gameweek, gameweek, 0, False)
     predictions = predictions[["player_id", "first_name", "second_name", "position", "team_name", "now_cost"]]
     # Filter out blacklisted players
     with open("blacklist.txt", "r") as f:
@@ -28,7 +28,7 @@ def predict(season, gameweek, model_name, horizon):
     predictions = predictions[~predictions["second_name"].isin(blacklist)].reset_index(drop=True)   
     # Predict players' performance across next [horizon] gws
     for game in range(0, horizon):
-        features = get_data(season, gameweek, gameweek, game)
+        features = get_data(season, gameweek, gameweek, game, False)
         # Remove blacklisted players
         features = features[~features["second_name"].isin(blacklist)].reset_index(drop=True)
         #features.to_csv(f"game_{game + 1}.csv")
@@ -77,7 +77,7 @@ def pick_11(predictions):
     prob += pulp.lpSum([
         predictions.loc[predictions['player_id']==pid, 'now_cost'].values[0] * x[pid] 
         for pid in players
-    ]) <= 83.0
+    ]) <= 83.5
     # Max 3 players per team
     teams = predictions['team_name'].unique()
     for team in teams:
