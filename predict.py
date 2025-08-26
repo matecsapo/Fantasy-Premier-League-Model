@@ -92,10 +92,19 @@ def pick_11(predictions):
     # order by position, lin_hor_perf_score
     optimal_11['position'] = pd.Categorical(optimal_11['position'], categories=["Goalkeeper", "Defender", "Midfielder", "Forward"], ordered=True)
     optimal_11 = optimal_11.sort_values(by=["position", "linear_horizon_performance_score"], ascending=False)
+    optimal_11 = optimal_11.reset_index(drop=True)
+    # Add critical metrics
+    optimal_11.loc[len(optimal_11)] = {}
+    optimal_11.loc[len(optimal_11)] = {
+        "second_name": "Total",
+        "now_cost": round(optimal_11["now_cost"].sum(), 1),
+        "linear_horizon_performance_score": round(optimal_11["linear_horizon_performance_score"].sum(), 1),
+        "predicted_horizon_points": round(optimal_11["predicted_horizon_points"].sum(), 1)
+    }
     return optimal_11
 
 # Displays all generated predictions
-def display_predictions(predictions, optimal_11, horizon):
+def display_predictions(predictions, position, max_cost, optimal_11, horizon):
     # Order by best-to-worst expected performers over [horizon] upcoming games
     predictions = predictions.sort_values(by="linear_horizon_performance_score", ascending=False)
 
@@ -104,27 +113,20 @@ def display_predictions(predictions, optimal_11, horizon):
     for i in range(1, horizon + 1):
         horizon_cols.append(f"opponent_game_{i}")
         horizon_cols.append(f"predicted_points_game_{i}")
-    file_info = ["player_id", "first_name", "second_name", "position", "team_name", "now_cost", "predicted_horizon_points", "linear_horizon_performance_score"] \
+    file_info = ["player_id", "first_name", "second_name", "position", "team_name", "now_cost", "linear_horizon_performance_score", "predicted_horizon_points"] \
                 + horizon_cols
     file_data = predictions[file_info]
+    # Filter to target position +/ price if specified
+    if position != None:
+        file_data = file_data[file_data["position"] == position]
+    if max_cost != None:
+        file_data = file_data[file_data["now_cost"] <= max_cost]
+    # Reset index for easy ranking visual
+    file_data = file_data.reset_index(drop=True)
     file_data.to_csv("predictions.csv")
 
-    # Display most important data to terminal
-    #terminal_info = ["second_name", "position", "team_name", "now_cost", "predicted_horizon_points", "linear_horizon_performance_score", "opponent_game_1"]
-    #terminal_data = predictions[terminal_info]
-    #data_to_print = predictions[terminal_info].head(100).astype(str)
-    #print(f"HORIZON = {horizon} POINTS PREDICTIONS")
-    #print(tabulate(data_to_print.values, headers=data_to_print.columns, tablefmt="plain", stralign="left", numalign="left"))
-
-    # Display optimal 11 - both file and terminal
+    # Display optimal 11 to file
     optimal_11.to_csv("optimal_11.csv")
-    #print("OPTIMAL 11 : ")
-    #data_to_print = optimal_11.astype(str)
-    #print(tabulate(data_to_print.values, headers=data_to_print.columns, tablefmt="plain", stralign="left", numalign="left"))
-    #print()
-    #print(f"Total Cost = {optimal_11["now_cost"].sum():.1f}")
-    #print(f"Total lin_hor_perf_score = {optimal_11["linear_horizon_performance_score"].sum():.1f}")
-    #print(f"Total pred_horizon_points = {optimal_11["predicted_horizon_points"].sum():.1f}")
 
 # Predicts FPL performance according to specified parameters
 def main():
@@ -134,6 +136,9 @@ def main():
     parser.add_argument("--gameweek", type=int, required=True, help="next/upcoming (yet unstarted) gameweek")
     parser.add_argument("--model", type=str, default="V2", help="model to use")
     parser.add_argument("--horizon", type=int, default=6, help="horizon of gws into future to consider when predicting")
+    parser.add_argument("--position", type=str, help="Filters to only show predictions for given position")
+    parser.add_argument("--max_cost", type=float, help="Filters to only show predictions <= given cost")
+
     args = parser.parse_args()
 
     # Predict performance accross upcoming [horizon] gws according to specified parameters
@@ -146,7 +151,7 @@ def main():
     optimal_11 = pick_11(predictions)
     
     # Output all determined info
-    display_predictions(predictions, optimal_11, args.horizon)
+    display_predictions(predictions, args.position, args.max_cost, optimal_11, args.horizon)
 
 if __name__ == "__main__":
     main()
