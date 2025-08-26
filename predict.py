@@ -22,9 +22,15 @@ def predict(season, gameweek, model_name, horizon):
     # List of players + identifying info to predict for (all)
     predictions = get_data(season, gameweek, gameweek, 0)
     predictions = predictions[["player_id", "first_name", "second_name", "position", "team_name", "now_cost"]]
+    # Filter out blacklisted players
+    with open("blacklist.txt", "r") as f:
+        blacklist = [line.strip() for line in f.readlines()]
+    predictions = predictions[~predictions["second_name"].isin(blacklist)].reset_index(drop=True)   
     # Predict players' performance across next [horizon] gws
     for game in range(0, horizon):
         features = get_data(season, gameweek, gameweek, game)
+        # Remove blacklisted players
+        features = features[~features["second_name"].isin(blacklist)].reset_index(drop=True)
         #features.to_csv(f"game_{game + 1}.csv")
         predictions[f"opponent_game_{game + 1}"] = features["opponent_name"]
         model_features = features[chosen_model_feature_set]
