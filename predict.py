@@ -7,7 +7,6 @@ from model_V2 import MODEL_V2_FEATURES
 from model_V2_ESI import MODEL_V2_ESI_FEATURES
 import warnings
 warnings.simplefilter(action="ignore", category=FutureWarning)
-from tabulate import tabulate
 import pulp
 
 # Predicts FPL performance for upcoming [horizon] gws according to specified parameters
