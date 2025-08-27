@@ -17,6 +17,10 @@ Massive shout out and thank you for their great work!**
       - captaincy
       - transfers
       - substitutions
+   
+## Predictions:
+  - Predictions are published gameweek-ly, generally refreshed multiple times in days before team set deadline
+  - Predictions are organzied by gameweek and model used in the folder predictions/
 
 ## Status
 Very much so still in early stages - lots of exciting work ahead!
