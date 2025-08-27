@@ -1,0 +1,14 @@
+,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points
+0,Viktor,Gyökeres,Forward,Arsenal,9.0,8.009959765842982,47.69487
+1,Hugo,Ekitiké,Forward,Liverpool,8.7,7.127221675146193,42.9271
+2,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.6,6.467660586039226,38.209396
+3,Mohamed,Salah,Midfielder,Liverpool,14.5,9.83598195938837,59.663116
+4,Matt,O'Riley,Midfielder,Brighton,5.5,6.663798241388229,40.586617
+5,Mohammed,Kudus,Midfielder,Spurs,6.6,5.656090214138938,33.81503
+6,Florian,Wirtz,Midfielder,Liverpool,8.4,5.521884736560639,33.202385
+7,Jurriën,Timber,Defender,Arsenal,5.6,5.613700003851028,35.080116
+8,Riccardo,Calafiori,Defender,Arsenal,5.6,5.536006950196766,34.74225
+9,Daniel,Muñoz Mejía,Defender,Crystal Palace,5.5,4.782488277980259,28.887339
+10,Nick,Pope,Goalkeeper,Newcastle,5.0,4.127611001332601,24.27262
+11,,,,,,,
+12,,Total,,,82.0,69.3,419.1
