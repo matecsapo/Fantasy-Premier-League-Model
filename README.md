@@ -19,7 +19,7 @@ Massive shout out and thank you for their great work!**
       - substitutions
    
 ## Predictions:
-  - Predictions are published gameweek-ly, generally refreshed multiple times in days before team set deadline
+  - Predictions are published gameweekly, generally refreshed multiple times in days before team set deadline
   - Predictions are organzied by gameweek and model used in the folder predictions/
 
 ## Status
