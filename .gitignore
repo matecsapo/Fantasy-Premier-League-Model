@@ -2,3 +2,5 @@ FPL-Elo-Insights/
 V1/raw_data
 V1/data
 blacklist.txt
+optimal_11.csv
+predictions.csv
