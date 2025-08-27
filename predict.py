@@ -2,6 +2,7 @@ import argparse
 import joblib
 import pandas as pd
 import numpy as np
+import os
 from features import get_data
 from model_V2 import MODEL_V2_FEATURES
 from model_V2_ESI import MODEL_V2_ESI_FEATURES
@@ -103,9 +104,12 @@ def pick_11(predictions):
     return optimal_11
 
 # Displays all generated predictions
-def display_predictions(predictions, position, max_cost, optimal_11, horizon):
+def display_predictions(predictions, position, max_cost, optimal_11, horizon, model_name, gameweek):
     # Order by best-to-worst expected performers over [horizon] upcoming games
     predictions = predictions.sort_values(by="linear_horizon_performance_score", ascending=False)
+
+    # Directory for storying predictions
+    os.makedirs(f"predictions/GW_{gameweek}/model_{model_name}", exist_ok=True)
 
     # Save all predictions data to file
     horizon_cols = []
@@ -122,10 +126,10 @@ def display_predictions(predictions, position, max_cost, optimal_11, horizon):
         file_data = file_data[file_data["now_cost"] <= max_cost]
     # Reset index for easy ranking visual
     file_data = file_data.reset_index(drop=True)
-    file_data.to_csv("predictions.csv")
+    file_data.to_csv(f"predictions/GW_{gameweek}/model_{model_name}/predictions.csv")
 
     # Display optimal 11 to file
-    optimal_11.to_csv("optimal_11.csv")
+    optimal_11.to_csv(f"predictions/GW_{gameweek}/model_{model_name}/optimal_11.csv")
 
 # Predicts FPL performance according to specified parameters
 def main():
@@ -150,7 +154,7 @@ def main():
     optimal_11 = pick_11(predictions)
     
     # Output all determined info
-    display_predictions(predictions, args.position, args.max_cost, optimal_11, args.horizon)
+    display_predictions(predictions, args.position, args.max_cost, optimal_11, args.horizon, args.model, args.gameweek)
 
 if __name__ == "__main__":
     main()
