@@ -2,7 +2,7 @@
 
 This is a model for predicting points and picking players in Fantasy Premier League. The Model aims to predict points achieved by players and thereby predict picks, captains, transfer, etc...
 
-** Note ** All underlying training/gameweek-by-gameweek data is sourced from [olbauday/FPL-Elo-Insights](https://github.com/olbauday/FPL-Elo-Insights).
+**Note** - All underlying training/gameweek-by-gameweek data is sourced from [olbauday/FPL-Elo-Insights](https://github.com/olbauday/FPL-Elo-Insights).
 Massive shout out and thank you for their great work!
 
 ## Versions
