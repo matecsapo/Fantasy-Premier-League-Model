@@ -2,7 +2,7 @@
 0,Erling,Haaland,Forward,Man City,14.1,8.675651141575404,52.3468
 1,Viktor,Gyökeres,Forward,Arsenal,9.0,6.922294253394717,41.593296
 2,Igor Thiago,Nascimento Rodrigues,Forward,Brentford,6.0,5.199725741431826,31.313461
-3,Mohamed,Salah,Midfielder,Liverpool,14.5,8.060779435294014,48.350403
+3,Mohamed,Salah,Midfielder,Liverpool,14.5,7.509825910840715,45.00387
 4,Matt,O'Riley,Midfielder,Brighton,5.5,5.576254299708775,33.1202
 5,Bryan,Mbeumo,Midfielder,Man Utd,8.0,5.0623794510251,30.138344
 6,Dango,Ouattara,Midfielder,Brentford,6.0,4.512546743665423,26.888218
@@ -11,4 +11,4 @@
 9,Gabriel,Gudmundsson,Defender,Leeds,4.0,2.9991937024252757,18.364862
 10,Robert,Lynch Sánchez,Goalkeeper,Chelsea,5.0,3.8325287501017247,22.791939
 11,,,,,,,
-12,,Total,,,83.2,58.6,352.8
+12,,Total,,,83.2,58.0,349.5
