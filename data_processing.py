@@ -63,7 +63,7 @@ def load_fixture_info(season, start_gw, end_gw):
     elif season == "2025-2026":
         gw_matches = []
         for gw in range(start_gw, end_gw + 1):
-            this_gw_matches = pd.read_csv(f"FPL-Elo-Insights/data/2025-2026/By Gameweek/GW{gw}/matches.csv")
+            this_gw_matches = pd.read_csv(f"FPL-Elo-Insights/data/2025-2026/By Tournament/Premier League/GW{gw}/matches.csv")
             gw_matches.append(this_gw_matches)
         matches = pd.concat(gw_matches, ignore_index=True)
         matches = matches.sort_values(by="gameweek")
