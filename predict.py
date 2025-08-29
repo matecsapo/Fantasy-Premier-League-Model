@@ -88,7 +88,7 @@ def pick_11(predictions):
     # return players in optimal 11
     selected_ids = [pid for pid, var in x.items() if pulp.value(var) == 1]
     optimal_11 = predictions[predictions['player_id'].isin(selected_ids)].copy()
-    optimal_11 = optimal_11[['first_name', 'second_name', 'position', 'team_name', 'now_cost', 'linear_horizon_performance_score', "predicted_horizon_points"]]
+    optimal_11 = optimal_11[['first_name', 'second_name', 'position', 'team_name', 'now_cost', 'linear_horizon_performance_score', "predicted_horizon_points", "opponent_game_1", "predicted_points_game_1"]]
     # order by position, lin_hor_perf_score
     optimal_11['position'] = pd.Categorical(optimal_11['position'], categories=["Goalkeeper", "Defender", "Midfielder", "Forward"], ordered=True)
     optimal_11 = optimal_11.sort_values(by=["position", "linear_horizon_performance_score"], ascending=False)
