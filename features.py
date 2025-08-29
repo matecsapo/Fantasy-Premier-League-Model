@@ -75,6 +75,7 @@ FPL_FEATURES = [
     "form_rank",
     "value_form",
     "value_season",
+    "points_per_game",
 
     # Engineered Features
     # One-hot encoding of status
@@ -164,7 +165,7 @@ def get_FPL_features(season, FPL_data_shift):
     #########
     # Shift gameweek-dependent features if needed to ensure we don't leak future data
     if FPL_data_shift:
-        shift_features = ["status", "now_cost", "selected_by_percent", "form", "form_rank", "value_form", "value_season"]
+        shift_features = ["status", "now_cost", "selected_by_percent", "form", "form_rank", "value_form", "value_season", "points_per_game"]
         features[shift_features] = features.groupby("player_id")[shift_features].transform(lambda x: x.shift(1))
     # Add one-hot-encoding of availability status
     status_dummies = pd.get_dummies(features['status'], prefix='status')
