@@ -19,7 +19,7 @@ def load_stats(season, start_gw, end_gw):
     if season == "2024-2025":
         folder = "playermatchstats"
     elif season == "2025-2026":
-        folder = "By Gameweek"
+        folder = "By Tournament/Premier League"
     gw_stats = []
     for gw in range(start_gw, end_gw + 1):
         this_gw_stats = pd.read_csv(f"FPL-Elo-Insights/data/{season}/{folder}/GW{gw}/playermatchstats.csv")
