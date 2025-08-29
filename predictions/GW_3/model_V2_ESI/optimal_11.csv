@@ -1,14 +1,14 @@
-,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points
-0,Viktor,Gyökeres,Forward,Arsenal,9.0,8.523423240298317,51.01509
-1,Erling,Haaland,Forward,Man City,14.1,7.866760026840936,47.330826
-2,Igor Thiago,Nascimento Rodrigues,Forward,Brentford,6.0,5.532212870461599,33.389435
-3,Mohamed,Salah,Midfielder,Liverpool,14.5,7.361779803321475,44.69563
-4,Bruno,Borges Fernandes,Midfielder,Man Utd,9.0,6.43042957215082,38.830578
-5,Matt,O'Riley,Midfielder,Brighton,5.5,6.161423387981596,37.02247
-6,Dango,Ouattara,Midfielder,Brentford,6.0,4.945812565939767,29.552868
-7,Marc,Cucurella Saseta,Defender,Chelsea,6.1,4.111041693460374,23.168116
-8,Tyrone,Mings,Defender,Aston Villa,4.5,3.1844016256786527,19.16122
-9,Gabriel,Gudmundsson,Defender,Leeds,4.0,2.7357403664361852,16.548124
-10,Bart,Verbruggen,Goalkeeper,Brighton,4.5,4.066080774579729,24.508963
-11,,,,,,,
-12,,Total,,,83.2,60.9,365.2
+,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
+0,Viktor,Gyökeres,Forward,Arsenal,9.0,8.535174551464262,51.064445,Liverpool,8.127118
+1,Erling,Haaland,Forward,Man City,14.1,7.866760026840936,47.330826,Brighton,8.018151
+2,Igor Thiago,Nascimento Rodrigues,Forward,Brentford,6.0,5.532212870461599,33.389435,Sunderland,5.2159023
+3,Mohamed,Salah,Midfielder,Liverpool,14.5,7.361779803321475,44.69563,Arsenal,6.468967
+4,Bruno,Borges Fernandes,Midfielder,Man Utd,9.0,6.43042957215082,38.830578,Burnley,6.71852
+5,Matt,O'Riley,Midfielder,Brighton,5.5,6.161423387981596,37.02247,Man City,6.395383
+6,Dango,Ouattara,Midfielder,Brentford,6.0,5.030636651175362,30.028618,Sunderland,5.8009524
+7,Marc,Cucurella Saseta,Defender,Chelsea,6.1,4.111041693460374,23.168116,Fulham,4.7922583
+8,Tyrone,Mings,Defender,Aston Villa,4.5,3.183358442215692,19.15757,Crystal Palace,2.7805026
+9,Gabriel,Gudmundsson,Defender,Leeds,4.0,2.7357403664361852,16.548124,Newcastle,2.5372925
+10,Bart,Verbruggen,Goalkeeper,Brighton,4.5,4.066080774579729,24.508963,Man City,3.9385262
+11,,,,,,,,,
+12,,Total,,,83.2,61.0,365.7,,
