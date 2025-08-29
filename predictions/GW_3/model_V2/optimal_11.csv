@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points
-0,Viktor,Gyökeres,Forward,Arsenal,9.0,7.794929549807593,46.104416
-1,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.6,6.4833049320039295,38.334587
-2,Igor Thiago,Nascimento Rodrigues,Forward,Brentford,6.0,6.313718568711054,37.957397
-3,Mohamed,Salah,Midfielder,Liverpool,14.5,8.575885908944267,52.042366
-4,Matt,O'Riley,Midfielder,Brighton,5.5,6.637876783098493,40.384007
-5,Mohammed,Kudus,Midfielder,Spurs,6.6,5.632685161772227,33.770557
-6,Bryan,Mbeumo,Midfielder,Man Utd,8.0,5.160442465827578,30.760582
-7,Riccardo,Calafiori,Defender,Arsenal,5.6,5.333581538427444,33.10033
-8,Jurriën,Timber,Defender,Arsenal,5.6,5.028197765350342,31.551239
-9,Daniel,Muñoz Mejía,Defender,Crystal Palace,5.5,4.781226021902902,28.874084
-10,Nick,Pope,Goalkeeper,Newcastle,5.0,4.141773030871437,24.371754
+0,Viktor,Gyökeres,Forward,Arsenal,9.0,8.083037626175654,48.321167
+1,Hugo,Ekitiké,Forward,Liverpool,8.7,5.9980764616103395,35.78485
+2,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.6,5.768561999003092,34.26087
+3,Mohamed,Salah,Midfielder,Liverpool,14.5,6.6253377596537275,39.21644
+4,Antoine,Semenyo,Midfielder,Bournemouth,7.2,5.796002819424583,34.651295
+5,Mohammed,Kudus,Midfielder,Spurs,6.6,4.915819940112886,29.445488
+6,Bryan,Mbeumo,Midfielder,Man Utd,8.0,4.79740351722354,28.54538
+7,Riccardo,Calafiori,Defender,Arsenal,5.6,5.299794401441301,32.518055
+8,Marc,Cucurella Saseta,Defender,Chelsea,6.1,4.308484440758114,25.319458
+9,Daniel,Muñoz Mejía,Defender,Crystal Palace,5.5,4.224511600676037,25.694954
+10,Bart,Verbruggen,Goalkeeper,Brighton,4.5,4.309414182390485,25.851414
 11,,,,,,,
-12,,Total,,,78.9,65.9,397.3
+12,,Total,,,83.3,60.1,359.6
