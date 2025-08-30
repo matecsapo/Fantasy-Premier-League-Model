@@ -5,6 +5,9 @@ This is an ML model for predicting points and picking players in Fantasy Premier
 **Note - All underlying training/gameweek-by-gameweek data is sourced from [olbauday/FPL-Elo-Insights](https://github.com/olbauday/FPL-Elo-Insights).
 Massive shout out and thank you for their great work!**
 
+## Streamlit Webapp
+  - A minimal app to query model is live at: [https://eagleeyefpl.streamlit.app]
+
 ## Versions
   - V1 - Considerably weaker initial test model
   - V2 - Current/newest + overall strongest model
