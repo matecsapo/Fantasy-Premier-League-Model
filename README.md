@@ -6,7 +6,7 @@ This is an ML model for predicting points and picking players in Fantasy Premier
 Massive shout out and thank you for their great work!**
 
 ## Streamlit Webapp
-  - A minimal app to query model is live at: [https://eagleeyefpl.streamlit.app]
+  - A minimal app to query model is live at: https://eagleeyefpl.streamlit.app
 
 ## Versions
   - V1 - Considerably weaker initial test model
