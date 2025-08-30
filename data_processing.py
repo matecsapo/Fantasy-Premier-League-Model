@@ -25,7 +25,7 @@ def load_stats(season, start_gw, end_gw):
     if season == "2024-2025":
         folder = "playermatchstats"
     elif season == "2025-2026":
-        folder = "By Tournament/Premier League"
+        folder = "By%20Tournament/Premier League"
     gw_stats = []
     for gw in range(start_gw, end_gw + 1):
         this_gw_stats = pd.read_csv(f"{DATA_SOURCE}/data/{season}/{folder}/GW{gw}/playermatchstats.csv")
@@ -69,7 +69,7 @@ def load_fixture_info(season, start_gw, end_gw):
     elif season == "2025-2026":
         gw_matches = []
         for gw in range(start_gw, end_gw + 1):
-            this_gw_matches = pd.read_csv(f"{DATA_SOURCE}/data/2025-2026/By Tournament/Premier League/GW{gw}/matches.csv")
+            this_gw_matches = pd.read_csv(f"{DATA_SOURCE}/data/2025-2026/By%20Tournament/Premier%20League/GW{gw}/matches.csv")
             gw_matches.append(this_gw_matches)
         matches = pd.concat(gw_matches, ignore_index=True)
         matches = matches.sort_values(by="gameweek")

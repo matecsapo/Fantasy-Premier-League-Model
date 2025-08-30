@@ -1,9 +1,9 @@
 import streamlit as st
-from data_processing import DATA_SOURCE, REMOTE_LOCATION
+import data_processing
 from predict import run_predictions
 
 # Set our data source as remote
-DATA_SOURCE = REMOTE_LOCATION
+data_processing.DATA_SOURCE = data_processing.REMOTE_LOCATION
 
 st.set_page_config(page_title="Eagle Eye FPL Model")
 
