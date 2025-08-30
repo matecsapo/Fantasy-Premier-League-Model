@@ -255,7 +255,7 @@ def get_stats_features(season):
         stats[f"{feature}"] = stats.groupby("player_id")[f"{feature.replace('season_', '')}"].transform(lambda x: x.cumsum().shift(fill_value=0))
     normalized_features = STAT_FEATURES[4:]
     for n_feature in normalized_features:
-        stats[f"{n_feature}"] = (stats[f"{n_feature.replace("_per90", "")}"] / stats["season_minutes"]) * 90
+        stats[f"{n_feature}"] = (stats[f"{n_feature.replace('_per90', '')}"] / stats["season_minutes"]) * 90
     
     # FORM-ROLLING-EMA STATS
     ###########
