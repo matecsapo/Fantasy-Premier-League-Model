@@ -131,8 +131,21 @@ def display_predictions(predictions, position, max_cost, optimal_11, horizon, mo
     # Display optimal 11 to file
     optimal_11.to_csv(f"predictions/GW_{gameweek}/model_{model_name}/optimal_11.csv")
 
-# Predicts FPL performance according to specified parameters
-def main():
+# Handles command-line args (for local running with args passed as command-line args)
+def run_predictions(season, gameweek, model, horizon, position, max_cost):
+    # Predict performance accross upcoming [horizon] gws according to specified parameters
+    predictions = predict(season, gameweek, model, horizon)
+
+    # Add performance calculations/metrics
+    predictions = add_calculations(predictions, horizon)
+
+    # Pick best 11
+    optimal_11 = pick_11(predictions)
+
+    # Return generated predictions
+    return predictions, optimal_11
+
+if __name__ == "__main__":
     # command-line arguments specifying behaviour
     parser = argparse.ArgumentParser(description="FPL Prediction Engine")
     parser.add_argument("--season", type=str, default="2025-2026", help="season predicting for")
@@ -141,20 +154,10 @@ def main():
     parser.add_argument("--horizon", type=int, default=6, help="horizon of gws into future to consider when predicting")
     parser.add_argument("--position", type=str, help="Filters to only show predictions for given position")
     parser.add_argument("--max_cost", type=float, help="Filters to only show predictions <= given cost")
-
     args = parser.parse_args()
 
-    # Predict performance accross upcoming [horizon] gws according to specified parameters
-    predictions = predict(args.season, args.gameweek, args.model, args.horizon)
+    # Run predictions
+    predictions, optimal_11 = run_predictions(args.season, args.gameweek, args.model, args.horizon, args.position, args.max_cost)
 
-    # Add performance calculations/metrics
-    predictions = add_calculations(predictions, args.horizon)
-
-    # Pick best 11
-    optimal_11 = pick_11(predictions)
-    
-    # Output all determined info
+    # Display predictions
     display_predictions(predictions, args.position, args.max_cost, optimal_11, args.horizon, args.model, args.gameweek)
-
-if __name__ == "__main__":
-    main()
