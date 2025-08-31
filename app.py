@@ -24,8 +24,8 @@ def get_optimal_11(gw, model, horizon):
 
 # Reruns/refresehes and caches all modelling info/data
 def refresh_modelling():
-    models = ["V2", "V2_ESI"]
-    horizons = [1, 3, 6, 10]
+    models = ["V2"] #["V2", "V2_ESI"]
+    horizons = [6] #[1, 3, 6, 10]
     gw = CURRENT_GAMEWEEK
     for model in models:
         for h in horizons:
