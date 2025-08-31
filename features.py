@@ -270,6 +270,6 @@ def get_stats_features(season):
 #data = data.sort_values(by=["player_id", "gw"])
 #data.to_csv("features.csv")
 
-#data = get_data("2025-2026", 3, 3, 0, False)
+#data = get_data("2025-2026", 4, 4, 0, False)
 #data = data.sort_values(by=["player_id", "gw"])
 #data.to_csv("features.csv") 
