@@ -49,7 +49,45 @@ def add_calculations(predictions, horizon):
     weights = weights / weights.sum()
     weighted_gw_points = predictions[gw_cols].multiply(weights, axis=1)
     predictions["linear_horizon_performance_score"] = weighted_gw_points.sum(axis=1)
+    return predictions
 
+# Formats predictions
+def format_predictions(predictions, horizon):
+    # Order by best-to-worst expected performers over [horizon] upcoming games
+    predictions = predictions.sort_values(by="linear_horizon_performance_score", ascending=False)
+    predictions = predictions.reset_index(drop=True)
+    # Specificy column presence + order
+    horizon_cols = []
+    for i in range(1, horizon + 1):
+        horizon_cols.append(f"opponent_game_{i}")
+        horizon_cols.append(f"predicted_points_game_{i}")
+    info = ["player_id", "first_name", "second_name", "position", "team_name", "now_cost", "linear_horizon_performance_score", "predicted_horizon_points"] \
+                + horizon_cols
+    predictions = predictions[info]
+    return predictions
+
+# Generates model predictions for given parameters
+def run_predictions(season, gameweek, model, horizon):
+    # Predict performance accross upcoming [horizon] gws according to specified parameters
+    predictions = predict(season, gameweek, model, horizon)
+
+    # Add performance calculations/metrics
+    predictions = add_calculations(predictions, horizon)
+
+    # Format data
+    predictions = format_predictions(predictions, horizon)
+
+    # Return generated predictions
+    return predictions
+
+# Filter predictions
+def filter_predictions(predictions, position, max_cost):
+    if position != None:
+        predictions = predictions[predictions["position"] == position]
+    if max_cost != None:
+        predictions = predictions[predictions["now_cost"] <= max_cost]
+    # Reset index for easy visual ordering/ranking viewing
+    predictions = predictions.reset_index(drop=True)
     return predictions
 
 # Picks optimal starting 11 across [horizon] game forecast
@@ -88,8 +126,10 @@ def pick_11(predictions):
     # return players in optimal 11
     selected_ids = [pid for pid, var in x.items() if pulp.value(var) == 1]
     optimal_11 = predictions[predictions['player_id'].isin(selected_ids)].copy()
+    # Format optimal_11
     optimal_11 = optimal_11[['first_name', 'second_name', 'position', 'team_name', 'now_cost', 'linear_horizon_performance_score', "predicted_horizon_points", "opponent_game_1", "predicted_points_game_1"]]
     # order by position, lin_hor_perf_score
+    optimal_11 = optimal_11.copy()
     optimal_11['position'] = pd.Categorical(optimal_11['position'], categories=["Goalkeeper", "Defender", "Midfielder", "Forward"], ordered=True)
     optimal_11 = optimal_11.sort_values(by=["position", "linear_horizon_performance_score"], ascending=False)
     optimal_11 = optimal_11.reset_index(drop=True)
@@ -104,46 +144,16 @@ def pick_11(predictions):
     return optimal_11
 
 # Displays all generated predictions
-def display_predictions(predictions, position, max_cost, optimal_11, horizon, model_name, gameweek):
-    # Order by best-to-worst expected performers over [horizon] upcoming games
-    predictions = predictions.sort_values(by="linear_horizon_performance_score", ascending=False)
-
+def display_predictions(predictions, position, max_cost, optimal_11, model_name, gameweek):
     # Directory for storying predictions
     os.makedirs(f"predictions/GW_{gameweek}/model_{model_name}", exist_ok=True)
-
-    # Save all predictions data to file
-    horizon_cols = []
-    for i in range(1, horizon + 1):
-        horizon_cols.append(f"opponent_game_{i}")
-        horizon_cols.append(f"predicted_points_game_{i}")
-    file_info = ["player_id", "first_name", "second_name", "position", "team_name", "now_cost", "linear_horizon_performance_score", "predicted_horizon_points"] \
-                + horizon_cols
-    file_data = predictions[file_info]
     # Filter to target position +/ price if specified
-    if position != None:
-        file_data = file_data[file_data["position"] == position]
-    if max_cost != None:
-        file_data = file_data[file_data["now_cost"] <= max_cost]
-    # Reset index for easy ranking visual
-    file_data = file_data.reset_index(drop=True)
-    file_data.to_csv(f"predictions/GW_{gameweek}/model_{model_name}/predictions.csv")
+    predictions = filter_predictions(predictions, position, max_cost)
+    # Save predictions to file
+    predictions.to_csv(f"predictions/GW_{gameweek}/model_{model_name}/predictions.csv")
 
     # Display optimal 11 to file
     optimal_11.to_csv(f"predictions/GW_{gameweek}/model_{model_name}/optimal_11.csv")
-
-# Handles command-line args (for local running with args passed as command-line args)
-def run_predictions(season, gameweek, model, horizon, position, max_cost):
-    # Predict performance accross upcoming [horizon] gws according to specified parameters
-    predictions = predict(season, gameweek, model, horizon)
-
-    # Add performance calculations/metrics
-    predictions = add_calculations(predictions, horizon)
-
-    # Pick best 11
-    optimal_11 = pick_11(predictions)
-
-    # Return generated predictions
-    return predictions, optimal_11
 
 if __name__ == "__main__":
     # command-line arguments specifying behaviour
@@ -157,7 +167,12 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     # Run predictions
-    predictions, optimal_11 = run_predictions(args.season, args.gameweek, args.model, args.horizon, args.position, args.max_cost)
+    predictions = run_predictions(args.season, args.gameweek, args.model, args.horizon)
+
+    # Get Optimal 11
+    optimal_11 = pick_11(predictions)
 
     # Display predictions
-    display_predictions(predictions, args.position, args.max_cost, optimal_11, args.horizon, args.model, args.gameweek)
+    display_predictions(predictions, args.position, args.max_cost, optimal_11, args.model, args.gameweek)
+
+    
