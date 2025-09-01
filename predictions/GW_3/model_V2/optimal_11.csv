@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Viktor,Gyökeres,Forward,Arsenal,9.0,7.816741625467936,46.590908,Liverpool,8.004875
-1,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.6,5.793532575879777,34.360332,Fulham,5.914191
-2,Igor Thiago,Nascimento Rodrigues,Forward,Brentford,6.0,5.469117187318347,32.318455,Sunderland,6.246848
-3,Mohamed,Salah,Midfielder,Liverpool,14.5,6.341272195180258,37.538826,Arsenal,5.770282
-4,Matt,O'Riley,Midfielder,Brighton,5.5,5.2550520442780995,31.82969,Man City,5.0693393
-5,Mohammed,Kudus,Midfielder,Spurs,6.6,5.191346872420537,31.130339,Bournemouth,5.08329
-6,Bryan,Mbeumo,Midfielder,Man Utd,8.0,5.136442388807023,30.838663,Burnley,5.7872915
-7,Marc,Cucurella Saseta,Defender,Chelsea,6.1,4.348931176321846,25.500998,Fulham,4.56871
-8,Daniel,Muñoz Mejía,Defender,Crystal Palace,5.5,4.026982931863694,24.440062,Aston Villa,3.8190193
-9,Pedro,Porro Sauceda,Defender,Spurs,5.6,3.8971095425742,23.393469,Bournemouth,3.6108425
-10,Bart,Verbruggen,Goalkeeper,Brighton,4.5,4.331048806508382,25.981222,Man City,4.013065
+0,Viktor,Gyökeres,Forward,Arsenal,9.0,6.145723365602039,37.573406,Liverpool,5.820115
+1,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.6,5.440787610553559,32.281773,Fulham,5.6389346
+2,Richarlison,de Andrade,Forward,Spurs,6.7,5.338644640786307,32.030727,Bournemouth,5.113852
+3,Mohamed,Salah,Midfielder,Liverpool,14.5,7.154770510537283,42.870895,Arsenal,6.566537
+4,Bryan,Mbeumo,Midfielder,Man Utd,8.0,5.482313996269589,32.6247,Burnley,5.9407554
+5,Brennan,Johnson,Midfielder,Spurs,7.1,5.05056347165789,30.410696,Bournemouth,4.4207354
+6,Antoine,Semenyo,Midfielder,Bournemouth,7.3,5.018587430318196,30.267513,Spurs,4.8124256
+7,Marc,Cucurella Saseta,Defender,Chelsea,6.1,4.543152672903878,26.716806,Fulham,4.712431
+8,Tino,Livramento,Defender,Newcastle,5.1,3.7302273114522295,21.546135,Leeds,4.207165
+9,Pedro,Porro Sauceda,Defender,Spurs,5.6,3.7102801005045567,22.235329,Bournemouth,3.384456
+10,Nick,Pope,Goalkeeper,Newcastle,5.0,4.502539668764387,26.144432,Leeds,4.9573393
 11,,,,,,,,,
-12,,Total,,,78.9,57.6,343.9,,
+12,,Total,,,82.0,56.1,334.7,,
