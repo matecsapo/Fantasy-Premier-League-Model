@@ -1,0 +1,14 @@
+,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
+0,Jean-Philippe,Mateta,Forward,Crystal Palace,7.5,6.389930498032342,37.06935,Sunderland,7.1782436
+1,Viktor,Gyökeres,Forward,Arsenal,9.0,5.697799841562907,34.639114,Nott'm Forest,5.4002786
+2,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.7,5.194335960206532,30.993519,Brentford,5.287833
+3,Mohamed,Salah,Midfielder,Liverpool,14.5,6.346194176446825,37.092686,Burnley,7.2786083
+4,Bruno,Borges Fernandes,Midfielder,Man Utd,9.0,5.364646230425152,32.60051,Man City,5.140323
+5,Cody,Gakpo,Midfielder,Liverpool,7.6,4.994369983673096,29.158792,Burnley,5.733469
+6,Mohammed,Kudus,Midfielder,Spurs,6.6,4.993180093311128,30.07993,West Ham,4.993882
+7,Pedro,Porro Sauceda,Defender,Spurs,5.6,3.977131571088518,23.845398,West Ham,4.131824
+8,Rayan,Aït-Nouri,Defender,Man City,6.0,3.9298328785669234,23.482811,Man Utd,4.527659
+9,Fabian,Schär,Defender,Newcastle,5.5,3.2667376086825417,19.704926,Wolves,3.6460102
+10,Caoimhín,Kelleher,Goalkeeper,Brentford,4.5,4.237816061292376,25.287468,Chelsea,4.11297
+11,,,,,,,,,
+12,,Total,,,83.5,54.4,324.0,,

@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Viktor,Gyökeres,Forward,Arsenal,9.0,8.535174551464262,51.064445,Liverpool,8.127118
-1,Erling,Haaland,Forward,Man City,14.1,7.866760026840936,47.330826,Brighton,8.018151
-2,Igor Thiago,Nascimento Rodrigues,Forward,Brentford,6.0,5.532212870461599,33.389435,Sunderland,5.2159023
-3,Mohamed,Salah,Midfielder,Liverpool,14.5,7.361779803321475,44.69563,Arsenal,6.468967
-4,Bruno,Borges Fernandes,Midfielder,Man Utd,9.0,6.43042957215082,38.830578,Burnley,6.71852
-5,Matt,O'Riley,Midfielder,Brighton,5.5,6.161423387981596,37.02247,Man City,6.395383
-6,Dango,Ouattara,Midfielder,Brentford,6.0,5.030636651175362,30.028618,Sunderland,5.8009524
-7,Marc,Cucurella Saseta,Defender,Chelsea,6.1,4.111041693460374,23.168116,Fulham,4.7922583
-8,Tyrone,Mings,Defender,Aston Villa,4.5,3.1723070598783947,19.095682,Crystal Palace,2.7650306
-9,Gabriel,Gudmundsson,Defender,Leeds,4.0,2.7357403664361852,16.548124,Newcastle,2.5372925
-10,Bart,Verbruggen,Goalkeeper,Brighton,4.5,4.066080774579729,24.508963,Man City,3.9385262
+0,Viktor,Gyökeres,Forward,Arsenal,9.0,8.950274331229073,53.104836,Liverpool,8.762421
+1,Ollie,Watkins,Forward,Aston Villa,8.9,6.2017830667041585,37.17401,Crystal Palace,6.0669093
+2,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.6,5.668036460876464,33.345913,Fulham,5.8876824
+3,Mohamed,Salah,Midfielder,Liverpool,14.5,7.3382744789123535,44.442505,Arsenal,6.6577163
+4,Matt,O'Riley,Midfielder,Brighton,5.5,6.351306892576671,38.102093,Man City,6.6004753
+5,Bruno,Borges Fernandes,Midfielder,Man Utd,9.0,5.241848605019705,31.863405,Burnley,5.4113026
+6,Brennan,Johnson,Midfielder,Spurs,7.1,4.748906975700741,28.531239,Bournemouth,4.615217
+7,Marc,Cucurella Saseta,Defender,Chelsea,6.1,4.385023775554838,24.863194,Fulham,5.0358825
+8,Keane,Lewis-Potter,Defender,Brentford,5.0,3.4183569068000432,20.254358,Sunderland,3.742571
+9,Pedro,Porro Sauceda,Defender,Spurs,5.6,3.4015218643915084,20.348423,Bournemouth,3.1905968
+10,Bart,Verbruggen,Goalkeeper,Brighton,4.5,3.8512858549753823,23.254652,Man City,3.7030435
 11,,,,,,,,,
-12,,Total,,,83.2,61.0,365.7,,
+12,,Total,,,82.8,59.6,355.3,,
