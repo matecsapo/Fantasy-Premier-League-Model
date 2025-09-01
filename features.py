@@ -37,7 +37,7 @@ STAT_FEATURES = [
     "season_xgot_per90",
     "season_shots_on_target_per90",
     "season_chances_created_per90",
-    "season_penalties_scored_per90",
+    #"season_penalties_scored_per90",
 
     # Passing and progression metrics
     "season_touches_per90",
