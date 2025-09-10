@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Viktor,Gyökeres,Forward,Arsenal,9.0,6.436574073064894,39.006428,Nott'm Forest,6.048573
-1,Chris,Wood,Forward,Nott'm Forest,7.7,5.658259164719355,34.089355,Arsenal,5.1711826
-2,Jean-Philippe,Mateta,Forward,Crystal Palace,7.5,4.981654133115496,28.51209,Sunderland,5.535378
-3,Mohamed,Salah,Midfielder,Liverpool,14.5,6.4742771557399195,37.704197,Burnley,7.631248
-4,Cody,Gakpo,Midfielder,Liverpool,7.6,5.829541251772925,34.36565,Burnley,6.3983855
-5,Bryan,Mbeumo,Midfielder,Man Utd,8.1,5.20694537389846,31.580992,Man City,4.877602
-6,Brennan,Johnson,Midfielder,Spurs,7.1,4.599259626297724,27.024452,West Ham,4.9673233
-7,Rayan,Aït-Nouri,Defender,Man City,6.0,4.1751483622051415,24.957691,Man Utd,4.757448
-8,Pedro,Porro Sauceda,Defender,Spurs,5.6,3.856627214522589,23.05571,West Ham,4.0751576
-9,Fabian,Schär,Defender,Newcastle,5.5,3.640516928264072,21.730547,Wolves,4.0005217
-10,Caoimhín,Kelleher,Goalkeeper,Brentford,4.5,4.447179612659273,26.668518,Chelsea,4.12552
+0,Viktor,Gyökeres,Forward,Arsenal,9.0,7.546944391159784,45.699303,Nott'm Forest,7.2742457
+1,Chris,Wood,Forward,Nott'm Forest,7.7,6.0369739305405385,35.82756,Arsenal,5.5611324
+2,Jean-Philippe,Mateta,Forward,Crystal Palace,7.5,4.906710658754621,28.146086,Sunderland,5.5050297
+3,Mohamed,Salah,Midfielder,Liverpool,14.5,6.329749720437186,36.830814,Burnley,7.476914
+4,Cody,Gakpo,Midfielder,Liverpool,7.7,5.63685453505743,33.17186,Burnley,6.244051
+5,Bryan,Mbeumo,Midfielder,Man Utd,8.1,5.00998794464838,30.425238,Man City,4.60846
+6,Brennan,Johnson,Midfielder,Spurs,7.1,4.499630167370751,26.369556,West Ham,4.801499
+7,Riccardo,Calafiori,Defender,Arsenal,5.7,4.078078269958496,24.265396,Nott'm Forest,4.302923
+8,Rayan,Aït-Nouri,Defender,Man City,6.0,4.049477134432111,24.324066,Man Utd,4.355564
+9,Pedro,Porro Sauceda,Defender,Spurs,5.6,3.7264670530954995,22.092394,West Ham,3.8432162
+10,Caoimhín,Kelleher,Goalkeeper,Brentford,4.5,4.1321149212973465,24.7123,Chelsea,3.8962097
 11,,,,,,,,,
-12,,Total,,,83.1,55.3,328.7,,
+12,,Total,,,83.4,56.0,331.9,,

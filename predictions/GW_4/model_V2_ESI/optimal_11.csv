@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,14.1,7.3479692822410945,44.192104,Man Utd,7.491237
-1,Chris,Wood,Forward,Nott'm Forest,7.7,5.850507690792992,34.732994,Arsenal,5.0513353
-2,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.7,5.543692611512683,33.52214,Brentford,5.547794
-3,Mohamed,Salah,Midfielder,Liverpool,14.5,6.942946411314465,42.18343,Burnley,6.416994
-4,Bryan,Mbeumo,Midfielder,Man Utd,8.1,5.426505474817184,32.79897,Man City,5.1648455
-5,Estêvão,Almeida de Oliveira Gonçalves,Midfielder,Chelsea,6.5,4.4437505177089145,27.530901,Brentford,4.3871164
-6,Hwang,Hee-chan,Midfielder,Wolves,5.9,4.125898088727679,25.346085,Newcastle,3.8148038
-7,El Hadji Malick,Diouf,Defender,West Ham,4.5,3.6133781387692405,22.088356,Spurs,3.7542174
-8,Rayan,Aït-Nouri,Defender,Man City,6.0,3.530596017837524,21.032753,Man Utd,3.998577
-9,Maxime,Estève,Defender,Burnley,4.0,2.719988028208415,17.526524,Liverpool,2.401326
-10,Caoimhín,Kelleher,Goalkeeper,Brentford,4.5,4.3976012638637,26.031319,Chelsea,4.2916145
+0,Erling,Haaland,Forward,Man City,14.1,7.362422852289108,44.29328,Man Utd,7.429096
+1,Chris,Wood,Forward,Nott'm Forest,7.7,6.090039048876081,36.12883,Arsenal,5.172605
+2,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.7,5.596513975234259,33.898544,Brentford,5.7692413
+3,Mohamed,Salah,Midfielder,Liverpool,14.5,6.679648921603249,40.801003,Burnley,6.2590637
+4,Bryan,Mbeumo,Midfielder,Man Utd,8.1,5.510633059910365,33.348305,Man City,5.137556
+5,Estêvão,Almeida de Oliveira Gonçalves,Midfielder,Chelsea,6.5,4.468461944943383,27.680794,Brentford,4.6062727
+6,Hwang,Hee-chan,Midfielder,Wolves,5.9,4.100012767882574,25.185848,Newcastle,3.8087816
+7,Jurriën,Timber,Defender,Arsenal,5.6,3.6557893071855814,21.631742,Nott'm Forest,4.085375
+8,El Hadji Malick,Diouf,Defender,West Ham,4.5,3.3131219546000157,20.207754,Spurs,3.4846318
+9,Maxime,Estève,Defender,Burnley,4.0,2.905990793591454,18.293655,Liverpool,2.623898
+10,Caoimhín,Kelleher,Goalkeeper,Brentford,4.5,4.291230633145287,25.297398,Chelsea,4.197425
 11,,,,,,,,,
-12,,Total,,,83.5,53.9,327.0,,
+12,,Total,,,83.1,54.0,326.8,,
