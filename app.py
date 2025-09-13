@@ -24,7 +24,7 @@ def get_optimal_11(gw, model, horizon):
 
 # Reruns/refresehes and caches all modelling info/data
 def refresh_modelling():
-    models = ["V2"] #["V2", "V2_ESI"]
+    models = ["V2", "V2_5"] #["V2", "V2_ESI"]
     horizons = [6] #[1, 3, 6, 10]
     gw = CURRENT_GAMEWEEK
     for model in models:
@@ -60,7 +60,7 @@ st.title("Eagle Eye FPL Model")
 # --- Sidebar - Model Parameters ---
 st.sidebar.header("⚙️ Model Parameters")
 gameweek = st.sidebar.number_input("Gameweek", 1, 38, CURRENT_GAMEWEEK)
-model_name = st.sidebar.selectbox("Model", ["V2", "V2_ESI"], index=0)
+model_name = st.sidebar.selectbox("Model", ["V2", "V2_5", "V2_ESI"], index=0)
 horizon = st.sidebar.slider("Horizon (GWs)", 1, 15, 6)
 
 # --- Tabs ---
