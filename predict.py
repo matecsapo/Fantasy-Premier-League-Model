@@ -6,6 +6,7 @@ import os
 from features import get_data
 from model_V2 import MODEL_V2_FEATURES
 from model_V2_ESI import MODEL_V2_ESI_FEATURES
+from model_V2_5 import MODEL_V2_5_FEATURES
 import warnings
 warnings.simplefilter(action="ignore", category=FutureWarning)
 import pulp
@@ -13,12 +14,14 @@ import pulp
 # Predicts FPL performance for upcoming [horizon] gws according to specified parameters
 def predict(season, gameweek, model_name, horizon):
     # Load desired model
-    model = joblib.load(f"models/{model_name}.pkl")
+    model = joblib.load(f"models/{model_name}/{model_name}.pkl")
     chosen_model_feature_set = []
     if model_name == "V2":
         chosen_model_feature_set = MODEL_V2_FEATURES
     elif model_name == "V2_ESI":
         chosen_model_feature_set = MODEL_V2_ESI_FEATURES
+    elif model_name == "V2_5":
+        chosen_model_feature_set = MODEL_V2_5_FEATURES
     # List of players + identifying info to predict for (all)
     predictions = get_data(season, gameweek, gameweek, 0, False)
     predictions = predictions[["player_id", "first_name", "second_name", "position", "team_name", "now_cost"]]

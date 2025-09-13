@@ -1,5 +1,5 @@
 import pandas as pd
-from features import get_data, POSITION_FEATURE, EARLY_SEASON_INTELLIGENCE, STAT_FEATURES, FPL_FEATURES, TEAM_FEATURES, FIXTURE_FEATURES, LABEL
+from features import get_data, POSITION_FEATURE, STAT_FEATURES, FPL_FEATURES, TEAM_FEATURES, FIXTURE_FEATURES, LABEL
 from xgboost import XGBRegressor
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
@@ -10,9 +10,34 @@ import os
 
 
 # MODEL CONFIG
-MODEL_NAME = "V2_ESI"
+MODEL_NAME = "V2_5"
 
-MODEL_V2_ESI_FEATURES = POSITION_FEATURE + EARLY_SEASON_INTELLIGENCE + STAT_FEATURES + FPL_FEATURES + TEAM_FEATURES + FIXTURE_FEATURES
+MODEL_V2_5_FEATURES = [
+    # Position Features
+    "position_Goalkeeper", "position_Defender", "position_Midfielder", "position_Forward",
+
+    # (Under)Stat features
+    "season_xg_per90",
+    "season_xa_per90",
+    "season_team_goals_conceded_per90",
+    "season_xgot_faced_per90",
+    "season_saves_per90",
+
+    # Team features
+    "team_fixture_elo",
+
+    # Fixture features
+    "is_home",
+    "opponent_strength",
+    "opponent_fixture_elo",
+    "fixture_elo_difference",
+
+    # FPL features
+    "status_a", "status_d", "status_i", "status_u",
+    "chance_of_playing_this_round",
+    "form",
+    "points_per_game",
+]
 
 NUM_ESTIMATORS = 200
 
@@ -38,13 +63,13 @@ def train_model(train_data):
         objective='reg:squarederror',
         random_state=42
     )
-    model.fit(train_data[MODEL_V2_ESI_FEATURES], train_data[LABEL])
+    model.fit(train_data[MODEL_V2_5_FEATURES], train_data[LABEL])
     return model
 
 # Evaluates the model
 def evaluate_model(model, test_data):
     # Make predictions
-    predictions = model.predict(test_data[MODEL_V2_ESI_FEATURES])
+    predictions = model.predict(test_data[MODEL_V2_5_FEATURES])
     results = pd.DataFrame({
         "player_name" : test_data["second_name"],
         "position" : test_data["position"],
@@ -103,7 +128,7 @@ def save_model(model):
 # Trains an XGBoost Regressor model, tests it, and save it to models/
 def main():
     # Get data - we generally use gw >= 3 to have recent form data to use
-    data = get_data("2024-2025", 1, 38, 0, True)
+    data = get_data("2024-2025", 4, 38, 0, True)
 
     # Keep only rows with valid points label
     data = data[data[LABEL].notna()]
