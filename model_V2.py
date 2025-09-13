@@ -6,6 +6,7 @@ from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 from scipy.stats import spearmanr
 import matplotlib.pyplot as plt
 import joblib
+import os
 
 
 # MODEL CONFIG
@@ -58,19 +59,34 @@ def evaluate_model(model, test_data):
     })
     results = results.sort_values(by="true_points", ascending=False)
 
+    # Folder into which to store the results
+    os.makedirs(f"models/{MODEL_NAME}/", exist_ok=True)
+
     # Calculate basic regression stats
     mse = mean_squared_error(results["true_points"], results["predicted_points"])
     mae = mean_absolute_error(results["true_points"], results["predicted_points"])
     r2 = r2_score(results["true_points"], results["predicted_points"])
     rho, pval = spearmanr(results["true_points"], results["predicted_points"])
-    pd.set_option('display.max_rows', None)
-    print("EVALUATION METRICS:")
-    print(f"True Average Points: {results['true_points'].mean():.4f}")
-    print(f"Predicted Average Points: {results['predicted_points'].mean():.4f}")
-    print(f"Mean Squared Error (MSE): {mse:.4f}")
-    print(f"Mean Absolute Error (MAE): {mae:.4f}")
-    print(f"R^2 Score: {r2:.4f}")
-    print(f"Spearman Coefficient: {rho:.4f}")
+    evaluation_metrics = pd.DataFrame({
+        "Metric": [
+            "True Average Points",
+            "Predicted Average Points",
+            "Mean Squared Error (MSE)",
+            "Mean Absolute Error (MAE)",
+            "R^2 Score",
+            "Spearman Coefficient"
+        ],
+        "Value": [
+            results['true_points'].mean(),
+            results['predicted_points'].mean(),
+            mse,
+            mae,
+            r2,
+            rho
+        ]
+    })
+    evaluation_metrics["Value"] = evaluation_metrics["Value"].round(4)
+    evaluation_metrics.to_csv(f"models/{MODEL_NAME}/Evaluation_Metrics.csv", index=False)
 
     # Most important features
     importance_dict = model.get_booster().get_score(importance_type='gain')  # gain is usually more informative
@@ -78,29 +94,11 @@ def evaluate_model(model, test_data):
         'Feature': list(importance_dict.keys()),
         'Importance': list(importance_dict.values())
     }).sort_values(by='Importance', ascending=False)
-    print("\nTop 20 Important Features:")
-    print(importance_df.head(20))
-    
-    # Print a comparison table
-    print("\nTRUE VS. PREDICTED:")
-    print(results[["player_name", "position", "team_name", "opponent_name", "gw", "status", "form", "minutes_played", "true_points", "predicted_points"]].head(100))
-
-    # Scatter plot
-    plt.figure(figsize=(8,6))
-    plt.scatter(results["true_points"], results["predicted_points"], alpha=0.5)
-    plt.plot([results["true_points"].min(), results["true_points"].max()],
-            [results["true_points"].min(), results["true_points"].max()],
-            color='red', linestyle='--', label='Perfect Prediction')
-    plt.xlabel('True Points')
-    plt.ylabel('Predicted Points')
-    plt.title('Predicted vs True FPL Points')
-    plt.legend()
-    plt.show()
-
+    importance_df.head(20).to_csv(f"models/{MODEL_NAME}/Feature_Importances.csv")
 
 # Saves the model into models/
 def save_model(model):
-    joblib.dump(model, f"models/{MODEL_NAME}.pkl")
+    joblib.dump(model, f"models/{MODEL_NAME}/{MODEL_NAME}.pkl")
 
 # Trains an XGBoost Regressor model, tests it, and save it to models/
 def main():
