@@ -34,10 +34,11 @@ MODEL_V2_5_FEATURES = [
 
     # FPL features
     "now_cost",
+    "selected_by_percent",
     "status_a", "status_d", "status_i", "status_u",
     "chance_of_playing_this_round",
     "form",
-    "points_per_game",
+    "points_per_game"
 ]
 
 NUM_ESTIMATORS = 200
