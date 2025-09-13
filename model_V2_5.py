@@ -33,6 +33,7 @@ MODEL_V2_5_FEATURES = [
     "fixture_elo_difference",
 
     # FPL features
+    "now_cost",
     "status_a", "status_d", "status_i", "status_u",
     "chance_of_playing_this_round",
     "form",

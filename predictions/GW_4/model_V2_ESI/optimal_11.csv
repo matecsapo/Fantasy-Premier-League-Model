@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
 0,Erling,Haaland,Forward,Man City,14.1,7.362422852289108,44.29328,Man Utd,7.429096
-1,Chris,Wood,Forward,Nott'm Forest,7.7,6.090039048876081,36.12883,Arsenal,5.172605
+1,Chris,Wood,Forward,Nott'm Forest,7.7,6.15399864741734,36.51259,Arsenal,5.2365646
 2,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.7,5.596513975234259,33.898544,Brentford,5.7692413
 3,Mohamed,Salah,Midfielder,Liverpool,14.5,6.679648921603249,40.801003,Burnley,6.2590637
 4,Bryan,Mbeumo,Midfielder,Man Utd,8.1,5.510633059910365,33.348305,Man City,5.137556
-5,Estêvão,Almeida de Oliveira Gonçalves,Midfielder,Chelsea,6.5,4.468461944943383,27.680794,Brentford,4.6062727
+5,Estêvão,Almeida de Oliveira Gonçalves,Midfielder,Chelsea,6.5,4.487093880063012,27.792583,Brentford,4.6249046
 6,Hwang,Hee-chan,Midfielder,Wolves,5.9,4.100012767882574,25.185848,Newcastle,3.8087816
 7,Jurriën,Timber,Defender,Arsenal,5.6,3.6557893071855814,21.631742,Nott'm Forest,4.085375
-8,El Hadji Malick,Diouf,Defender,West Ham,4.5,3.3131219546000157,20.207754,Spurs,3.4846318
-9,Maxime,Estève,Defender,Burnley,4.0,2.905990793591454,18.293655,Liverpool,2.623898
+8,El Hadji Malick,Diouf,Defender,West Ham,4.5,3.2809960047403965,20.017557,Spurs,3.449946
+9,Maxime,Estève,Defender,Burnley,4.0,2.8482553845360163,17.948439,Liverpool,2.566436
 10,Caoimhín,Kelleher,Goalkeeper,Brentford,4.5,4.291230633145287,25.297398,Chelsea,4.197425
 11,,,,,,,,,
-12,,Total,,,83.1,54.0,326.8,,
+12,,Total,,,83.1,54.0,326.7,,
