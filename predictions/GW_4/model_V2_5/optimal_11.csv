@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.7,5.046323526473271,32.030785,Brentford,4.682622
-1,Chris,Wood,Forward,Nott'm Forest,7.7,4.92003701982044,28.226736,Arsenal,4.0956297
-2,Viktor,Gyökeres,Forward,Arsenal,9.0,4.553772585732596,27.525883,Nott'm Forest,4.8968835
-3,Jack,Grealish,Midfielder,Everton,6.7,6.037511484963553,36.55449,Aston Villa,6.242625
-4,Josh,Cullen,Midfielder,Burnley,5.0,4.5205458005269366,27.693941,Liverpool,4.244174
-5,Cody,Gakpo,Midfielder,Liverpool,7.7,4.283898739587693,26.251152,Burnley,4.2539997
-6,Riccardo,Calafiori,Defender,Arsenal,5.7,6.574358440580822,38.942413,Nott'm Forest,7.1780124
-7,Trevoh,Chalobah,Defender,Chelsea,5.1,6.548655419122603,40.388348,Brentford,6.1225967
-8,Jurriën,Timber,Defender,Arsenal,5.6,5.8607278778439476,35.137794,Nott'm Forest,6.386722
-9,Josh,Acheampong,Defender,Chelsea,4.0,4.973860422770183,28.581894,Brentford,5.034677
-10,José,Malheiro de Sá,Goalkeeper,Wolves,4.5,5.347082138061523,32.506424,Newcastle,5.0827594
+0,Jarrod,Bowen,Forward,West Ham,7.8,5.556969279334658,33.35713,Spurs,5.902805
+1,Viktor,Gyökeres,Forward,Arsenal,9.0,5.32028461637951,32.229465,Nott'm Forest,5.6715
+2,Chris,Wood,Forward,Nott'm Forest,7.7,4.210378249486287,24.912928,Arsenal,3.4205968
+3,Mohamed,Salah,Midfielder,Liverpool,14.5,6.0037544795445035,35.232445,Burnley,7.036064
+4,Bruno,Borges Fernandes,Midfielder,Man Utd,9.0,4.766344479152134,30.168285,Man City,3.922844
+5,Cody,Gakpo,Midfielder,Liverpool,7.7,4.459144501459031,26.844868,Burnley,4.812629
+6,Mohammed,Kudus,Midfielder,Spurs,6.6,3.9273663134801953,22.84616,West Ham,4.3695917
+7,Riccardo,Calafiori,Defender,Arsenal,5.7,4.742664643696376,28.761269,Nott'm Forest,4.9928575
+8,Gabriel,dos Santos Magalhães,Defender,Arsenal,6.1,4.732387747083392,28.508316,Nott'm Forest,5.0856724
+9,Gabriel,Gudmundsson,Defender,Leeds,4.0,3.7251808643341064,22.68266,Fulham,3.5422277
+10,Robert,Lynch Sánchez,Goalkeeper,Chelsea,5.0,3.5088231960932412,19.531374,Brentford,4.099405
 11,,,,,,,,,
-12,,Total,,,68.7,58.7,353.8,,
+12,,Total,,,83.1,51.0,305.1,,
