@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Viktor,Gyökeres,Forward,Arsenal,9.0,7.981263955434162,48.228115,Man City,7.9195895
-1,Chris,Wood,Forward,Nott'm Forest,7.6,5.547223159245083,32.285088,Burnley,5.8792543
-2,Ollie,Watkins,Forward,Aston Villa,8.8,5.133209410167874,29.087,Sunderland,5.671611
-3,Mohamed,Salah,Midfielder,Liverpool,14.5,6.510818912869407,39.080315,Everton,6.4346614
-4,Mohammed,Kudus,Midfielder,Spurs,6.6,5.405591056460426,32.308388,Brighton,5.0512805
-5,Jack,Grealish,Midfielder,Everton,6.8,4.9922178359258735,32.14293,Liverpool,4.179632
-6,Antoine,Semenyo,Midfielder,Bournemouth,7.5,4.952042170933314,29.443733,Newcastle,4.6456914
-7,Marc,Cucurella Saseta,Defender,Chelsea,6.2,4.2190299942379905,25.528648,Man Utd,4.409238
-8,Riccardo,Calafiori,Defender,Arsenal,5.7,3.9199590228852768,23.215616,Man City,4.1687565
-9,Pedro,Porro Sauceda,Defender,Spurs,5.6,3.6350847652980263,21.298183,Brighton,3.3485909
-10,Matz,Sels,Goalkeeper,Nott'm Forest,5.0,4.0346093745458695,23.702013,Burnley,4.4971495
+0,Viktor,Gyökeres,Forward,Arsenal,9.0,7.317507811955044,44.115334,Man City,7.3703322
+1,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.7,5.860490753537132,35.476227,Man Utd,5.9076815
+2,Chris,Wood,Forward,Nott'm Forest,7.6,5.712903749375116,33.160564,Burnley,6.102765
+3,Mohamed,Salah,Midfielder,Liverpool,14.5,6.416897296905517,38.43673,Everton,6.5952406
+4,Mohammed,Kudus,Midfielder,Spurs,6.6,5.318427744365874,31.68721,Brighton,5.0762033
+5,Bryan,Mbeumo,Midfielder,Man Utd,8.1,5.034463678087508,30.014444,Chelsea,4.733041
+6,Antoine,Semenyo,Midfielder,Bournemouth,7.5,4.9877612477257145,29.67804,Newcastle,4.6190953
+7,Marc,Cucurella Saseta,Defender,Chelsea,6.2,4.228430339268275,25.234203,Man Utd,4.5933523
+8,Jurriën,Timber,Defender,Arsenal,5.7,3.8746624447050553,23.331848,Man City,4.0569043
+9,Daniel,Muñoz Mejía,Defender,Crystal Palace,5.6,3.8577503817422047,23.448023,West Ham,4.2585573
+10,Matz,Sels,Goalkeeper,Nott'm Forest,5.0,4.1531450634910945,24.282875,Burnley,4.6834993
 11,,,,,,,,,
-12,,Total,,,83.3,56.3,336.3,,
+12,,Total,,,83.5,56.8,338.9,,
