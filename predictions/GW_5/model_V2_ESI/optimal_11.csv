@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,14.1,6.964643274034772,42.30955,Arsenal,5.8436766
-1,Chris,Wood,Forward,Nott'm Forest,7.6,6.365769227345784,36.754753,Burnley,6.633324
-2,Jarrod,Bowen,Forward,West Ham,7.8,6.167908146267846,37.2125,Crystal Palace,6.1388636
-3,Bryan,Mbeumo,Midfielder,Man Utd,8.1,5.393460273742676,32.083435,Chelsea,5.0371647
-4,Jack,Grealish,Midfielder,Everton,6.8,4.930655910855247,30.785923,Liverpool,4.872993
-5,Bruno,Borges Fernandes,Midfielder,Man Utd,9.0,4.703187715439569,28.217627,Chelsea,4.044548
-6,Florian,Wirtz,Midfielder,Liverpool,8.4,4.582751569293794,27.583921,Everton,4.581702
-7,Benjamin,White,Defender,Arsenal,5.4,4.37401378722418,26.00381,Man City,4.568676
-8,Daniel,Muñoz Mejía,Defender,Crystal Palace,5.6,3.744007371720813,22.04726,West Ham,4.3097553
-9,El Hadji Malick,Diouf,Defender,West Ham,4.4,3.5535060224078947,21.471926,Crystal Palace,3.5194519
+0,Erling,Haaland,Forward,Man City,14.2,6.964643274034772,42.30955,Arsenal,5.8436766
+1,Chris,Wood,Forward,Nott'm Forest,7.6,6.330232711065383,36.6055,Burnley,6.633324
+2,Jarrod,Bowen,Forward,West Ham,7.7,6.182755674634661,37.29045,Crystal Palace,6.1388636
+3,Bryan,Mbeumo,Midfielder,Man Utd,8.1,5.417748087928408,32.186275,Chelsea,5.086505
+4,Jack,Grealish,Midfielder,Everton,6.8,4.939800171625046,30.908688,Liverpool,4.872993
+5,Bruno,Borges Fernandes,Midfielder,Man Utd,9.0,4.656652041843959,27.961412,Chelsea,4.0683556
+6,Mohammed,Kudus,Midfielder,Spurs,6.6,4.482004756019228,26.64993,Brighton,4.3778276
+7,Benjamin,White,Defender,Arsenal,5.4,4.36238838377453,26.053988,Man City,4.5641155
+8,Daniel,Muñoz Mejía,Defender,Crystal Palace,5.6,3.753851311547415,22.150621,West Ham,4.3097553
+9,El Hadji Malick,Diouf,Defender,West Ham,4.4,3.5683535053616477,21.549873,Crystal Palace,3.5194519
 10,Caoimhín,Kelleher,Goalkeeper,Brentford,4.5,4.141435804821196,24.21312,Fulham,4.3339043
 11,,,,,,,,,
-12,,Total,,,81.7,54.9,328.7,,
+12,,Total,,,79.9,54.8,327.9,,
