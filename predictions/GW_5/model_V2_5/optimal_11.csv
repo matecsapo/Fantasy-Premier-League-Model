@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,14.1,7.183644294738769,44.01837,Arsenal,6.604
-1,Jarrod,Bowen,Forward,West Ham,7.8,6.197222528003511,37.401005,Crystal Palace,6.1074915
-2,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.7,5.121921448480515,30.847214,Man Utd,5.6542406
-3,Mohamed,Salah,Midfielder,Liverpool,14.5,8.23749796549479,49.97615,Everton,8.07462
-4,Bruno,Borges Fernandes,Midfielder,Man Utd,9.0,5.3071483203342975,31.876263,Chelsea,4.152618
-5,Cody,Gakpo,Midfielder,Liverpool,7.7,4.776011580512637,29.145332,Everton,4.7705812
-6,Jurriën,Timber,Defender,Arsenal,5.7,4.8745493207659045,28.857347,Man City,5.0420837
-7,Ezri,Konsa Ngoyo,Defender,Aston Villa,4.5,3.494042493048168,18.307953,Sunderland,4.2330236
-8,Reinildo,Mandava,Defender,Sunderland,4.0,3.176045133954003,18.769722,Aston Villa,3.1521173
-9,El Hadji Malick,Diouf,Defender,West Ham,4.4,3.150285561879475,18.95779,Crystal Palace,3.2237792
-10,Martin,Dúbravka,Goalkeeper,Burnley,4.0,3.216959499177478,19.89215,Nott'm Forest,2.929378
+0,Erling,Haaland,Forward,Man City,14.1,7.11789135705857,43.609005,Arsenal,6.7323227
+1,Jarrod,Bowen,Forward,West Ham,7.8,6.11778820128668,36.844967,Crystal Palace,6.1074915
+2,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.8,5.001357532682873,30.093231,Man Utd,5.523982
+3,Mohamed,Salah,Midfielder,Liverpool,14.5,8.161580131167456,49.152534,Everton,8.07462
+4,Cody,Gakpo,Midfielder,Liverpool,7.7,4.687811193012056,28.219229,Everton,4.7705812
+5,Morgan,Gibbs-White,Midfielder,Nott'm Forest,7.5,4.605728001821609,26.375904,Burnley,4.871381
+6,Lucas,Tolentino Coelho de Lima,Midfielder,West Ham,5.9,3.8447492236182796,22.943022,Crystal Palace,3.931296
+7,Jurriën,Timber,Defender,Arsenal,5.7,4.653018020448231,27.56231,Man City,4.8522186
+8,Ezri,Konsa Ngoyo,Defender,Aston Villa,4.5,3.529315068608238,18.483295,Sunderland,4.322869
+9,Reinildo,Mandava,Defender,Sunderland,4.0,3.1957116694677445,18.891056,Aston Villa,3.1521173
+10,Martin,Dúbravka,Goalkeeper,Burnley,4.0,3.2986547833397273,20.130901,Nott'm Forest,3.228135
 11,,,,,,,,,
-12,,Total,,,83.4,54.7,328.0,,
+12,,Total,,,83.5,54.2,322.3,,
