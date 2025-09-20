@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Viktor,Gyökeres,Forward,Arsenal,9.0,7.124735219138009,43.070488,Man City,7.152531
-1,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.8,5.911920002528598,35.670628,Man Utd,5.961688
-2,Chris,Wood,Forward,Nott'm Forest,7.6,5.734413283211845,33.245018,Burnley,6.102765
+0,Viktor,Gyökeres,Forward,Arsenal,9.0,7.125057878948393,43.071842,Man City,7.152531
+1,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.8,5.856722423008509,35.407845,Man Utd,5.9076815
+2,Chris,Wood,Forward,Nott'm Forest,7.6,5.759793281555176,33.378265,Burnley,6.102765
 3,Mohamed,Salah,Midfielder,Liverpool,14.5,6.253941399710519,37.56627,Everton,6.3082857
-4,Mohammed,Kudus,Midfielder,Spurs,6.6,5.380082039606004,32.042633,Brighton,5.134471
+4,Mohammed,Kudus,Midfielder,Spurs,6.6,5.3835836592174715,32.0794,Brighton,5.134471
 5,Cody,Gakpo,Midfielder,Liverpool,7.7,5.11997331891741,30.633163,Everton,5.31765
-6,Antoine,Semenyo,Midfielder,Bournemouth,7.5,4.980062507447743,29.656048,Newcastle,4.5896726
-7,Marc,Cucurella Saseta,Defender,Chelsea,6.2,4.349864982423329,25.874336,Man Utd,4.64736
-8,Daniel,Muñoz Mejía,Defender,Crystal Palace,5.6,3.891023034141177,23.296188,West Ham,4.2585573
-9,Jurriën,Timber,Defender,Arsenal,5.7,3.881415866670154,23.480917,Man City,3.919244
-10,Matz,Sels,Goalkeeper,Nott'm Forest,5.0,4.1508851278395875,24.260532,Burnley,4.6834993
+6,Antoine,Semenyo,Midfielder,Bournemouth,7.5,5.0295076597304575,29.82911,Newcastle,4.7627306
+7,Marc,Cucurella Saseta,Defender,Chelsea,6.2,4.302974133264451,25.655163,Man Utd,4.5933523
+8,Jurriën,Timber,Defender,Arsenal,5.7,4.132141612824939,24.805304,Man City,4.231628
+9,Pedro,Porro Sauceda,Defender,Spurs,5.6,3.846526543299357,22.524107,Brighton,3.597112
+10,Matz,Sels,Goalkeeper,Nott'm Forest,5.0,4.1933229083106625,24.48333,Burnley,4.6834993
 11,,,,,,,,,
-12,,Total,,,83.2,56.8,338.8,,
+12,,Total,,,83.2,57.0,339.4,,

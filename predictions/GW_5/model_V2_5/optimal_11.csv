@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,14.2,7.11789135705857,43.609005,Arsenal,6.7323227
-1,Jarrod,Bowen,Forward,West Ham,7.7,6.11778820128668,36.844967,Crystal Palace,6.1074915
-2,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.8,5.095424606686546,30.61808,Man Utd,5.5065804
-3,Mohamed,Salah,Midfielder,Liverpool,14.5,8.013977959042503,48.285934,Everton,7.883912
-4,Bruno,Borges Fernandes,Midfielder,Man Utd,9.0,5.531343437376476,33.88381,Chelsea,4.184259
-5,Lucas,Tolentino Coelho de Lima,Midfielder,West Ham,5.9,3.9345728669847753,23.499008,Crystal Palace,4.014018
-6,Jurriën,Timber,Defender,Arsenal,5.7,4.894273667108444,29.021355,Man City,5.094496
-7,Ezri,Konsa Ngoyo,Defender,Aston Villa,4.5,3.5588137422289168,18.847593,Sunderland,4.3218665
-8,Trevoh,Chalobah,Defender,Chelsea,5.1,3.47076644216265,21.343172,Man Utd,3.553397
-9,Reinildo,Mandava,Defender,Sunderland,4.0,3.1957116694677445,18.891056,Aston Villa,3.1521173
-10,Dean,Henderson,Goalkeeper,Crystal Palace,5.0,3.7471090044294084,22.399017,West Ham,3.9890478
+0,Erling,Haaland,Forward,Man City,14.2,7.143752143496558,43.728966,Arsenal,6.7933893
+1,Jarrod,Bowen,Forward,West Ham,7.7,5.919256891523088,35.615364,Crystal Palace,5.929001
+2,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.8,4.990291640872046,30.066132,Man Utd,5.5065804
+3,Mohamed,Salah,Midfielder,Liverpool,14.5,8.074349630446662,48.648163,Everton,7.944284
+4,Bruno,Borges Fernandes,Midfielder,Man Utd,9.0,5.377105508531843,32.715027,Chelsea,4.184259
+5,Morgan,Gibbs-White,Midfielder,Nott'm Forest,7.5,4.627360037394931,26.497383,Burnley,4.871381
+6,Jurriën,Timber,Defender,Arsenal,5.7,5.03114128112793,29.59913,Man City,5.276979
+7,Ezri,Konsa Ngoyo,Defender,Aston Villa,4.5,3.5544282652082893,18.640808,Sunderland,4.322869
+8,Reinildo,Mandava,Defender,Sunderland,4.0,3.2183883871350973,18.947563,Aston Villa,3.1521173
+9,El Hadji Malick,Diouf,Defender,West Ham,4.4,3.1077975432078038,18.699936,Crystal Palace,3.2237792
+10,Martin,Dúbravka,Goalkeeper,Burnley,4.0,3.300267628261021,20.147837,Nott'm Forest,3.228135
 11,,,,,,,,,
-12,,Total,,,83.4,54.7,327.2,,
+12,,Total,,,83.3,54.3,323.3,,
