@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
 0,Erling,Haaland,Forward,Man City,14.3,8.301434630439394,47.858604,Burnley,9.402467
-1,Viktor,Gyökeres,Forward,Arsenal,9.0,6.501467886425199,40.596916,Newcastle,6.1295676
-2,Chris,Wood,Forward,Nott'm Forest,7.6,5.494521935780842,32.657303,Sunderland,6.6447186
-3,Bruno,Borges Fernandes,Midfielder,Man Utd,9.0,6.050808883848645,34.900597,Brentford,5.371192
-4,Jack,Grealish,Midfielder,Everton,6.8,5.519312608809698,33.435436,West Ham,6.257456
-5,Bryan,Mbeumo,Midfielder,Man Utd,8.1,5.384394305092948,31.655201,Brentford,5.11371
+1,Viktor,Gyökeres,Forward,Arsenal,9.0,6.542850040254138,40.969357,Newcastle,6.1295676
+2,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.8,5.575559139251709,34.23725,Brighton,5.796293
+3,Bruno,Borges Fernandes,Midfielder,Man Utd,9.0,5.749998160770961,32.983883,Brentford,5.00549
+4,Jack,Grealish,Midfielder,Everton,6.8,5.524082547142393,33.34171,West Ham,6.129185
+5,Bryan,Mbeumo,Midfielder,Man Utd,8.1,5.3238396644592285,31.294487,Brentford,5.056643
 6,Mohammed,Kudus,Midfielder,Spurs,6.6,4.957320894513811,29.232536,Wolves,5.265757
-7,Pedro,Porro Sauceda,Defender,Spurs,5.6,3.8235044025239486,22.551016,Wolves,4.1111107
-8,Marc,Cucurella Saseta,Defender,Chelsea,6.2,3.8176294962565103,23.358543,Brighton,3.553662
-9,Riccardo,Calafiori,Defender,Arsenal,5.7,3.4204294454483755,20.88521,Newcastle,3.396773
-10,Caoimhín,Kelleher,Goalkeeper,Brentford,4.5,4.247588452838716,25.190947,Man Utd,4.4596767
+7,Marc,Guéhi,Defender,Crystal Palace,4.7,4.007356734502883,24.777794,Liverpool,3.437581
+8,Pedro,Porro Sauceda,Defender,Spurs,5.6,3.8354758762177967,22.622845,Wolves,4.123082
+9,Marc,Cucurella Saseta,Defender,Chelsea,6.2,3.8176294962565103,23.358543,Brighton,3.553662
+10,Matz,Sels,Goalkeeper,Nott'm Forest,5.0,4.360480331239246,26.187904,Sunderland,4.490837
 11,,,,,,,,,
-12,,Total,,,83.4,57.5,342.3,,
+12,,Total,,,83.1,58.0,346.9,,
