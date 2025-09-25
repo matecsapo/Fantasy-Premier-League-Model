@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,14.3,10.382206689743768,62.92826,Burnley,9.560376
+0,Erling,Haaland,Forward,Man City,14.3,10.151361692519412,61.283344,Burnley,9.4547415
 1,Jarrod,Bowen,Forward,West Ham,7.7,4.916906697409493,29.651684,Everton,4.962841
-2,Bruno,Borges Fernandes,Midfielder,Man Utd,9.0,6.671453407832554,37.874096,Brentford,5.4017577
-3,Cole,Palmer,Midfielder,Chelsea,10.4,5.789818309602283,35.00187,Brighton,5.6124725
-4,Bryan,Mbeumo,Midfielder,Man Utd,8.1,5.114324887593587,29.443535,Brentford,4.601619
-5,Jack,Grealish,Midfielder,Everton,6.8,4.706499031611852,29.931467,West Ham,4.6955476
-6,Lucas,Tolentino Coelho de Lima,Midfielder,West Ham,5.9,4.704024814424061,28.293543,Everton,4.7536697
+2,Mohamed,Salah,Midfielder,Liverpool,14.5,8.32221794128418,49.987785,Crystal Palace,8.544907
+3,Bruno,Borges Fernandes,Midfielder,Man Utd,9.0,6.671453407832554,37.874096,Brentford,5.4017577
+4,Jack,Grealish,Midfielder,Everton,6.8,4.706499031611852,29.931467,West Ham,4.6955476
+5,Lucas,Tolentino Coelho de Lima,Midfielder,West Ham,5.9,4.611360322861445,27.737555,Everton,4.670947
+6,Kiernan,Dewsbury-Hall,Midfielder,Everton,5.0,3.201223804837181,20.377361,West Ham,3.5028787
 7,Daniel,Muñoz Mejía,Defender,Crystal Palace,5.6,4.263649520419893,26.342907,Liverpool,3.9237092
 8,William,Saliba,Defender,Arsenal,6.0,3.991824638275873,25.421024,Newcastle,3.5639157
 9,Marc,Guéhi,Defender,Crystal Palace,4.7,3.2528859547206332,20.573689,Liverpool,2.623666
-10,Dean,Henderson,Goalkeeper,Crystal Palace,5.0,3.3921478475843156,21.107336,Liverpool,2.9592497
+10,Martin,Dúbravka,Goalkeeper,Burnley,4.0,3.10969869295756,18.987068,Man City,3.0871851
 11,,,,,,,,,
-12,,Total,,,83.5,57.2,346.6,,
+12,,Total,,,83.5,57.2,348.2,,
