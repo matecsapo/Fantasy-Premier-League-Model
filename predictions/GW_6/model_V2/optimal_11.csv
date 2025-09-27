@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,14.3,8.374813147953578,48.298874,Burnley,9.475845
-1,Viktor,Gyökeres,Forward,Arsenal,9.0,6.542850040254138,40.969357,Newcastle,6.1295676
-2,Chris,Wood,Forward,Nott'm Forest,7.6,5.556341466449555,33.03532,Sunderland,6.7159715
-3,Bruno,Borges Fernandes,Midfielder,Man Utd,9.0,5.749998160770961,32.983883,Brentford,5.00549
-4,Jack,Grealish,Midfielder,Everton,6.8,5.524082547142393,33.34171,West Ham,6.129185
-5,Bryan,Mbeumo,Midfielder,Man Utd,8.1,5.394741535186768,31.719898,Brentford,5.127545
-6,Cody,Gakpo,Midfielder,Liverpool,7.7,5.209094887688046,31.305468,Crystal Palace,5.150182
-7,Marc,Guéhi,Defender,Crystal Palace,4.7,4.007356734502883,24.777794,Liverpool,3.437581
-8,Pedro,Porro Sauceda,Defender,Spurs,5.6,3.8354758762177967,22.622845,Wolves,4.123082
-9,Marc,Cucurella Saseta,Defender,Chelsea,6.2,3.8176294962565103,23.358543,Brighton,3.553662
-10,Caoimhín,Kelleher,Goalkeeper,Brentford,4.5,4.303574391773769,25.536362,Man Utd,4.5283275
+0,Erling,Haaland,Forward,Man City,14.3,8.303203923361641,47.866035,Burnley,9.402467
+1,Viktor,Gyökeres,Forward,Arsenal,9.0,6.559453055972143,41.156,Newcastle,6.1295676
+2,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.8,5.597979749952044,34.38812,Brighton,5.796293
+3,Bruno,Borges Fernandes,Midfielder,Man Utd,9.0,5.79277635755993,33.16355,Brentford,5.00549
+4,Jack,Grealish,Midfielder,Everton,6.8,5.509211631048293,33.212566,West Ham,6.129185
+5,Bryan,Mbeumo,Midfielder,Man Utd,8.1,5.475889478410993,32.05583,Brentford,5.11531
+6,Mohammed,Kudus,Midfielder,Spurs,6.6,4.964298498062861,29.26184,Wolves,5.265757
+7,Marc,Guéhi,Defender,Crystal Palace,4.7,4.009611175173805,24.801466,Liverpool,3.437581
+8,Marc,Cucurella Saseta,Defender,Chelsea,6.2,3.8633694875807985,23.672646,Brighton,3.553662
+9,Pedro,Porro Sauceda,Defender,Spurs,5.6,3.842453366234189,22.65215,Wolves,4.123082
+10,Matz,Sels,Goalkeeper,Nott'm Forest,5.0,4.429314908527192,26.428825,Sunderland,4.731758
 11,,,,,,,,,
-12,,Total,,,83.5,58.3,348.0,,
+12,,Total,,,83.1,58.3,348.7,,

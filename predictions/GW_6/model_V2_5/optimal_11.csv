@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,14.3,10.151361692519412,61.283344,Burnley,9.4547415
-1,Jarrod,Bowen,Forward,West Ham,7.7,4.916906697409493,29.651684,Everton,4.962841
-2,Mohamed,Salah,Midfielder,Liverpool,14.5,8.32221794128418,49.987785,Crystal Palace,8.544907
-3,Bruno,Borges Fernandes,Midfielder,Man Utd,9.0,6.671453407832554,37.874096,Brentford,5.4017577
-4,Jack,Grealish,Midfielder,Everton,6.8,4.706499031611852,29.931467,West Ham,4.6955476
-5,Lucas,Tolentino Coelho de Lima,Midfielder,West Ham,5.9,4.611360322861445,27.737555,Everton,4.670947
-6,Kiernan,Dewsbury-Hall,Midfielder,Everton,5.0,3.201223804837181,20.377361,West Ham,3.5028787
-7,Daniel,Muñoz Mejía,Defender,Crystal Palace,5.6,4.263649520419893,26.342907,Liverpool,3.9237092
-8,William,Saliba,Defender,Arsenal,6.0,3.991824638275873,25.421024,Newcastle,3.5639157
-9,Marc,Guéhi,Defender,Crystal Palace,4.7,3.2528859547206332,20.573689,Liverpool,2.623666
+0,Erling,Haaland,Forward,Man City,14.3,10.396295093354725,62.982338,Burnley,9.560376
+1,Mohamed,Salah,Midfielder,Liverpool,14.5,8.317738941737584,49.96863,Crystal Palace,8.544907
+2,Bruno,Borges Fernandes,Midfielder,Man Utd,9.0,6.731644017355782,38.19138,Brentford,5.562963
+3,Bryan,Mbeumo,Midfielder,Man Utd,8.1,5.192899590446836,29.837894,Brentford,4.7325745
+4,Jack,Grealish,Midfielder,Everton,6.8,4.705567564283099,29.997332,West Ham,4.6577263
+5,Lucas,Tolentino Coelho de Lima,Midfielder,West Ham,5.9,4.608591897147042,27.729319,Everton,4.6457624
+6,Daniel,Muñoz Mejía,Defender,Crystal Palace,5.6,4.569088924498785,28.175629,Liverpool,4.2291303
+7,William,Saliba,Defender,Arsenal,6.0,3.9903240090324763,25.389511,Newcastle,3.5639157
+8,Marc,Guéhi,Defender,Crystal Palace,4.7,3.2841863745734803,20.85179,Liverpool,2.643387
+9,Harry,Maguire,Defender,Man Utd,4.4,2.9879521301814487,17.287512,Brentford,3.0099063
 10,Martin,Dúbravka,Goalkeeper,Burnley,4.0,3.10969869295756,18.987068,Man City,3.0871851
 11,,,,,,,,,
-12,,Total,,,83.5,57.2,348.2,,
+12,,Total,,,83.3,57.9,349.4,,

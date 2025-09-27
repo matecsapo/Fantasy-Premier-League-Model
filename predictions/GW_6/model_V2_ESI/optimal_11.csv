@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,14.3,7.6674691154843275,44.685505,Burnley,8.506022
-1,Chris,Wood,Forward,Nott'm Forest,7.6,5.732243469783237,33.791836,Sunderland,6.8634067
+0,Erling,Haaland,Forward,Man City,14.3,7.668962433224632,44.70221,Burnley,8.499774
+1,Chris,Wood,Forward,Nott'm Forest,7.5,5.889665739876883,34.728245,Sunderland,7.0147347
 2,Jarrod,Bowen,Forward,West Ham,7.7,5.488622188568114,33.86644,Everton,5.4702654
 3,Bryan,Mbeumo,Midfielder,Man Utd,8.1,5.715790453411284,33.350243,Brentford,5.376395
 4,Bruno,Borges Fernandes,Midfielder,Man Utd,9.0,5.194739750453404,29.67959,Brentford,4.347301
-5,Cole,Palmer,Midfielder,Chelsea,10.4,4.981264750162761,30.571732,Brighton,4.9931755
-6,Jack,Grealish,Midfielder,Everton,6.8,4.52775696345738,28.002047,West Ham,4.701334
-7,Riccardo,Calafiori,Defender,Arsenal,5.7,3.569665045965286,22.38155,Newcastle,3.398613
-8,El Hadji Malick,Diouf,Defender,West Ham,4.4,3.312791994639805,20.6622,Everton,3.213242
-9,Ezri,Konsa Ngoyo,Defender,Aston Villa,4.5,3.140756084805443,17.688267,Fulham,3.4788492
+5,Cole,Palmer,Midfielder,Chelsea,10.4,4.9050770941234765,29.953913,Brighton,4.9017763
+6,Jack,Grealish,Midfielder,Everton,6.8,4.517493520464216,27.966124,West Ham,4.665412
+7,Benjamin,White,Defender,Arsenal,5.4,3.4210188729422426,20.468918,Newcastle,3.5445697
+8,Reece,James,Defender,Chelsea,5.4,3.3783460344587053,20.643066,Brighton,3.0894792
+9,El Hadji Malick,Diouf,Defender,West Ham,4.4,3.27795958518982,20.400524,Everton,3.2065063
 10,Caoimhín,Kelleher,Goalkeeper,Brentford,4.5,4.4843909740448,26.779165,Man Utd,4.5148497
 11,,,,,,,,,
-12,,Total,,,83.0,53.8,321.5,,
+12,,Total,,,83.5,53.9,322.5,,
