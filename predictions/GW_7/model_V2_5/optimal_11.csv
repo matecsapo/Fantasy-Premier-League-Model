@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,14.4,11.565734636215938,67.70454,Brentford,11.913112
-1,Jarrod,Bowen,Forward,West Ham,7.7,5.299797557649158,32.280994,Arsenal,4.738094
-2,Mohamed,Salah,Midfielder,Liverpool,14.5,9.441362789699006,56.55704,Chelsea,8.525358
-3,Bruno,Borges Fernandes,Midfielder,Man Utd,9.0,5.930759293692453,34.10862,Sunderland,7.718993
-4,Cody,Gakpo,Midfielder,Liverpool,7.6,5.61806533450172,33.47181,Chelsea,5.352771
-5,Eberechi,Eze,Midfielder,Arsenal,7.5,5.3830825033642,32.707657,West Ham,5.559218
-6,Daniel,Muñoz Mejía,Defender,Crystal Palace,5.6,4.575968765077136,27.396019,Everton,4.839733
-7,Omar,Alderete,Defender,Sunderland,4.1,3.501262766974313,20.651363,Man Utd,3.8213542
-8,Santiago,Ignacio Bueno,Defender,Wolves,4.4,3.423262210119338,19.81076,Brighton,3.1934376
-9,Joachim,Andersen,Defender,Fulham,4.5,3.4157352333977107,22.571964,Bournemouth,3.1844769
+0,Erling,Haaland,Forward,Man City,14.4,11.473348435901457,67.21195,Brentford,11.689506
+1,Jarrod,Bowen,Forward,West Ham,7.7,5.240392412458147,32.027157,Arsenal,4.738094
+2,Mohamed,Salah,Midfielder,Liverpool,14.5,9.363371758233932,56.344086,Chelsea,8.770414
+3,Cody,Gakpo,Midfielder,Liverpool,7.6,6.0602966490245995,36.228714,Chelsea,5.8406167
+4,Eberechi,Eze,Midfielder,Arsenal,7.5,5.364612420399983,32.485798,West Ham,5.537962
+5,Jack,Grealish,Midfielder,Everton,6.9,4.593269257318406,28.940582,Crystal Palace,3.9852438
+6,Virgil,van Dijk,Defender,Liverpool,6.1,4.734777087257022,28.686756,Chelsea,4.5207167
+7,Daniel,Muñoz Mejía,Defender,Crystal Palace,5.6,4.388839085896809,26.640942,Everton,4.407315
+8,Omar,Alderete,Defender,Sunderland,4.1,3.5539265019553046,21.043156,Man Utd,3.8293338
+9,Santiago,Ignacio Bueno,Defender,Wolves,4.4,3.332706633068266,19.38658,Brighton,3.1722867
 10,Martin,Dúbravka,Goalkeeper,Burnley,4.0,3.074557100023542,18.569632,Aston Villa,2.466685
 11,,,,,,,,,
-12,,Total,,,83.3,61.2,365.8,,
+12,,Total,,,82.8,61.2,367.6,,

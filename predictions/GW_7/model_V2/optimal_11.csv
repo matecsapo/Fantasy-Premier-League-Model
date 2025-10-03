@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,14.4,8.221145062219529,48.225063,Brentford,8.50659
-1,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.8,6.743244239262172,41.36741,Liverpool,5.985231
-2,Viktor,Gyökeres,Forward,Arsenal,9.0,5.661881424131847,34.116417,West Ham,5.9972153
-3,Bryan,Mbeumo,Midfielder,Man Utd,8.1,5.436902295975458,31.586153,Sunderland,6.661679
-4,Eberechi,Eze,Midfielder,Arsenal,7.5,5.160847323281425,31.398329,West Ham,5.3796787
-5,Mohammed,Kudus,Midfielder,Spurs,6.7,5.1075708979652035,30.823256,Leeds,5.3389163
-6,Jack,Grealish,Midfielder,Everton,6.9,4.840774309067499,29.944942,Crystal Palace,4.5038376
-7,Pedro,Porro Sauceda,Defender,Spurs,5.6,3.9378532568613687,23.322,Leeds,4.267173
-8,Daniel,Muñoz Mejía,Defender,Crystal Palace,5.6,3.652563957940964,22.194962,Everton,3.9179134
-9,Jeremie,Frimpong,Defender,Liverpool,5.9,3.5935707887013746,21.879723,Chelsea,3.294256
-10,Alisson,Becker,Goalkeeper,Liverpool,5.5,3.9128277188255667,23.379536,Chelsea,3.651131
+0,Erling,Haaland,Forward,Man City,14.4,8.070418312436058,48.13411,Brentford,8.12628
+1,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.8,6.71043875103905,41.229626,Liverpool,5.985231
+2,Viktor,Gyökeres,Forward,Arsenal,9.0,5.733797096070789,34.554604,West Ham,6.0645595
+3,Eberechi,Eze,Midfielder,Arsenal,7.5,5.312838054838635,32.298172,West Ham,5.534358
+4,Bryan,Mbeumo,Midfielder,Man Utd,8.1,5.277745973496209,30.625193,Sunderland,6.4811163
+5,Mohammed,Kudus,Midfielder,Spurs,6.7,5.150770323617118,31.059479,Leeds,5.5076094
+6,Jack,Grealish,Midfielder,Everton,6.9,4.7409634817214235,29.3438,Crystal Palace,4.4251513
+7,Pedro,Porro Sauceda,Defender,Spurs,5.6,3.854981467837379,23.006392,Leeds,4.2082844
+8,Jeremie,Frimpong,Defender,Liverpool,5.9,3.6448875495365685,22.094141,Chelsea,3.3823054
+9,Virgil,van Dijk,Defender,Liverpool,6.1,3.6178424926031196,21.69128,Chelsea,3.367957
+10,Alisson,Becker,Goalkeeper,Liverpool,5.5,3.98888145174299,23.827164,Chelsea,3.7358413
 11,,,,,,,,,
-12,,Total,,,83.0,56.3,338.2,,
+12,,Total,,,83.5,56.1,337.9,,

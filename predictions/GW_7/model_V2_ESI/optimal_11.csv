@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,14.4,8.84029840287708,50.95793,Brentford,9.186704
-1,Viktor,Gyökeres,Forward,Arsenal,9.0,5.705783889407202,34.894867,West Ham,5.6693935
-2,Jarrod,Bowen,Forward,West Ham,7.7,5.200713203066871,31.803019,Arsenal,4.583954
-3,Bruno,Borges Fernandes,Midfielder,Man Utd,9.0,5.181313560122534,29.09988,Sunderland,7.4908075
-4,Antoine,Semenyo,Midfielder,Bournemouth,7.8,4.982237815856933,28.90288,Fulham,5.715556
-5,Eberechi,Eze,Midfielder,Arsenal,7.5,4.901088442121233,30.158749,West Ham,4.841198
-6,Jack,Grealish,Midfielder,Everton,6.9,4.749550501505534,29.174778,Crystal Palace,4.4575896
-7,Benjamin,White,Defender,Arsenal,5.4,4.347235520680745,26.272934,West Ham,4.2910876
-8,Pedro,Porro Sauceda,Defender,Spurs,5.6,3.673260666075207,21.624094,Leeds,4.0385227
-9,Dan,Burn,Defender,Newcastle,5.0,3.3829566751207616,19.83511,Nott'm Forest,3.5953226
-10,Nick,Pope,Goalkeeper,Newcastle,5.0,4.006408362161546,23.82811,Nott'm Forest,4.1612763
+0,Erling,Haaland,Forward,Man City,14.4,8.644495033082507,49.827045,Brentford,9.042863
+1,Viktor,Gyökeres,Forward,Arsenal,9.0,5.70154587427775,34.706806,West Ham,5.6764135
+2,Jarrod,Bowen,Forward,West Ham,7.7,5.1794453121366955,31.60404,Arsenal,4.583954
+3,Antoine,Semenyo,Midfielder,Bournemouth,7.8,5.089506558009555,29.43373,Fulham,5.715556
+4,Cody,Gakpo,Midfielder,Liverpool,7.6,4.890821593148367,29.47037,Chelsea,4.7729454
+5,Phil,Foden,Midfielder,Man City,8.1,4.764047123136974,27.857264,Brentford,4.931139
+6,Jack,Grealish,Midfielder,Everton,6.9,4.72378583181472,28.9575,Crystal Palace,4.518805
+7,Benjamin,White,Defender,Arsenal,5.4,4.343760399591355,26.282867,West Ham,4.2910876
+8,Riccardo,Calafiori,Defender,Arsenal,5.7,3.644441036950974,22.291956,West Ham,3.5662808
+9,Pedro,Porro Sauceda,Defender,Spurs,5.6,3.617154291697911,21.327349,Leeds,4.0385227
+10,Matz,Sels,Goalkeeper,Nott'm Forest,4.9,4.074991101310366,24.432076,Newcastle,3.9495077
 11,,,,,,,,,
-12,,Total,,,83.3,55.0,326.6,,
+12,,Total,,,83.1,54.7,326.2,,
