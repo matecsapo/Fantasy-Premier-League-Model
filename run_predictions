@@ -1,0 +1,17 @@
+#!/bin/bash
+
+# Pull newest data
+cd FPL-Elo-Insights
+git pull
+cd ..
+
+# Run predictions for all models
+GW=$1
+#python3 predict.py --gameweek $GW --model V2
+#python3 predict.py --gameweek $GW --model V2_5
+#python3 predict.py --gameweek $GW --model V2_ESI
+
+# Push new predictions
+date=$(date +"%m/%d/%Y/%H:%mEST")
+git add --all
+git commit -m "GW$GW Predictions - $date"

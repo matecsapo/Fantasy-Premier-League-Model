@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,14.4,8.644495033082507,49.827045,Brentford,9.042863
-1,Viktor,Gyökeres,Forward,Arsenal,9.0,5.70154587427775,34.706806,West Ham,5.6764135
-2,Jarrod,Bowen,Forward,West Ham,7.7,5.1794453121366955,31.60404,Arsenal,4.583954
-3,Antoine,Semenyo,Midfielder,Bournemouth,7.8,5.089506558009555,29.43373,Fulham,5.715556
-4,Cody,Gakpo,Midfielder,Liverpool,7.6,4.890821593148367,29.47037,Chelsea,4.7729454
-5,Phil,Foden,Midfielder,Man City,8.1,4.764047123136974,27.857264,Brentford,4.931139
-6,Jack,Grealish,Midfielder,Everton,6.9,4.72378583181472,28.9575,Crystal Palace,4.518805
+0,Erling,Haaland,Forward,Man City,14.4,8.796381291889007,50.6663,Brentford,9.210762
+1,Viktor,Gyökeres,Forward,Arsenal,9.0,5.878667172931489,35.804558,West Ham,5.8037915
+2,Jarrod,Bowen,Forward,West Ham,7.7,5.522838796888078,33.59198,Arsenal,4.9997697
+3,Antoine,Semenyo,Midfielder,Bournemouth,7.8,5.212459246317545,30.136837,Fulham,5.903006
+4,Bruno,Borges Fernandes,Midfielder,Man Utd,9.0,5.073342550368535,29.547848,Sunderland,6.385428
+5,Jack,Grealish,Midfielder,Everton,6.9,4.822003273736863,29.52026,Crystal Palace,4.6435685
+6,Mohammed,Kudus,Midfielder,Spurs,6.7,4.801527500152587,28.403301,Leeds,5.10454
 7,Benjamin,White,Defender,Arsenal,5.4,4.343760399591355,26.282867,West Ham,4.2910876
-8,Riccardo,Calafiori,Defender,Arsenal,5.7,3.644441036950974,22.291956,West Ham,3.5662808
-9,Pedro,Porro Sauceda,Defender,Spurs,5.6,3.617154291697911,21.327349,Leeds,4.0385227
-10,Matz,Sels,Goalkeeper,Nott'm Forest,4.9,4.074991101310366,24.432076,Newcastle,3.9495077
+8,Riccardo,Calafiori,Defender,Arsenal,5.7,3.61625439780099,22.121393,West Ham,3.5541382
+9,Pedro,Porro Sauceda,Defender,Spurs,5.6,3.5018651485443115,20.642395,Leeds,3.9305737
+10,Matz,Sels,Goalkeeper,Nott'm Forest,4.9,3.763856876464117,22.565268,Newcastle,3.6383722
 11,,,,,,,,,
-12,,Total,,,83.1,54.7,326.2,,
+12,,Total,,,83.1,55.3,329.3,,
