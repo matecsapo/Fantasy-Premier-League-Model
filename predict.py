@@ -2,6 +2,7 @@ import argparse
 import joblib
 import pandas as pd
 import numpy as np
+import shap
 import os
 from features import get_data
 from model_V2 import MODEL_V2_FEATURES
@@ -28,17 +29,26 @@ def predict(season, gameweek, model_name, horizon):
     # Filter out blacklisted players
     with open("blacklist.txt", "r") as f:
         blacklist = [line.strip() for line in f.readlines()]
-    predictions = predictions[~predictions["second_name"].isin(blacklist)].reset_index(drop=True)   
+    predictions = predictions[~predictions["second_name"].isin(blacklist)].reset_index(drop=True)
+    # Collect shap values
+    explainer = shap.TreeExplainer(model)
+    shap_explanations = pd.DataFrame(columns=["player_id", "game"] + chosen_model_feature_set)   
     # Predict players' performance across next [horizon] gws
     for game in range(0, horizon):
         features = get_data(season, gameweek, gameweek, game, False)
         # Remove blacklisted players
         features = features[~features["second_name"].isin(blacklist)].reset_index(drop=True)
-        #features.to_csv(f"game_{game + 1}.csv")
         predictions[f"opponent_game_{game + 1}"] = features["opponent_name"]
         model_features = features[chosen_model_feature_set]
+        # Generate predictions
         predictions[f"predicted_points_game_{game + 1}"] = model.predict(model_features)
-    return predictions   
+        # Retrieve predictions' shap values
+        shap_values = explainer.shap_values(model_features)
+        shap_values = pd.DataFrame(shap_values, columns=chosen_model_feature_set)
+        shap_values.insert(0, "player_id", features["player_id"])
+        shap_values.insert(0, "game", game + 1)
+        shap_explanations = pd.concat([shap_explanations, shap_values], ignore_index=True)
+    return predictions, shap_explanations  
 
 # Adds performance related calculations to predictions
 def add_calculations(predictions, horizon):
@@ -72,7 +82,7 @@ def format_predictions(predictions, horizon):
 # Generates model predictions for given parameters
 def run_predictions(season, gameweek, model, horizon):
     # Predict performance accross upcoming [horizon] gws according to specified parameters
-    predictions = predict(season, gameweek, model, horizon)
+    predictions, shap_explanations = predict(season, gameweek, model, horizon)
 
     # Add performance calculations/metrics
     predictions = add_calculations(predictions, horizon)
@@ -81,7 +91,7 @@ def run_predictions(season, gameweek, model, horizon):
     predictions = format_predictions(predictions, horizon)
 
     # Return generated predictions
-    return predictions
+    return predictions, shap_explanations
 
 # Filter predictions
 def filter_predictions(predictions, position, max_cost):
@@ -147,13 +157,16 @@ def pick_11(predictions):
     return optimal_11
 
 # Displays all generated predictions
-def display_predictions(predictions, position, max_cost, optimal_11, model_name, gameweek):
+def display_predictions(predictions, shap_values, position, max_cost, optimal_11, model_name, gameweek):
     # Directory for storying predictions
     os.makedirs(f"predictions/GW_{gameweek}/model_{model_name}", exist_ok=True)
     # Filter to target position +/ price if specified
     predictions = filter_predictions(predictions, position, max_cost)
     # Save predictions to file
     predictions.to_csv(f"predictions/GW_{gameweek}/model_{model_name}/predictions.csv")
+    
+    # Save shap values to file
+    shap_values.to_csv(f"")
 
     # Display optimal 11 to file
     optimal_11.to_csv(f"predictions/GW_{gameweek}/model_{model_name}/optimal_11.csv")
@@ -170,12 +183,12 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     # Run predictions
-    predictions = run_predictions(args.season, args.gameweek, args.model, args.horizon)
+    predictions, shap_values = run_predictions(args.season, args.gameweek, args.model, args.horizon)
 
     # Get Optimal 11
     optimal_11 = pick_11(predictions)
 
     # Display predictions
-    display_predictions(predictions, args.position, args.max_cost, optimal_11, args.model, args.gameweek)
+    display_predictions(predictions, shap_values, args.position, args.max_cost, optimal_11, args.model, args.gameweek)
 
     
