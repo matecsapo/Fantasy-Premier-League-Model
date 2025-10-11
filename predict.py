@@ -166,7 +166,7 @@ def display_predictions(predictions, shap_values, position, max_cost, optimal_11
     predictions.to_csv(f"predictions/GW_{gameweek}/model_{model_name}/predictions.csv")
     
     # Save shap values to file
-    shap_values.to_csv(f"")
+    shap_values.to_csv(f"predictions/GW_{gameweek}/model_{model_name}/shap_explanations.csv")
 
     # Display optimal 11 to file
     optimal_11.to_csv(f"predictions/GW_{gameweek}/model_{model_name}/optimal_11.csv")
