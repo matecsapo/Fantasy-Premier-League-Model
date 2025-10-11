@@ -7,7 +7,7 @@ import threading
 import time
 
 # Current gameweek we are predicting for
-CURRENT_GAMEWEEK = 7
+CURRENT_GAMEWEEK = 8
 
 # Set our data source as remote
 data_processing.DATA_SOURCE = data_processing.REMOTE_LOCATION
