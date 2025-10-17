@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,14.5,8.098252341860816,48.98239,Everton,8.152162
-1,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.7,6.183614095052083,36.676964,Nott'm Forest,6.303924
-2,Jarrod,Bowen,Forward,West Ham,7.7,6.064163457779657,35.48941,Brentford,5.8977804
-3,Antoine,Semenyo,Midfielder,Bournemouth,7.9,5.658332370576405,34.47077,Crystal Palace,5.6479645
-4,Bukayo,Saka,Midfielder,Arsenal,9.9,5.519656703585669,32.79811,Fulham,5.1482534
-5,Mohammed,Kudus,Midfielder,Spurs,6.7,5.188943908328101,31.825165,Aston Villa,5.0552216
-6,Eberechi,Eze,Midfielder,Arsenal,7.6,4.6944702693394245,28.118275,Fulham,4.463709
-7,Marc,Cucurella Saseta,Defender,Chelsea,6.1,3.7744123027438206,22.411312,Nott'm Forest,3.9212904
-8,Daniel,Muñoz Mejía,Defender,Crystal Palace,5.6,3.6862089633941646,22.602474,Bournemouth,3.801211
-9,Pedro,Porro Sauceda,Defender,Spurs,5.6,3.4623216560908716,21.38186,Aston Villa,3.5509686
-10,Martin,Dúbravka,Goalkeeper,Burnley,4.0,3.7851193064735043,22.060465,Leeds,4.455603
+0,Erling,Haaland,Forward,Man City,14.5,7.950095108577182,47.949802,Everton,8.117363
+1,Alexander,Isak,Forward,Liverpool,10.6,7.120776221865699,42.618385,Man Utd,7.3983035
+2,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.7,6.1049138477870395,36.095215,Nott'm Forest,6.099299
+3,Mohammed,Kudus,Midfielder,Spurs,6.8,5.590896265847342,34.31852,Aston Villa,5.4335155
+4,Antoine,Semenyo,Midfielder,Bournemouth,7.9,5.445625668480282,33.320892,Crystal Palace,5.3655834
+5,Eberechi,Eze,Midfielder,Arsenal,7.6,5.1007271494184225,30.671713,Fulham,4.50298
+6,Jack,Grealish,Midfielder,Everton,6.9,4.365540708814349,26.200552,Man City,3.8470762
+7,Marc,Cucurella Saseta,Defender,Chelsea,6.1,4.1136028198968795,24.415058,Nott'm Forest,4.04707
+8,Daniel,Muñoz Mejía,Defender,Crystal Palace,5.6,3.935749190194266,24.090736,Bournemouth,3.8009474
+9,Pedro,Porro Sauceda,Defender,Spurs,5.6,3.633986688795544,22.455057,Aston Villa,3.4276493
+10,Martin,Dúbravka,Goalkeeper,Burnley,4.0,3.993896734146844,23.35375,Leeds,4.3977714
 11,,,,,,,,,
-12,,Total,,,83.3,56.1,336.8,,
+12,,Total,,,83.3,57.4,345.5,,

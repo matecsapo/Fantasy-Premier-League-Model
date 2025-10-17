@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Alexander,Isak,Forward,Liverpool,10.6,6.340978781382242,38.33232,Man Utd,6.5090027
-1,Jarrod,Bowen,Forward,West Ham,7.7,5.9192981492905385,34.90774,Brentford,5.7422676
-2,Viktor,Gyökeres,Forward,Arsenal,9.1,5.767943700154622,34.670265,Fulham,5.540366
-3,Mohamed,Salah,Midfielder,Liverpool,14.4,6.880742958613804,40.381,Man Utd,7.788523
-4,Phil,Foden,Midfielder,Man City,8.1,5.302403404599144,31.710674,Everton,5.6115694
-5,Eberechi,Eze,Midfielder,Arsenal,7.6,4.80025983992077,28.783281,Fulham,4.622293
-6,Mohammed,Kudus,Midfielder,Spurs,6.7,4.686043217068627,28.429674,Aston Villa,4.9090443
-7,Benjamin,White,Defender,Arsenal,5.4,4.231881073543004,25.452755,Fulham,4.327826
-8,Reece,James,Defender,Chelsea,5.4,3.938803843089512,23.109531,Nott'm Forest,3.980781
-9,Gabriel,Gudmundsson,Defender,Leeds,4.0,3.0645580972943987,17.24968,Burnley,3.4096072
-10,Caoimhín,Kelleher,Goalkeeper,Brentford,4.5,3.324567295256115,20.173565,West Ham,3.6280098
+0,Alexander,Isak,Forward,Liverpool,10.6,6.32311691556658,37.979168,Man Utd,6.4392653
+1,Viktor,Gyökeres,Forward,Arsenal,9.1,6.168514842078799,36.9582,Fulham,5.927201
+2,Jarrod,Bowen,Forward,West Ham,7.7,5.433712346213205,31.980312,Brentford,5.040687
+3,Mohamed,Salah,Midfielder,Liverpool,14.4,7.639734041123162,45.290157,Man Utd,7.7137933
+4,Mohammed,Kudus,Midfielder,Spurs,6.8,5.32803555897304,32.215694,Aston Villa,5.327001
+5,Estêvão,Almeida de Oliveira Gonçalves,Midfielder,Chelsea,6.5,4.71542569569179,27.930893,Nott'm Forest,4.660323
+6,Jack,Grealish,Midfielder,Everton,6.9,4.64600758325486,27.699839,Man City,3.9996433
+7,Benjamin,White,Defender,Arsenal,5.4,4.408321040017264,26.53946,Fulham,4.327826
+8,Marc,Cucurella Saseta,Defender,Chelsea,6.1,4.2612042994726265,24.918907,Nott'm Forest,4.261811
+9,Reece,James,Defender,Chelsea,5.4,4.208752700260708,24.649124,Nott'm Forest,4.195774
+10,Caoimhín,Kelleher,Goalkeeper,Brentford,4.5,3.259897300175258,19.778547,West Ham,3.652275
 11,,,,,,,,,
-12,,Total,,,83.5,54.3,323.2,,
+12,,Total,,,83.4,56.4,335.9,,
