@@ -1,7 +1,7 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
 0,Alexander,Isak,Forward,Liverpool,10.6,6.32311691556658,37.979168,Man Utd,6.4392653
 1,Viktor,Gyökeres,Forward,Arsenal,9.1,6.168514842078799,36.9582,Fulham,5.927201
-2,Jarrod,Bowen,Forward,West Ham,7.7,5.433712346213205,31.980312,Brentford,5.040687
+2,Jarrod,Bowen,Forward,West Ham,7.8,5.400918710799445,31.819483,Brentford,5.005498
 3,Mohamed,Salah,Midfielder,Liverpool,14.4,7.639734041123162,45.290157,Man Utd,7.7137933
 4,Mohammed,Kudus,Midfielder,Spurs,6.8,5.32803555897304,32.215694,Aston Villa,5.327001
 5,Estêvão,Almeida de Oliveira Gonçalves,Midfielder,Chelsea,6.5,4.71542569569179,27.930893,Nott'm Forest,4.660323
@@ -11,4 +11,4 @@
 9,Reece,James,Defender,Chelsea,5.4,4.208752700260708,24.649124,Nott'm Forest,4.195774
 10,Caoimhín,Kelleher,Goalkeeper,Brentford,4.5,3.259897300175258,19.778547,West Ham,3.652275
 11,,,,,,,,,
-12,,Total,,,83.4,56.4,335.9,,
+12,,Total,,,83.5,56.4,335.8,,

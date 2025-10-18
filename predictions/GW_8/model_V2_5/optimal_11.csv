@@ -1,9 +1,9 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,14.5,11.168186460222516,65.27494,Everton,11.811206
+0,Erling,Haaland,Forward,Man City,14.6,11.168186460222516,65.27494,Everton,11.811206
 1,Alexander,Isak,Forward,Liverpool,10.6,7.117199216570173,42.507,Man Utd,7.2419276
-2,Jarrod,Bowen,Forward,West Ham,7.7,5.504153001876103,32.143417,Brentford,5.8237386
+2,Jarrod,Bowen,Forward,West Ham,7.8,5.610262121473039,32.795242,Brentford,5.9500747
 3,Cody,Gakpo,Midfielder,Liverpool,7.5,4.9180866196042015,29.039003,Man Utd,4.921388
-4,Bryan,Mbeumo,Midfielder,Man Utd,8.1,4.720121224721272,28.508991,Liverpool,4.543669
+4,Bryan,Mbeumo,Midfielder,Man Utd,8.0,4.720121224721272,28.508991,Liverpool,4.543669
 5,Moisés,Caicedo Corozo,Midfielder,Chelsea,5.8,4.382199616659255,25.620378,Nott'm Forest,4.1935244
 6,Jaidon,Anthony,Midfielder,Burnley,5.7,4.278727872031075,25.454855,Leeds,4.6526155
 7,Daniel,Muñoz Mejía,Defender,Crystal Palace,5.6,4.701897235143752,28.26149,Bournemouth,4.5967693
@@ -11,4 +11,4 @@
 9,William,Saliba,Defender,Arsenal,6.0,3.517738592057001,21.54644,Fulham,3.1258729
 10,Nick,Pope,Goalkeeper,Newcastle,5.1,4.000061375754219,23.726053,Brighton,4.0034585
 11,,,,,,,,,
-12,,Total,,,82.7,58.2,345.0,,
+12,,Total,,,82.8,58.3,345.7,,

@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,14.5,7.950095108577182,47.949802,Everton,8.117363
+0,Erling,Haaland,Forward,Man City,14.6,7.950095108577182,47.949802,Everton,8.117363
 1,Alexander,Isak,Forward,Liverpool,10.6,7.120776221865699,42.618385,Man Utd,7.3983035
-2,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.7,6.1049138477870395,36.095215,Nott'm Forest,6.099299
-3,Mohammed,Kudus,Midfielder,Spurs,6.8,5.590896265847342,34.31852,Aston Villa,5.4335155
-4,Antoine,Semenyo,Midfielder,Bournemouth,7.9,5.445625668480282,33.320892,Crystal Palace,5.3655834
-5,Eberechi,Eze,Midfielder,Arsenal,7.6,5.1007271494184225,30.671713,Fulham,4.50298
-6,Jack,Grealish,Midfielder,Everton,6.9,4.365540708814349,26.200552,Man City,3.8470762
+2,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.6,6.1049138477870395,36.095215,Nott'm Forest,6.099299
+3,Antoine,Semenyo,Midfielder,Bournemouth,8.0,5.6729826245989114,34.774895,Crystal Palace,5.5869493
+4,Mohammed,Kudus,Midfielder,Spurs,6.8,5.590896265847342,34.31852,Aston Villa,5.4335155
+5,Eberechi,Eze,Midfielder,Arsenal,7.6,5.036019393375942,30.283466,Fulham,4.4382725
+6,Jack,Grealish,Midfielder,Everton,6.9,4.345740272885277,26.081749,Man City,3.7665837
 7,Marc,Cucurella Saseta,Defender,Chelsea,6.1,4.1136028198968795,24.415058,Nott'm Forest,4.04707
 8,Daniel,Muñoz Mejía,Defender,Crystal Palace,5.6,3.935749190194266,24.090736,Bournemouth,3.8009474
 9,Pedro,Porro Sauceda,Defender,Spurs,5.6,3.633986688795544,22.455057,Aston Villa,3.4276493
 10,Martin,Dúbravka,Goalkeeper,Burnley,4.0,3.993896734146844,23.35375,Leeds,4.3977714
 11,,,,,,,,,
-12,,Total,,,83.3,57.4,345.5,,
+12,,Total,,,83.4,57.5,346.4,,
