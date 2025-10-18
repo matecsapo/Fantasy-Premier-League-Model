@@ -2,6 +2,7 @@ import streamlit as st
 import altair as alt
 import data_processing
 import pandas as pd
+from features import get_data
 from predict import run_predictions, filter_predictions, pick_11
 import threading
 import time
@@ -11,6 +12,14 @@ CURRENT_GAMEWEEK = 8
 
 # Set our data source as remote
 data_processing.DATA_SOURCE = data_processing.REMOTE_LOCATION
+
+# Fetch Data
+# Cache date per hour
+@st.cache_data(ttl=3600, show_spinner=False)
+def get_understats(gw):
+    data = get_data("2025-2026", gw, gw, 0, False)
+    data = data.sort_values(by=["second_name", "gw"], ignore_index=True)
+    return data
 
 # Fetch predictions
 # Cache data per hour!!!
@@ -30,6 +39,7 @@ def refresh_modelling():
     models = ["V2", "V2_5"]
     horizons = [6] #[1, 3, 6, 10]
     gw = CURRENT_GAMEWEEK
+    _ = get_understats(gw)
     for model in models:
         for h in horizons:
             _, _ = get_predictions(gw, model, h)
@@ -67,7 +77,7 @@ model_name = st.sidebar.selectbox("Model", ["V2", "V2_5", "V2_ESI"], index=0)
 horizon = st.sidebar.slider("Horizon (GWs)", 1, 15, 6)
 
 # --- Tabs ---
-tab1, tab2, tab3 = st.tabs(["🔮 Predictions", "🏆 Optimal 11", "📊 SHAP Values"])
+tab1, tab2, tab3, tab4 = st.tabs(["🔮 Predictions", "🏆 Optimal 11", "⚽ Understats Data", "📊 SHAP Values"])
 # Predictions tab
 with tab1:
     st.subheader("Run Predictions")
@@ -96,15 +106,26 @@ with tab2:
             optimal_11 = get_optimal_11(gameweek, model_name, horizon)
         st.success("Optimal XI ready!")
         st.dataframe(optimal_11)
-# Shap explanations tab
+# Underlstats data tab
 with tab3:
+    st.subheader("Understats Data")
+    data = get_understats(gameweek)
+    # Select desired player + game
+    players = data["second_name"].unique()
+    selected_player = st.selectbox("Player", [""] + sorted(players))
+    if selected_player and st.button("Table Understats"):
+        selected_data = data[data["second_name"] == selected_player]
+        selected_data = pd.melt(selected_data, var_name="metric", value_name="value")
+        st.dataframe(selected_data)
+# Shap explanations tab
+with tab4:
     st.subheader("SHAP Value Prediction Explanations")
     # Select desired player + game
     predictions, shap_values = get_predictions(gameweek, model_name, horizon)
     players = predictions["second_name"]
     selected_player = st.selectbox("Player", [""] + sorted(players))
     gws = range(1, gameweek + 1)
-    selected_gw = st.selectbox("Game", gws)
+    selected_gw = st.selectbox("Game", gws, key="shap_game_select")
     if selected_player and st.button("Plot SHAP Contributions"):
         # Generate SHAP contributions plot
         selected_player_id = predictions.loc[predictions["second_name"] == selected_player, "player_id"].values[0]
