@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,14.7,12.486413501557848,74.11225,Aston Villa,13.008979
-1,Jarrod,Bowen,Forward,West Ham,7.8,5.53838893345424,32.862812,Leeds,5.7876
-2,Jean-Philippe,Mateta,Forward,Crystal Palace,7.6,4.673865454537528,27.602028,Arsenal,4.468778
-3,Bukayo,Saka,Midfielder,Arsenal,10.0,5.480190981002081,32.749775,Crystal Palace,4.7830286
-4,Cody,Gakpo,Midfielder,Liverpool,7.5,5.316740808032808,33.181545,Brentford,5.7220244
-5,Bruno,Borges Fernandes,Midfielder,Man Utd,8.9,5.099738575163341,30.463186,Brighton,4.8960524
-6,Iliman,Ndiaye,Midfielder,Everton,6.5,4.5995360896700905,25.834126,Spurs,4.1635237
-7,Gabriel,dos Santos Magalhães,Defender,Arsenal,6.4,4.81913677851359,28.233562,Crystal Palace,4.5198402
-8,Josh,Acheampong,Defender,Chelsea,3.9,4.719883850642613,27.621227,Sunderland,5.2622337
-9,Trevoh,Chalobah,Defender,Chelsea,5.1,3.7662890184493296,21.925629,Sunderland,4.7311807
-10,Robert,Lynch Sánchez,Goalkeeper,Chelsea,4.9,3.7964121046520414,22.04327,Sunderland,4.56275
+0,Erling,Haaland,Forward,Man City,14.7,12.576423645019533,74.62618,Aston Villa,13.286028
+1,Alexander,Isak,Forward,Liverpool,10.5,5.8704038574582045,36.24098,Brentford,5.883416
+2,Jarrod,Bowen,Forward,West Ham,7.8,5.595675695510137,33.19214,Leeds,5.850883
+3,Cody,Gakpo,Midfielder,Liverpool,7.5,6.539638314928327,39.554462,Brentford,6.9735
+4,Bruno,Borges Fernandes,Midfielder,Man Utd,8.9,5.094900903247652,30.494904,Brighton,4.8960524
+5,Iliman,Ndiaye,Midfielder,Everton,6.5,4.38387031782241,24.81388,Spurs,4.1635237
+6,Mohammed,Kudus,Midfielder,Spurs,6.8,4.3159561951955165,25.44622,Everton,4.9263315
+7,Gabriel,dos Santos Magalhães,Defender,Arsenal,6.4,4.798576695578438,28.14721,Crystal Palace,4.5198402
+8,Josh,Acheampong,Defender,Chelsea,3.9,4.77931699298677,27.738178,Sunderland,5.584006
+9,Daniel,Muñoz Mejía,Defender,Crystal Palace,5.6,3.9439430690947033,24.166344,Arsenal,3.2713397
+10,Robert,Lynch Sánchez,Goalkeeper,Chelsea,4.9,3.7866770880562917,21.992926,Sunderland,4.56275
 11,,,,,,,,,
-12,,Total,,,83.3,60.3,356.6,,
+12,,Total,,,83.5,61.7,366.4,,

@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,14.7,7.986304237729027,48.96164,Aston Villa,8.321281
-1,Jarrod,Bowen,Forward,West Ham,7.8,5.38766318275815,31.273602,Leeds,6.0119658
-2,Bukayo,Saka,Midfielder,Arsenal,10.0,6.701794011252266,38.79465,Crystal Palace,6.007935
-3,Antoine,Semenyo,Midfielder,Bournemouth,8.1,5.218234788803826,31.903694,Nott'm Forest,5.5194845
-4,Mohammed,Kudus,Midfielder,Spurs,6.8,5.0819399016244065,30.334206,Everton,5.413732
-5,Cody,Gakpo,Midfielder,Liverpool,7.5,4.787428151993525,30.22646,Brentford,4.6770425
-6,Bryan,Mbeumo,Midfielder,Man Utd,8.0,4.744969367980957,28.89042,Brighton,4.434815
-7,Reece,James,Defender,Chelsea,5.4,4.458498353049868,26.446083,Sunderland,5.1944923
+0,Erling,Haaland,Forward,Man City,14.7,7.944363298870268,48.774773,Aston Villa,8.359608
+1,Viktor,Gyökeres,Forward,Arsenal,9.0,5.535178161802746,32.263725,Crystal Palace,4.7849708
+2,Jarrod,Bowen,Forward,West Ham,7.8,5.462267716725668,31.721228,Leeds,6.08657
+3,Bukayo,Saka,Midfielder,Arsenal,10.0,6.695550169263567,38.76843,Crystal Palace,6.007935
+4,Antoine,Semenyo,Midfielder,Bournemouth,8.1,5.679584730239141,34.26672,Nott'm Forest,5.9448366
+5,Mohammed,Kudus,Midfielder,Spurs,6.8,5.077953179677327,30.292345,Everton,5.413732
+6,Yankuba,Minteh,Midfielder,Brighton,6.0,3.920749811899094,23.39836,Man Utd,3.7497928
+7,Reece,James,Defender,Chelsea,5.5,4.513272024336316,26.78223,Sunderland,5.258086
 8,Marc,Cucurella Saseta,Defender,Chelsea,6.1,3.891476619811285,23.237316,Sunderland,4.13732
-9,Trevoh,Chalobah,Defender,Chelsea,5.1,3.505036569776989,20.38626,Sunderland,4.2876782
-10,Martin,Dúbravka,Goalkeeper,Burnley,4.0,3.4624979041871566,20.105787,Wolves,3.9344995
+9,Trevoh,Chalobah,Defender,Chelsea,5.1,3.547133411679949,20.586672,Sunderland,4.2876782
+10,Bart,Verbruggen,Goalkeeper,Brighton,4.4,3.4890498774392262,20.662382,Man Utd,3.4400558
 11,,,,,,,,,
-12,,Total,,,83.5,55.2,330.6,,
+12,,Total,,,83.5,55.8,330.8,,
