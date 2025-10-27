@@ -1,0 +1,14 @@
+,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
+0,Erling,Haaland,Forward,Man City,14.7,7.461322307586669,47.068726,Bournemouth,7.4311604
+1,Jarrod,Bowen,Forward,West Ham,7.8,5.1992723147074384,30.843975,Newcastle,4.9924498
+2,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.5,4.813488029298329,28.669136,Spurs,4.626793
+3,Bukayo,Saka,Midfielder,Arsenal,10.0,5.73053925377982,32.826904,Burnley,6.0304856
+4,Mohammed,Kudus,Midfielder,Spurs,6.8,5.347778797149658,32.140682,Chelsea,5.020957
+5,Jack,Grealish,Midfielder,Everton,6.9,5.026713530222574,29.371248,Sunderland,6.072572
+6,Bryan,Mbeumo,Midfielder,Man Utd,8.1,5.00349862234933,30.928316,Nott'm Forest,5.385773
+7,Gabriel,dos Santos Magalhães,Defender,Arsenal,6.4,5.263619559151786,30.535133,Burnley,5.3337784
+8,Reece,James,Defender,Chelsea,5.5,4.255277474721273,25.47553,Spurs,3.8653564
+9,Daniel,Muñoz Mejía,Defender,Crystal Palace,5.6,4.049467938286917,24.494652,Brentford,3.9775295
+10,Martin,Dúbravka,Goalkeeper,Burnley,4.0,3.4529304390861872,20.286655,Arsenal,3.2226722
+11,,,,,,,,,
+12,,Total,,,83.3,55.6,332.6,,

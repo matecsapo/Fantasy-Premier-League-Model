@@ -1,0 +1,14 @@
+,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
+0,Erling,Haaland,Forward,Man City,14.7,10.950070154099235,66.12923,Bournemouth,11.987576
+1,Jarrod,Bowen,Forward,West Ham,7.8,5.703801927112398,34.355667,Newcastle,5.3695517
+2,Mohamed,Salah,Midfielder,Liverpool,14.3,7.365756557101295,45.069576,Aston Villa,7.3216243
+3,Jack,Grealish,Midfielder,Everton,6.9,4.807874759038289,27.491041,Sunderland,5.9266224
+4,Declan,Rice,Midfielder,Arsenal,6.6,4.626120521908715,27.338354,Burnley,4.129091
+5,Gabriel,dos Santos Magalhães,Defender,Arsenal,6.4,5.3628666287376765,31.333696,Burnley,5.107423
+6,Daniel,Muñoz Mejía,Defender,Crystal Palace,5.6,4.243853024074008,25.604868,Brentford,4.337528
+7,Marc,Cucurella Saseta,Defender,Chelsea,6.1,4.155703067779541,24.757517,Spurs,4.234727
+8,Reece,James,Defender,Chelsea,5.5,4.060559919902256,23.957495,Spurs,4.061902
+9,Josh,Acheampong,Defender,Chelsea,3.9,3.5593302817571724,21.259182,Spurs,3.5297723
+10,Gianluigi,Donnarumma,Goalkeeper,Man City,5.7,3.934786910102481,23.689491,Bournemouth,4.11525
+11,,,,,,,,,
+12,,Total,,,83.5,58.8,351.0,,
