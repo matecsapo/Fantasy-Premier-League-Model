@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,14.7,7.758900733221145,49.86649,Bournemouth,7.772456
-1,Jarrod,Bowen,Forward,West Ham,7.8,5.726792744227818,34.014442,Newcastle,5.6953483
-2,Nick,Woltemade,Forward,Newcastle,7.5,5.204950650533041,31.680138,West Ham,5.589689
-3,Bryan,Mbeumo,Midfielder,Man Utd,8.1,5.9632625579833975,36.542286,Nott'm Forest,6.1717153
-4,Eberechi,Eze,Midfielder,Arsenal,7.6,5.609319527943928,31.950548,Burnley,5.882149
-5,Phil,Foden,Midfielder,Man City,8.1,5.0608720779418945,32.221542,Bournemouth,4.9132924
-6,Cody,Gakpo,Midfielder,Liverpool,7.6,4.810449532100132,29.67733,Aston Villa,4.5654044
-7,Gabriel,dos Santos Magalhães,Defender,Arsenal,6.4,4.997135116940452,30.02515,Burnley,4.906096
-8,Benjamin,White,Defender,Arsenal,5.4,4.4928315707615445,26.477142,Burnley,4.590087
-9,Daniel,Muñoz Mejía,Defender,Crystal Palace,5.6,4.0098559969947445,24.28455,Brentford,3.8779123
-10,Bart,Verbruggen,Goalkeeper,Brighton,4.4,3.587136348088582,21.386261,Leeds,3.9517097
+0,Viktor,Gyökeres,Forward,Arsenal,9.0,6.2788941519601,36.73264,Burnley,6.583154
+1,Jarrod,Bowen,Forward,West Ham,7.8,5.760553882235572,34.051918,Newcastle,5.862076
+2,Nick,Woltemade,Forward,Newcastle,7.5,5.2097620964050275,31.565033,West Ham,5.589689
+3,Mohamed,Salah,Midfielder,Liverpool,14.3,7.0689955893017,42.73346,Aston Villa,7.4598417
+4,Bryan,Mbeumo,Midfielder,Man Utd,8.1,5.582519008999778,34.324444,Nott'm Forest,5.7363276
+5,Marcus,Tavernier,Midfielder,Bournemouth,5.5,5.292173658098493,32.433483,Man City,4.5576243
+6,Phil,Foden,Midfielder,Man City,8.1,5.00589572815668,31.548454,Bournemouth,4.8747616
+7,Gabriel,dos Santos Magalhães,Defender,Arsenal,6.4,5.0701618648710705,30.834682,Burnley,4.906096
+8,Benjamin,White,Defender,Arsenal,5.4,4.476637340727306,26.4085,Burnley,4.590087
+9,Daniel,Muñoz Mejía,Defender,Crystal Palace,5.6,4.435734544481551,27.253855,Brentford,4.2755675
+10,Đorđe,Petrović,Goalkeeper,Bournemouth,4.5,3.6274930976686024,22.388376,Man City,3.1784337
 11,,,,,,,,,
-12,,Total,,,83.2,57.2,348.1,,
+12,,Total,,,82.2,57.8,350.3,,
