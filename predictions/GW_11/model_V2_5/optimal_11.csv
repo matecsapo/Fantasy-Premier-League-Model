@@ -1,0 +1,14 @@
+,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
+0,Erling,Haaland,Forward,Man City,14.8,8.304863293965658,50.745617,Liverpool,7.60352
+1,Jarrod,Bowen,Forward,West Ham,7.7,5.9716580254690985,35.725353,Burnley,6.2660975
+2,Mohamed,Salah,Midfielder,Liverpool,14.2,7.550160884857177,45.93958,Man City,6.75153
+3,Bruno,Borges Fernandes,Midfielder,Man Utd,8.9,5.620793728601365,33.805805,Spurs,5.0529275
+4,Cody,Gakpo,Midfielder,Liverpool,7.6,4.810594967433384,28.667547,Man City,4.7232018
+5,Yankuba,Minteh,Midfielder,Brighton,6.0,4.392349424816313,25.522055,Crystal Palace,4.4477654
+6,Tyler,Adams,Midfielder,Bournemouth,5.0,3.2030943007696244,19.291075,Aston Villa,2.4974217
+7,Marc,Cucurella Saseta,Defender,Chelsea,6.1,4.084696656181698,24.469158,Wolves,4.5634456
+8,Josh,Acheampong,Defender,Chelsea,3.9,3.9712315286908826,23.507952,Wolves,4.727012
+9,Lucas,Digne,Defender,Aston Villa,4.5,3.169950723648071,18.783926,Bournemouth,3.110939
+10,Robert,Lynch Sánchez,Goalkeeper,Chelsea,4.8,3.7616766520908897,22.877384,Wolves,4.011475
+11,,,,,,,,,
+12,,Total,,,83.5,54.8,329.3,,

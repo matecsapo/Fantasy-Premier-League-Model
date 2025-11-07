@@ -1,0 +1,14 @@
+,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
+0,Jarrod,Bowen,Forward,West Ham,7.7,5.754896481831868,34.19584,Burnley,6.248627
+1,Viktor,Gyökeres,Forward,Arsenal,9.0,5.29667956488473,31.601915,Sunderland,6.1964335
+2,Mohamed,Salah,Midfielder,Liverpool,14.2,6.534821078890846,40.06286,Man City,5.621133
+3,Bukayo,Saka,Midfielder,Arsenal,10.1,5.996905508495511,35.913174,Sunderland,6.5632267
+4,Eberechi,Eze,Midfielder,Arsenal,7.6,5.438466753278459,32.67851,Sunderland,6.104826
+5,Antoine,Semenyo,Midfielder,Bournemouth,8.1,5.202339149656749,31.314444,Aston Villa,5.0807753
+6,Cody,Gakpo,Midfielder,Liverpool,7.6,5.052863847641717,30.583927,Man City,4.1251755
+7,Reece,James,Defender,Chelsea,5.5,4.759310359046573,28.205109,Wolves,5.101552
+8,Trevoh,Chalobah,Defender,Chelsea,5.1,3.6370897747221442,21.811527,Wolves,3.889432
+9,Matty,Cash,Defender,Aston Villa,4.6,3.4349577199845087,20.779629,Bournemouth,3.1516747
+10,Martin,Dúbravka,Goalkeeper,Burnley,4.0,2.879925637018113,17.01341,West Ham,3.4469402
+11,,,,,,,,,
+12,,Total,,,83.5,54.0,324.2,,
