@@ -25,7 +25,6 @@ def predict(season, gameweek, model_name, horizon):
         chosen_model_feature_set = MODEL_V2_5_FEATURES
     # List of players + identifying info to predict for (all)
     predictions = get_data(season, gameweek, gameweek, 0, False)
-    predictions.to_csv("test.csv")
     predictions = predictions[["player_id", "first_name", "second_name", "position", "team_name", "now_cost"]]
     # Filter out blacklisted players
     with open("blacklist.txt", "r") as f:

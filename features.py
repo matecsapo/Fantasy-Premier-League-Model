@@ -143,7 +143,7 @@ def get_data(season, start_gw, end_gw, oppenent_game_relative_num, FPL_data_shit
 
     # Remove managers
     datapoints = datapoints[datapoints["position"] != "Unknown"]
-
+    datapoints.to_csv("test.csv")
     return datapoints
 
 # Returns the FPL-related features associated with player + gw datapoints
