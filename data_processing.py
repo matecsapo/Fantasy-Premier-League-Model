@@ -49,6 +49,7 @@ def load_FPL_info(season, start_gw, end_gw):
     FPL_info = pd.read_csv(location)
     FPL_info = FPL_info[FPL_info["gw"].isin(range(start_gw, end_gw + 1))]
     FPL_info = FPL_info.sort_values(by=["id", "gw"]).reset_index(drop=True)
+    FPL_info.to_csv("test.csv")
     return FPL_info
 
 # Loads:    code | ... team_features ...
