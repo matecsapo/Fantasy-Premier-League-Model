@@ -125,7 +125,7 @@ def pick_11(predictions):
         prob += pulp.lpSum([x[pid] for pid in pos_players]) >= min_p
         prob += pulp.lpSum([x[pid] for pid in pos_players]) <= max_p
     # Budget constraint --> 83M... 17M = min to create bench!
-    print(predictions[predictions["now_cost"].isna()])
+    predictions[predictions["now_cost"].isna()].to_csv("test.csv")
     prob += pulp.lpSum([
         predictions.loc[predictions['player_id']==pid, 'now_cost'].values[0] * x[pid] 
         for pid in players
