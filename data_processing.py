@@ -47,7 +47,6 @@ def load_FPL_info(season, start_gw, end_gw):
     elif season == "2025-2026":
         location = f"{DATA_SOURCE}/data/2025-2026/playerstats.csv"
     FPL_info = pd.read_csv(location)
-    FPL_info.to_csv("test.csv")
     FPL_info = FPL_info[FPL_info["gw"].isin(range(start_gw, end_gw + 1))]
     FPL_info = FPL_info.sort_values(by=["id", "gw"]).reset_index(drop=True)
     return FPL_info
