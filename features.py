@@ -128,6 +128,7 @@ def get_data(season, start_gw, end_gw, oppenent_game_relative_num, FPL_data_shit
 
     # FPL features
     fpl_features = get_FPL_features(season, FPL_data_shit)
+    fpl_features.to_csv("test.csv")
     datapoints = pd.merge(datapoints, fpl_features, on=["player_id", "gw"], how="left")
 
     # Team features
@@ -143,7 +144,7 @@ def get_data(season, start_gw, end_gw, oppenent_game_relative_num, FPL_data_shit
 
     # Remove managers
     datapoints = datapoints[datapoints["position"] != "Unknown"]
-    datapoints.to_csv("test.csv")
+
     return datapoints
 
 # Returns the FPL-related features associated with player + gw datapoints
