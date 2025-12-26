@@ -8,7 +8,8 @@ git pull
 cd ..
 
 # Run predictions for all models
-GW=$1
+#GW=$1
+GW=$(python3 -c "from config import CURRENT_GAMEWEEK; print(CURRENT_GAMEWEEK)")
 python3 predict.py --gameweek $GW --model V2
 python3 predict.py --gameweek $GW --model V2_5
 python3 predict.py --gameweek $GW --model V2_ESI

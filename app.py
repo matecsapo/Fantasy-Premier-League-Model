@@ -6,9 +6,7 @@ from features import get_data
 from predict import run_predictions, filter_predictions, pick_11
 import threading
 import time
-
-# Current gameweek we are predicting for
-CURRENT_GAMEWEEK = 18
+from config import CURRENT_GAMEWEEK
 
 # Set our data source as remote
 data_processing.DATA_SOURCE = data_processing.REMOTE_LOCATION
