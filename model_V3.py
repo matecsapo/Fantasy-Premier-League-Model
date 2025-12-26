@@ -12,7 +12,7 @@ import os
 # MODEL CONFIG
 MODEL_NAME = "V3"
 
-MODEL_V2_FEATURES = POSITION_FEATURE + STAT_FEATURES + FPL_FEATURES + TEAM_FEATURES + FIXTURE_FEATURES
+MODEL_V3_FEATURES = POSITION_FEATURE + STAT_FEATURES + FPL_FEATURES + TEAM_FEATURES + FIXTURE_FEATURES
 
 NUM_ESTIMATORS = 200
 
@@ -38,13 +38,13 @@ def train_model(train_data):
         objective='reg:squarederror',
         random_state=42
     )
-    model.fit(train_data[MODEL_V2_FEATURES], train_data[LABEL])
+    model.fit(train_data[MODEL_V3_FEATURES], train_data[LABEL])
     return model
 
 # Evaluates the model
 def evaluate_model(model, test_data):
     # Make predictions
-    predictions = model.predict(test_data[MODEL_V2_FEATURES])
+    predictions = model.predict(test_data[MODEL_V3_FEATURES])
     results = pd.DataFrame({
         "player_name" : test_data["second_name"],
         "position" : test_data["position"],
