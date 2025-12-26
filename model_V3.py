@@ -7,6 +7,7 @@ from scipy.stats import spearmanr
 import matplotlib.pyplot as plt
 import joblib
 import os
+from config import CURRENT_GAMEWEEK
 
 
 # MODEL CONFIG
@@ -103,7 +104,7 @@ def save_model(model):
 # Trains an XGBoost Regressor model, tests it, and save it to models/
 def main():
     # Get data - we generally use gw >= 3 to have recent form data to use
-    data = pd.concat([get_data("2024-2025", 3, 38, 0, True), get_data("2025-2026", 3, 17, 0, True)], ignore_index = True)
+    data = pd.concat([get_data("2024-2025", 3, 38, 0, True), get_data("2025-2026", 3, CURRENT_GAMEWEEK - 1, 0, True)], ignore_index = True)
 
     # Keep only rows with valid points label
     data = data[data[LABEL].notna()]

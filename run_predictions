@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# To run predictions --> ./run_predictions [GW]
+# To run predictions --> ./run_predictions
+# GW is specified by CURRENT_GAMEWEEK in config.py
 
 # Pull newest data
 cd FPL-Elo-Insights
