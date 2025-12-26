@@ -17,7 +17,7 @@ python3 predict.py --gameweek $GW --model V2_ESI
 python3 predict.py --gameweek $GW --model V3
 
 # Push new predictions
-date=$(date +"%m/%d/%Y/%H:%mEST")
+date=$(date +"%m/%d/%Y/%H:%MEST")
 git add --all
 git commit -m "GW$GW Predictions - $date"
 git push
