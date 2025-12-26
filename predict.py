@@ -24,7 +24,7 @@ def predict(season, gameweek, model_name, horizon):
     elif model_name == "V2_5":
         chosen_model_feature_set = MODEL_V2_5_FEATURES
     # List of players + identifying info to predict for (all)
-    predictions = get_data(season, gameweek, gameweek, 0, False)
+    predictions = get_data(season, gameweek, gameweek, 0, True) # This was adjusted from False to True
     predictions = predictions[["player_id", "first_name", "second_name", "position", "team_name", "now_cost"]]
     # Filter out blacklisted players
     with open("blacklist.txt", "r") as f:

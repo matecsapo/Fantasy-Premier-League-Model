@@ -1,0 +1,14 @@
+,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
+0,Alexander,Isak,Forward,Liverpool,10.3,5.917202449980237,35.009087,Wolves,6.4829164
+1,Hugo,Ekitiké,Forward,Liverpool,9.0,5.247465383438837,30.579132,Wolves,5.973793
+2,Jarrod,Bowen,Forward,West Ham,7.6,5.208251930418468,31.608837,Fulham,5.2029157
+3,Phil,Foden,Midfielder,Man City,9.0,7.2377554575602225,43.709633,Nott'm Forest,7.231082
+4,Bukayo,Saka,Midfielder,Arsenal,10.3,5.107103665669758,30.396961,Brighton,5.416332
+5,Florian,Wirtz,Midfielder,Liverpool,8.1,4.947841462634859,29.075153,Wolves,5.375498
+6,Antoine,Semenyo,Midfielder,Bournemouth,7.7,4.6636075746445425,27.732723,Brentford,4.8584437
+7,Joško,Gvardiol,Defender,Man City,6.0,4.1643473988487605,24.631378,Nott'm Forest,4.532381
+8,Rúben,dos Santos Gato Alves Dias,Defender,Man City,5.7,3.929356393359956,23.384315,Nott'm Forest,4.1575837
+9,Reece,James,Defender,Chelsea,5.6,3.549792278380621,21.505718,Aston Villa,3.5599272
+10,Martin,Dúbravka,Goalkeeper,Burnley,4.0,3.55056517464774,21.20286,Everton,3.7665558
+11,,,,,,,,,
+12,,Total,,,83.3,53.5,318.8,,

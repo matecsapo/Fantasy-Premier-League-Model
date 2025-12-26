@@ -1,0 +1,14 @@
+,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
+0,Erling,Haaland,Forward,Man City,15.1,8.950186956496465,53.597305,Nott'm Forest,8.993054
+1,Hugo,Ekitiké,Forward,Liverpool,9.0,5.793470587049212,33.47866,Wolves,6.4563937
+2,Jarrod,Bowen,Forward,West Ham,7.6,5.171550614493233,31.218235,Fulham,5.083043
+3,Phil,Foden,Midfielder,Man City,9.0,5.672424361819312,33.831455,Nott'm Forest,5.8977957
+4,Bruno,Borges Fernandes,Midfielder,Man Utd,9.2,5.166147754305884,29.929203,Newcastle,3.872135
+5,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.0,5.082558631896972,29.746687,Newcastle,4.9559574
+6,Tijjani,Reijnders,Midfielder,Man City,5.2,4.135806083679199,24.6339,Nott'm Forest,4.3871684
+7,James,Tarkowski,Defender,Everton,5.5,3.6856044701167514,21.707357,Burnley,3.8522506
+8,Trevoh,Chalobah,Defender,Chelsea,5.5,3.563859564917428,21.70388,Aston Villa,3.3449726
+9,Nordi,Mukiele,Defender,Sunderland,4.2,3.2635502361115956,19.822186,Leeds,3.756342
+10,Guglielmo,Vicario,Goalkeeper,Spurs,4.9,3.9237139906202043,23.969257,Crystal Palace,3.7036765
+11,,,,,,,,,
+12,,Total,,,83.2,54.4,323.6,,
