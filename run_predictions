@@ -12,6 +12,7 @@ GW=$1
 python3 predict.py --gameweek $GW --model V2
 python3 predict.py --gameweek $GW --model V2_5
 python3 predict.py --gameweek $GW --model V2_ESI
+python3 predict.py --gameweek $GW --model V3
 
 # Push new predictions
 date=$(date +"%m/%d/%Y/%H:%mEST")
