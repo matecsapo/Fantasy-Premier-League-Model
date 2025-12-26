@@ -35,7 +35,7 @@ def predict(season, gameweek, model_name, horizon):
     shap_explanations = pd.DataFrame(columns=["player_id", "game"] + chosen_model_feature_set)   
     # Predict players' performance across next [horizon] gws
     for game in range(0, horizon):
-        features = get_data(season, gameweek, gameweek, game, False)
+        features = get_data(season, gameweek, gameweek, game, True) # This was adjusted from False to True
         # Remove blacklisted players
         features = features[~features["second_name"].isin(blacklist)].reset_index(drop=True)
         predictions[f"opponent_game_{game + 1}"] = features["opponent_name"]
