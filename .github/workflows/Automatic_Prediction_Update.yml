@@ -1,0 +1,30 @@
+name: Automatic Prediction Update
+
+on:
+  schedule:
+    # Runs at 00:00, 06:00, 12:00, and 18:00 UTC
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allows manual testing
+
+jobs:
+  scheduled-job:
+    runs-on: macos-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12.10'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Automated Prediction Update
+        run: |
+          chmod +x run_predictions
+          ./run_predictions
