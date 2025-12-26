@@ -1,0 +1,771 @@
+,player_id,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1,opponent_game_2,predicted_points_game_2,opponent_game_3,predicted_points_game_3,opponent_game_4,predicted_points_game_4,opponent_game_5,predicted_points_game_5,opponent_game_6,predicted_points_game_6
+0,430,Erling,Haaland,Forward,Man City,15.1,9.790383202689032,58.317444,Nott'm Forest,9.90026,Sunderland,10.698436,Chelsea,8.416806,Brighton,9.834884,Man Utd,10.065377,Wolves,9.401678
+1,414,Phil,Foden,Midfielder,Man City,9.0,5.643666971297491,33.99434,Nott'm Forest,5.8216558,Sunderland,6.289891,Chelsea,4.6984997,Brighton,5.2144756,Man Utd,5.7303767,Wolves,6.239439
+2,624,Jarrod,Bowen,Forward,West Ham,7.6,5.354407560257684,31.902796,Fulham,5.449631,Brighton,5.2511153,Wolves,5.5516605,Nott'm Forest,5.3294153,Spurs,4.973333,Sunderland,5.347641
+3,382,Florian,Wirtz,Midfielder,Liverpool,8.1,5.3072894641331265,31.260197,Wolves,5.7726717,Leeds,5.4572535,Fulham,5.283449,Arsenal,4.0486684,Burnley,5.552824,Bournemouth,5.1453314
+4,450,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.0,5.027499448685418,29.01778,Newcastle,4.909867,Wolves,5.583292,Leeds,5.0770288,Burnley,5.180028,Man City,4.086063,Arsenal,4.181503
+5,714,Nick,Woltemade,Forward,Newcastle,7.3,5.0221786726088755,29.991377,Man Utd,4.6540875,Burnley,5.266986,Crystal Palace,4.9774303,Leeds,5.5389853,Wolves,5.1257324,Aston Villa,4.4281554
+6,16,Bukayo,Saka,Midfielder,Arsenal,10.3,4.856551828838529,29.493427,Brighton,4.978787,Aston Villa,4.685418,Bournemouth,4.8270617,Liverpool,4.667022,Nott'm Forest,5.0433226,Man Utd,5.2918177
+7,485,Anthony,Gordon,Midfielder,Newcastle,7.3,4.774737403506325,28.71766,Man Utd,4.3925653,Burnley,5.029081,Crystal Palace,4.6848125,Leeds,5.1207285,Wolves,5.176781,Aston Villa,4.3136916
+8,403,Joško,Gvardiol,Defender,Man City,6.0,4.541965916043236,26.969854,Nott'm Forest,4.837303,Sunderland,4.6588817,Chelsea,4.0720353,Brighton,4.4179626,Man Utd,4.537356,Wolves,4.4463162
+9,283,Jean-Philippe,Mateta,Forward,Crystal Palace,7.7,4.472259952908471,26.628498,Spurs,4.600159,Fulham,4.6297097,Newcastle,4.185348,Aston Villa,4.3456326,Sunderland,4.5220165,Chelsea,4.3456326
+10,291,James,Tarkowski,Defender,Everton,5.5,4.3947641735985155,25.803272,Burnley,4.6196404,Nott'm Forest,4.406257,Brentford,4.2604866,Wolves,4.8980265,Aston Villa,3.186031,Leeds,4.432832
+11,488,Bruno,Guimarães Rodriguez Moura,Midfielder,Newcastle,7.0,4.369251217160906,26.149014,Man Utd,4.0156136,Burnley,4.500409,Crystal Palace,4.5286865,Leeds,4.832774,Wolves,4.27395,Aston Villa,3.9975798
+12,226,Trevoh,Chalobah,Defender,Chelsea,5.5,4.357020491645449,26.725101,Aston Villa,4.116354,Bournemouth,5.031775,Man City,2.907755,Fulham,5.186293,Brentford,4.9676065,Crystal Palace,4.5153193
+13,408,Rúben,dos Santos Gato Alves Dias,Defender,Man City,5.7,4.3179336956569125,25.675795,Nott'm Forest,4.568724,Sunderland,4.529496,Chelsea,3.9211564,Brighton,4.0573735,Man Utd,4.16099,Wolves,4.438055
+14,661,Hugo,Ekitiké,Forward,Liverpool,9.0,4.280563422611781,24.724085,Wolves,4.9591036,Leeds,4.7968645,Fulham,3.8972065,Arsenal,2.410735,Burnley,4.671681,Bournemouth,3.988495
+15,736,Gianluigi,Donnarumma,Goalkeeper,Man City,5.7,4.251457577659971,25.357143,Nott'm Forest,4.4120646,Sunderland,4.2304373,Chelsea,4.127812,Brighton,4.177031,Man Utd,4.203894,Wolves,4.2059064
+16,225,Reece,James,Defender,Chelsea,5.6,4.249915440877278,25.87965,Aston Villa,4.082395,Bournemouth,4.7300377,Man City,3.1537256,Fulham,4.97217,Brentford,4.6309304,Crystal Palace,4.3103924
+17,64,Ollie,Watkins,Forward,Aston Villa,8.5,4.249598185221354,26.074299,Chelsea,4.064161,Arsenal,3.5085907,Nott'm Forest,4.88216,Crystal Palace,4.6620107,Everton,4.8415956,Newcastle,4.1157794
+18,287,Jordan,Pickford,Goalkeeper,Everton,5.5,4.158708890279134,24.650436,Burnley,4.249882,Nott'm Forest,4.2662086,Brentford,4.1389613,Wolves,4.186204,Aston Villa,3.5789127,Leeds,4.2302675
+19,136,Igor Thiago,Nascimento Rodrigues,Forward,Brentford,7.1,4.14325407573155,24.700397,Bournemouth,4.178147,Spurs,4.178147,Everton,4.0542946,Sunderland,4.587886,Chelsea,3.3659601,Nott'm Forest,4.335964
+20,411,Nico,O'Reilly,Defender,Man City,5.3,4.117988200414748,24.580704,Nott'm Forest,4.355668,Sunderland,4.309978,Chelsea,3.7533803,Brighton,3.9127455,Man Utd,3.7931652,Wolves,4.4557657
+21,419,Jack,Grealish,Midfielder,Everton,6.5,4.110697269439697,24.318783,Burnley,4.2141004,Nott'm Forest,4.2128854,Brentford,3.9175801,Wolves,4.5108933,Aston Villa,3.3092902,Leeds,4.1540327
+22,390,Ryan,Gravenberch,Midfielder,Liverpool,5.6,4.0317154838925315,23.686478,Wolves,4.3876333,Leeds,4.218154,Fulham,4.3718605,Arsenal,2.45125,Burnley,4.1506815,Bournemouth,4.1069
+23,660,Anton,Stach,Midfielder,Leeds,4.8,3.999556995573498,23.842258,Sunderland,4.467326,Liverpool,3.6036732,Man Utd,3.8978403,Newcastle,3.6960666,Fulham,4.311461,Everton,3.865891
+24,427,Tijjani,Reijnders,Midfielder,Man City,5.2,3.9789430413927347,23.732855,Nott'm Forest,4.184717,Sunderland,4.090266,Chelsea,3.6945794,Brighton,3.8699143,Man Utd,3.71673,Wolves,4.176649
+25,21,Declan,Rice,Midfielder,Arsenal,7.2,3.945906900224231,24.250679,Brighton,3.8554642,Aston Villa,3.7335138,Bournemouth,4.2305098,Liverpool,3.8171446,Nott'm Forest,4.0761704,Man Utd,4.5378766
+26,82,Antoine,Semenyo,Midfielder,Bournemouth,7.7,3.9330403804779053,23.529617,Brentford,4.3720202,Chelsea,3.3514845,Arsenal,3.6759973,Spurs,4.4078627,Brighton,3.954474,Liverpool,3.7677789
+27,295,Michael,Keane,Defender,Everton,4.7,3.931948798043387,23.202755,Burnley,4.1365967,Nott'm Forest,4.023265,Brentford,3.5119164,Wolves,4.659778,Aston Villa,2.7368217,Leeds,4.134377
+28,236,Pedro,Lomba Neto,Midfielder,Chelsea,7.3,3.837659041086832,23.198109,Aston Villa,3.9002924,Bournemouth,4.2667265,Man City,2.7417893,Fulham,4.1738553,Brentford,4.251282,Crystal Palace,3.8641653
+29,691,Dominic,Calvert-Lewin,Forward,Leeds,5.8,3.7919968196323937,22.509514,Sunderland,4.118418,Liverpool,3.487664,Man Utd,3.8710804,Newcastle,3.4859042,Fulham,3.994623,Everton,3.5518239
+30,293,Jake,O'Brien,Defender,Everton,4.9,3.77167230560666,22.330837,Burnley,3.8930385,Nott'm Forest,3.811337,Brentford,3.5234008,Wolves,4.3369164,Aston Villa,2.919703,Leeds,3.846444
+31,582,Mohammed,Kudus,Midfielder,Spurs,6.4,3.7668186142331077,23.079762,Crystal Palace,3.4868698,Brentford,3.6773899,Sunderland,4.087856,Bournemouth,3.7910354,West Ham,4.0338826,Burnley,4.002728
+32,373,Virgil,van Dijk,Defender,Liverpool,5.9,3.756629274004981,22.08661,Wolves,3.947498,Leeds,3.988157,Fulham,4.045076,Arsenal,2.5958297,Burnley,3.785599,Bournemouth,3.7244503
+33,499,Alexander,Isak,Forward,Liverpool,10.3,3.7493405455634705,22.169846,Wolves,3.974982,Leeds,4.025383,Fulham,3.425802,Arsenal,3.127776,Burnley,4.0569057,Bournemouth,3.5589972
+34,531,Daniel,Ballard,Defender,Sunderland,4.7,3.7447688011896036,22.539522,Leeds,4.100869,Man City,3.452394,Spurs,3.646193,Brentford,3.643518,Crystal Palace,3.5610857,West Ham,4.1354623
+35,407,Matheus,Nunes,Defender,Man City,5.4,3.721742561885289,22.49005,Nott'm Forest,3.9150276,Sunderland,3.7474227,Chelsea,3.5390034,Brighton,3.5757875,Man Utd,3.333131,Wolves,4.3796763
+36,668,Granit,Xhaka,Midfielder,Sunderland,5.2,3.711604549771263,22.555363,Leeds,4.0514026,Man City,3.160608,Spurs,3.7635365,Brentford,3.770199,Crystal Palace,3.6578784,West Ham,4.15174
+37,374,Ibrahima,Konaté,Defender,Liverpool,5.4,3.708824634552002,21.728724,Wolves,3.982221,Leeds,3.9259803,Fulham,3.91721,Arsenal,2.5147066,Burnley,3.7605243,Bournemouth,3.6280816
+38,266,Eberechi,Eze,Midfielder,Arsenal,7.6,3.700759444917951,22.333282,Brighton,3.724498,Aston Villa,3.5330145,Bournemouth,3.9046116,Liverpool,3.6072733,Nott'm Forest,3.699737,Man Utd,3.864147
+39,235,Cole,Palmer,Midfielder,Chelsea,10.4,3.6609613441285624,22.068663,Aston Villa,3.6796021,Bournemouth,4.0147862,Man City,2.8714547,Fulham,3.8703325,Brentford,3.999341,Crystal Palace,3.6331458
+40,7,Riccardo,Calafiori,Defender,Arsenal,5.7,3.650726034527733,22.327797,Brighton,3.5452237,Aston Villa,3.4074502,Bournemouth,3.9889321,Liverpool,3.5093787,Nott'm Forest,3.995976,Man Utd,3.880837
+41,47,Morgan,Rogers,Midfielder,Aston Villa,7.3,3.6417362576439265,22.961758,Chelsea,3.281646,Arsenal,2.32311,Nott'm Forest,4.8620167,Crystal Palace,4.3069687,Everton,4.6140456,Newcastle,3.5739708
+42,366,Alisson,Becker,Goalkeeper,Liverpool,5.4,3.605867998940604,21.175735,Wolves,3.9136946,Leeds,3.7938557,Fulham,3.6799536,Arsenal,2.4764664,Burnley,3.8108034,Bournemouth,3.5009615
+43,303,James,Garner,Midfielder,Everton,5.0,3.6051982584453763,21.411425,Burnley,3.6653266,Nott'm Forest,3.6427886,Brentford,3.3734648,Wolves,4.2299004,Aston Villa,2.8197558,Leeds,3.6801887
+44,160,Yankuba,Minteh,Midfielder,Brighton,6.1,3.5503355434962676,22.213026,Arsenal,2.618794,West Ham,4.165514,Burnley,4.4752817,Man City,2.5546813,Bournemouth,4.052788,Fulham,4.3459663
+45,224,Marc,Cucurella Saseta,Defender,Chelsea,6.2,3.5190196377890444,21.276241,Aston Villa,3.4789512,Bournemouth,3.9378698,Man City,2.5397208,Fulham,4.0139112,Brentford,3.8299503,Crystal Palace,3.4758387
+46,257,Maxence,Lacroix,Defender,Crystal Palace,5.2,3.508143788292294,20.617353,Spurs,3.459545,Fulham,4.3423047,Newcastle,2.8039024,Aston Villa,2.8916595,Sunderland,4.191697,Chelsea,2.9282444
+47,242,Kiernan,Dewsbury-Hall,Midfielder,Everton,5.0,3.4795513153076167,20.741327,Burnley,3.5628867,Nott'm Forest,3.408116,Brentford,3.3030727,Wolves,4.21681,Aston Villa,2.539514,Leeds,3.7109272
+48,249,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.2,3.477431058883667,20.905903,Aston Villa,3.5564606,Bournemouth,3.717462,Man City,2.770677,Fulham,3.7269742,Brentford,3.7020175,Crystal Palace,3.432312
+49,54,John,McGinn,Midfielder,Aston Villa,5.4,3.4660169510614303,21.278881,Chelsea,3.320631,Arsenal,2.7816582,Nott'm Forest,4.194608,Crystal Palace,3.603834,Everton,3.9861958,Newcastle,3.3919528
+50,22,Mikel,Merino Zazón,Midfielder,Arsenal,5.9,3.4648097469693133,20.841381,Brighton,3.6497483,Aston Villa,3.450645,Bournemouth,3.3163302,Liverpool,3.322895,Nott'm Forest,3.2735217,Man Utd,3.8282406
+51,253,Dean,Henderson,Goalkeeper,Crystal Palace,5.1,3.4568350882757275,20.50152,Spurs,3.43113,Fulham,4.0100803,Newcastle,2.9178681,Aston Villa,3.1636238,Sunderland,3.815194,Chelsea,3.1636238
+52,371,Milos,Kerkez,Defender,Liverpool,5.6,3.4389957927522197,20.12241,Wolves,3.8961258,Leeds,3.4382465,Fulham,3.4847064,Arsenal,2.4416945,Burnley,3.525378,Bournemouth,3.3362594
+53,694,Nordi,Mukiele,Defender,Sunderland,4.2,3.406020482381185,20.751179,Leeds,3.97254,Man City,2.6591334,Spurs,3.4017768,Brentford,3.3991017,Crystal Palace,3.2724867,West Ham,4.046138
+54,158,Georginio,Rutter,Midfielder,Brighton,5.6,3.3881154628027055,21.033281,Arsenal,2.6933815,West Ham,3.841777,Burnley,3.9583778,Man City,2.7571402,Bournemouth,3.8937137,Fulham,3.8888907
+55,708,Mateus Gonçalo,Espanha Fernandes,Midfielder,West Ham,5.5,3.3767448266347246,20.233011,Fulham,3.4016585,Brighton,3.265346,Wolves,3.5327315,Nott'm Forest,3.4196749,Spurs,3.171409,Sunderland,3.4421914
+56,517,Elliot,Anderson,Midfielder,Nott'm Forest,5.3,3.3688067027500694,20.319115,Man City,3.1694055,Everton,3.5450428,Aston Villa,3.1120625,West Ham,3.9613206,Arsenal,3.1397998,Brentford,3.3914828
+57,457,Carlos Henrique,Casimiro,Midfielder,Man Utd,5.5,3.362538133348737,19.3317,Newcastle,3.2299948,Wolves,3.7151437,Leeds,3.4584155,Burnley,3.4761167,Man City,2.943574,Arsenal,2.5084538
+58,8,Jurriën,Timber,Defender,Arsenal,6.5,3.3568049271901446,20.564487,Brighton,3.1658792,Aston Villa,3.2328608,Bournemouth,3.661783,Liverpool,3.2869997,Nott'm Forest,3.6082296,Man Utd,3.6087337
+59,423,Nico,González Iglesias,Midfielder,Man City,5.9,3.3512524763743077,20.068333,Nott'm Forest,3.4919713,Sunderland,3.400335,Chelsea,3.2143645,Brighton,3.2235365,Man Utd,3.1566062,Wolves,3.5815191
+60,575,Micky,van de Ven,Defender,Spurs,4.6,3.3327684515998475,20.697832,Crystal Palace,2.9864311,Brentford,3.1620245,Sunderland,3.7328985,Bournemouth,3.4300168,West Ham,3.6513228,Burnley,3.7351384
+61,106,Nathan,Collins,Defender,Brentford,4.9,3.3299874124072844,20.002281,Bournemouth,3.3133,Spurs,3.3133,Everton,3.2299085,Sunderland,3.8263676,Chelsea,2.7652943,Nott'm Forest,3.5541115
+62,292,Vitalii,Mykolenko,Defender,Everton,4.9,3.316960164478847,19.68991,Burnley,3.3957593,Nott'm Forest,3.3806217,Brentford,3.1249852,Wolves,3.7264981,Aston Villa,2.6370194,Leeds,3.425025
+63,473,Lewis,Hall,Defender,Newcastle,5.2,3.2841242835635227,19.949663,Man Utd,2.9640632,Burnley,3.4653895,Crystal Palace,3.1417234,Leeds,3.585449,Wolves,3.7390046,Aston Villa,3.0540338
+64,237,Enzo,Fernández,Midfielder,Chelsea,6.5,3.2840127490815663,19.940372,Aston Villa,3.2452853,Bournemouth,3.701843,Man City,2.235697,Fulham,3.8445413,Brentford,3.5939236,Crystal Palace,3.3190818
+65,683,Omar,Alderete,Defender,Sunderland,4.0,3.258741753441947,19.943188,Leeds,3.70845,Man City,2.4951203,Spurs,3.3655019,Brentford,3.3628268,Crystal Palace,3.1454983,West Ham,3.8657904
+66,260,Marc,Guéhi,Defender,Crystal Palace,5.3,3.253756999969482,18.906239,Spurs,3.3468463,Fulham,4.1726203,Newcastle,2.3238795,Aston Villa,2.5148046,Sunderland,3.9966981,Chelsea,2.5513895
+67,508,Neco,Williams,Defender,Nott'm Forest,4.7,3.2420803478785922,19.590109,Man City,2.8742359,Everton,3.5522993,Aston Villa,3.1472564,West Ham,3.7696624,Arsenal,2.932108,Brentford,3.3145473
+68,139,Bart,Verbruggen,Goalkeeper,Brighton,4.4,3.235603434698922,20.320118,Arsenal,2.343799,West Ham,3.9075267,Burnley,4.0442576,Man City,2.343799,Bournemouth,3.4580805,Fulham,4.222655
+69,565,Guglielmo,Vicario,Goalkeeper,Spurs,4.9,3.2352746441250755,19.890144,Crystal Palace,2.9725854,Brentford,3.157773,Sunderland,3.5328894,Bournemouth,3.2539704,West Ham,3.4499946,Burnley,3.522932
+70,684,Malick,Thiaw,Defender,Newcastle,5.0,3.235170069194975,19.45668,Man Utd,2.9579005,Burnley,3.4177225,Crystal Palace,3.207164,Leeds,3.352683,Wolves,3.6946387,Aston Villa,2.8265731
+71,36,Matty,Cash,Defender,Aston Villa,4.9,3.2193345796494257,19.96622,Chelsea,2.961737,Arsenal,2.2633893,Nott'm Forest,4.375657,Crystal Palace,3.33361,Everton,3.983372,Newcastle,3.0484555
+72,1,David,Raya Martín,Goalkeeper,Arsenal,6.0,3.199573142187936,19.40108,Brighton,3.106565,Aston Villa,3.1570604,Bournemouth,3.3356214,Liverpool,3.1107852,Nott'm Forest,3.400455,Man Utd,3.290593
+73,258,Tyrick,Mitchell,Defender,Crystal Palace,5.0,3.184538341703869,18.765377,Spurs,3.1837623,Fulham,3.7425494,Newcastle,2.6909258,Aston Villa,2.85556,Sunderland,3.4370203,Chelsea,2.85556
+74,317,Joachim,Andersen,Defender,Fulham,4.6,3.178392285392398,18.548355,West Ham,4.0458765,Crystal Palace,2.780435,Liverpool,2.577867,Chelsea,2.7209926,Leeds,3.6711738,Brighton,2.75201
+75,455,Mason,Mount,Midfielder,Man Utd,5.9,3.174567983264015,18.060993,Newcastle,3.1114974,Wolves,3.5246062,Leeds,3.2127018,Burnley,3.3241823,Man City,2.6625543,Arsenal,2.2254496
+76,273,Adam,Wharton,Midfielder,Crystal Palace,5.0,3.1671149730682373,18.855036,Spurs,3.2063665,Fulham,3.5012176,Newcastle,2.7351122,Aston Villa,2.9921598,Sunderland,3.4280195,Chelsea,2.9921598
+77,712,Yéremy,Pino Santos,Midfielder,Crystal Palace,5.8,3.1511781102135066,18.821999,Spurs,3.211217,Fulham,3.3433976,Newcastle,2.827842,Aston Villa,3.0246842,Sunderland,3.390173,Chelsea,3.0246842
+78,228,Malo,Gusto,Defender,Chelsea,5.0,3.149822904950096,19.254606,Aston Villa,3.0178826,Bournemouth,3.583298,Man City,2.1145203,Fulham,3.7920232,Brentford,3.5414627,Crystal Palace,3.2054195
+79,666,Viktor,Gyökeres,Forward,Arsenal,8.8,3.14494632539295,18.96443,Brighton,3.2221558,Aston Villa,3.0023997,Bournemouth,3.2191787,Liverpool,2.9776418,Nott'm Forest,3.346246,Man Utd,3.1968074
+80,101,Caoimhín,Kelleher,Goalkeeper,Brentford,4.5,3.142688433329264,19.0177,Bournemouth,3.1288736,Spurs,3.036399,Everton,3.1416361,Sunderland,3.568203,Chelsea,2.6274786,Nott'm Forest,3.5151105
+81,220,Robert,Lynch Sánchez,Goalkeeper,Chelsea,4.9,3.12341300646464,19.11714,Aston Villa,3.0067358,Bournemouth,3.5271707,Man City,2.0691636,Fulham,3.8007703,Brentford,3.5231419,Crystal Palace,3.1901562
+82,384,Cody,Gakpo,Midfielder,Liverpool,7.3,3.1226510888054255,18.31132,Wolves,3.5884523,Leeds,3.1092916,Fulham,3.0340195,Arsenal,2.2367418,Burnley,3.3093846,Bournemouth,3.0334287
+83,547,Enzo,Le Fée,Midfielder,Sunderland,4.9,3.116891077586583,19.02274,Leeds,3.434273,Man City,2.5391617,Spurs,3.104584,Brentford,3.2474937,Crystal Palace,3.295222,West Ham,3.402005
+84,387,Dominik,Szoboszlai,Midfielder,Liverpool,6.6,3.0977169786180765,18.246918,Wolves,3.2998195,Leeds,3.2279458,Fulham,3.021736,Arsenal,2.5553071,Burnley,3.2184365,Bournemouth,2.9236727
+85,205,Josh,Cullen,Midfielder,Burnley,5.0,3.09324228195917,18.415417,Everton,3.2366865,Newcastle,3.1070597,Brighton,2.9697301,Man Utd,3.1565561,Liverpool,2.7086976,Spurs,3.2366865
+86,417,Rayan,Cherki,Midfielder,Man City,6.6,3.077991962432861,18.603912,Nott'm Forest,3.1175237,Sunderland,3.0229707,Chelsea,3.045974,Brighton,3.1229384,Man Utd,2.9706185,Wolves,3.3238876
+87,452,Amad,Diallo,Midfielder,Man Utd,6.3,3.0648500238146097,17.621738,Newcastle,3.0875626,Wolves,3.4869196,Leeds,2.791103,Burnley,3.050842,Man City,2.8796275,Arsenal,2.3256843
+88,516,Callum,Hudson-Odoi,Midfielder,Nott'm Forest,5.7,3.0628148714701338,18.653925,Man City,2.7483356,Everton,3.3463209,Aston Villa,2.9424903,West Ham,3.4703944,Arsenal,2.7699656,Brentford,3.3764186
+89,670,Robin,Roefs,Goalkeeper,Sunderland,4.8,3.05999907993135,18.56238,Leeds,3.2534263,Man City,2.7140713,Spurs,3.0244477,Brentford,3.2170198,Crystal Palace,3.066802,West Ham,3.2866123
+90,124,Jordan,Henderson,Midfielder,Brentford,5.0,3.0583922749473937,18.305634,Bournemouth,3.0742865,Spurs,3.0742865,Everton,2.9814613,Sunderland,3.363875,Chelsea,2.5798936,Nott'm Forest,3.2318296
+91,84,Marcus,Tavernier,Midfielder,Bournemouth,5.6,3.0466017268952865,18.444607,Brentford,3.2732477,Chelsea,2.831836,Arsenal,2.6418371,Spurs,3.4583604,Brighton,2.9982154,Liverpool,3.2411094
+92,612,Lucas,Tolentino Coelho de Lima,Midfielder,West Ham,5.9,3.0394721258254274,18.188572,Fulham,2.9743574,Brighton,2.879604,Wolves,3.4660337,Nott'm Forest,2.9923737,Spurs,2.8672895,Sunderland,3.008915
+93,83,Dango,Ouattara,Midfielder,Brentford,5.9,3.014410813649495,17.807802,Bournemouth,3.1199126,Spurs,3.1199126,Everton,2.791623,Sunderland,3.263496,Chelsea,2.5137515,Nott'm Forest,2.999105
+94,568,Pedro,Porro Sauceda,Defender,Spurs,5.3,3.0067840757824125,18.502647,Crystal Palace,2.765471,Brentford,2.8771214,Sunderland,3.3366857,Bournemouth,3.0050554,West Ham,3.2838092,Burnley,3.2345052
+95,120,Kevin,Schade,Midfielder,Brentford,7.0,2.9932193642570857,17.908377,Bournemouth,2.9967852,Spurs,2.9967852,Everton,2.975576,Sunderland,3.1842513,Chelsea,2.682933,Nott'm Forest,3.072046
+96,449,Bruno,Borges Fernandes,Midfielder,Man Utd,9.2,2.9752026626041954,17.265667,Newcastle,3.0346677,Wolves,3.5124445,Leeds,2.575154,Burnley,2.6603255,Man City,2.9443593,Arsenal,2.5387156
+97,532,Trai,Hume,Defender,Sunderland,4.5,2.972828694752284,18.098953,Leeds,3.402404,Man City,2.3244572,Spurs,3.0191236,Brentford,2.9591389,Crystal Palace,3.0449524,West Ham,3.3488767
+98,72,Marcos,Senesi Barón,Defender,Bournemouth,4.9,2.952346710931687,17.615383,Brentford,3.2707057,Chelsea,2.7792187,Arsenal,2.4637644,Spurs,3.2503014,Brighton,3.0215974,Liverpool,2.8297968
+99,381,Mohamed,Salah,Midfielder,Liverpool,14.0,2.9382657664162766,17.311314,Wolves,3.2190063,Leeds,2.9403188,Fulham,2.8787365,Arsenal,2.4962707,Burnley,2.9072092,Bournemouth,2.869773
+100,256,Daniel,Muñoz Mejía,Defender,Crystal Palace,5.9,2.935327609380086,17.21266,Spurs,3.186873,Fulham,3.401745,Newcastle,2.131917,Aston Villa,2.829661,Sunderland,2.8328025,Chelsea,2.829661
+101,6,William,Saliba,Defender,Arsenal,5.9,2.9271974109468006,17.85499,Brighton,2.8453245,Aston Villa,2.6859965,Bournemouth,3.340208,Liverpool,2.6548195,Nott'm Forest,3.3152838,Man Utd,3.0133576
+102,337,Raúl,Jiménez Rodríguez,Forward,Fulham,6.3,2.905426933651878,17.419132,West Ham,3.0852447,Crystal Palace,2.8200758,Liverpool,2.717487,Chelsea,2.8241987,Leeds,3.0874481,Brighton,2.8846781
+103,97,Francisco Evanilson,de Lima Barbosa,Forward,Bournemouth,7.0,2.90293500536964,17.509039,Brentford,3.0116189,Chelsea,2.7888017,Arsenal,2.6757102,Spurs,3.1429324,Brighton,2.9263003,Liverpool,2.963675
+104,348,Joe,Rodon,Defender,Leeds,4.0,2.889345509665353,17.220661,Sunderland,3.3929389,Liverpool,2.4684765,Man Utd,2.736771,Newcastle,2.5880206,Fulham,3.2306387,Everton,2.8038163
+105,113,Sepp,van den Berg,Defender,Brentford,4.5,2.8799411228724887,17.452648,Bournemouth,2.8106327,Spurs,2.8106327,Everton,2.7943447,Sunderland,3.4996796,Chelsea,2.348029,Nott'm Forest,3.1893287
+106,526,Igor Jesus,Maciel da Cruz,Forward,Nott'm Forest,5.8,2.8786736329396567,17.332355,Man City,2.7219048,Everton,3.1349225,Aston Villa,2.7238295,West Ham,3.0502744,Arsenal,2.6985397,Brentford,3.0028846
+107,347,Gabriel,Gudmundsson,Defender,Leeds,3.8,2.866383484431675,17.094831,Sunderland,3.2177682,Liverpool,2.5860972,Man Utd,2.7623913,Newcastle,2.6620803,Fulham,3.054657,Everton,2.8118377
+108,121,Mikkel,Damsgaard,Midfielder,Brentford,5.8,2.8604628131503147,17.176641,Bournemouth,2.850123,Spurs,2.850123,Everton,2.7771711,Sunderland,3.2064877,Chelsea,2.4974837,Nott'm Forest,2.995252
+109,515,Morgan,Gibbs-White,Midfielder,Nott'm Forest,7.3,2.847805136726016,17.203625,Man City,2.5613956,Everton,3.161883,Aston Villa,2.8252149,West Ham,3.0808516,Arsenal,2.508425,Brentford,3.0658543
+110,386,Alexis,Mac Allister,Midfielder,Liverpool,6.2,2.8392944790068126,16.484,Wolves,3.4254131,Leeds,2.698427,Fulham,2.7578912,Arsenal,2.0558424,Burnley,2.8350532,Bournemouth,2.7113721
+111,440,Diogo,Dalot Teixeira,Defender,Man Utd,4.4,2.823360323905945,15.714891,Newcastle,2.54204,Wolves,3.486773,Leeds,2.931619,Burnley,3.0962856,Man City,1.9309543,Arsenal,1.7272199
+112,342,Jayden,Bogle,Defender,Leeds,4.4,2.815016292390369,16.819466,Sunderland,3.1030571,Liverpool,2.5014434,Man Utd,2.7912564,Newcastle,2.698823,Fulham,3.0034022,Everton,2.7214832
+113,597,Richarlison,de Andrade,Forward,Spurs,6.4,2.804896717979794,17.209524,Crystal Palace,2.6293051,Brentford,2.632041,Sunderland,3.1672792,Bournemouth,2.7837272,West Ham,2.9493256,Burnley,3.0478458
+114,569,Cristian,Romero,Defender,Spurs,5.0,2.7682851269131614,17.095615,Crystal Palace,2.5131783,Brentford,2.64886,Sunderland,3.1936228,Bournemouth,2.6811783,West Ham,2.933816,Burnley,3.1249595
+115,58,Boubacar,Kamara,Midfielder,Aston Villa,4.9,2.7667219071161178,16.89958,Chelsea,2.542547,Arsenal,2.3121102,Nott'm Forest,3.4201422,Crystal Palace,2.9256496,Everton,3.1286793,Newcastle,2.570451
+116,107,Keane,Lewis-Potter,Defender,Brentford,4.8,2.754009871255784,16.440886,Bournemouth,2.7960799,Spurs,2.7960799,Everton,2.6487403,Sunderland,3.0281923,Chelsea,2.2259977,Nott'm Forest,2.9457953
+117,718,Soungoutou,Magassa,Midfielder,West Ham,5.0,2.7520446550278432,16.62662,Fulham,2.7505796,Brighton,2.5349789,Wolves,3.0562553,Nott'm Forest,2.7685957,Spurs,2.5675478,Sunderland,2.9486618
+118,48,Youri,Tielemans,Midfielder,Aston Villa,5.9,2.7414377189817882,16.74125,Chelsea,2.6117258,Arsenal,2.3463125,Nott'm Forest,3.202529,Crystal Palace,2.840142,Everton,3.0971937,Newcastle,2.6433454
+119,671,Callum,Wilson,Forward,West Ham,5.8,2.7342882496970042,16.617455,Fulham,2.675587,Brighton,2.4376338,Wolves,3.2454216,Nott'm Forest,2.6936033,Spurs,2.5506585,Sunderland,3.0145495
+120,698,Noah,Okafor,Midfielder,Leeds,5.5,2.7300334998539517,16.544512,Sunderland,2.8454566,Liverpool,2.5069418,Man Utd,2.7870305,Newcastle,2.6351414,Fulham,2.8997674,Everton,2.8701742
+121,200,Jaidon,Anthony,Midfielder,Burnley,5.2,2.7227635043007985,16.243896,Everton,2.8294182,Newcastle,2.733637,Brighton,2.608969,Man Utd,2.7831335,Liverpool,2.4593222,Spurs,2.8294182
+122,354,Ethan,Ampadu,Midfielder,Leeds,4.9,2.72013072740464,16.347565,Sunderland,3.0268514,Liverpool,2.3613691,Man Utd,2.7057788,Newcastle,2.5423565,Fulham,2.9933977,Everton,2.7178109
+123,673,João Maria,Lobo Alves Palhares Costa Palhinha Gonçalves,Midfielder,Spurs,5.5,2.7186772709801086,16.48839,Crystal Palace,2.593362,Brentford,2.708745,Sunderland,2.8759243,Bournemouth,2.6739013,West Ham,2.8264668,Burnley,2.8099902
+124,261,Chris,Richards,Defender,Crystal Palace,4.6,2.705383823031471,15.8838625,Spurs,2.7004325,Fulham,3.3117127,Newcastle,2.1542335,Aston Villa,2.2730129,Sunderland,3.171458,Chelsea,2.2730129
+125,676,Lesley,Ugochukwu,Midfielder,Burnley,5.0,2.698121672584897,16.065855,Everton,2.8428168,Newcastle,2.682706,Brighton,2.6100364,Man Utd,2.7322025,Liverpool,2.3552768,Spurs,2.8428168
+126,67,Đorđe,Petrović,Goalkeeper,Bournemouth,4.5,2.6937864053817018,16.064632,Brentford,2.9220388,Chelsea,2.6132097,Arsenal,2.3239284,Spurs,2.8993995,Brighton,2.6712646,Liverpool,2.6347919
+127,322,Kenny,Tete,Defender,Fulham,4.5,2.688919737225487,16.104593,West Ham,2.9386373,Crystal Palace,2.557135,Liverpool,2.432129,Chelsea,2.6175425,Leeds,2.9095235,Brighton,2.6496253
+128,497,Lewis,Miley,Midfielder,Newcastle,4.4,2.6884364854721796,16.26228,Man Utd,2.3873782,Burnley,2.906959,Crystal Palace,2.547353,Leeds,2.9870648,Wolves,3.013971,Aston Villa,2.4195528
+129,416,Bernardo,Mota Veiga de Carvalho e Silva,Midfielder,Man City,6.2,2.6764989921024864,16.365221,Nott'm Forest,2.6571867,Sunderland,2.8434305,Chelsea,2.5271392,Brighton,2.54439,Man Utd,2.5114033,Wolves,3.2816725
+130,725,Piero,Hincapié,Defender,Arsenal,5.5,2.661577156611851,15.936725,Brighton,2.7950573,Aston Villa,2.735332,Bournemouth,2.501044,Liverpool,2.6115494,Nott'm Forest,2.3135495,Man Utd,2.9801931
+131,215,Zian,Flemming,Forward,Burnley,5.3,2.6412278584071567,15.762093,Everton,2.7645726,Newcastle,2.6004944,Brighton,2.5982041,Man Utd,2.6499906,Liverpool,2.3842583,Spurs,2.7645726
+132,717,Xavi,Simons,Midfielder,Spurs,6.5,2.637377591360183,15.930869,Crystal Palace,2.5182118,Brentford,2.583349,Sunderland,2.8796496,Bournemouth,2.543999,West Ham,2.802658,Burnley,2.6030018
+133,299,Iliman,Ndiaye,Midfielder,Everton,6.3,2.62645936012268,15.847576,Burnley,2.5841622,Nott'm Forest,2.4587872,Brentford,2.7797527,Wolves,3.0077717,Aston Villa,2.1973093,Leeds,2.8197925
+134,125,Vitaly,Janelt,Midfielder,Brentford,4.9,2.626140333357311,15.771287,Bournemouth,2.6220179,Spurs,2.6220179,Everton,2.5853693,Sunderland,2.8387163,Chelsea,2.3459587,Nott'm Forest,2.757207
+135,470,Martin,Dúbravka,Goalkeeper,Burnley,4.0,2.623666842778524,15.5512,Everton,2.783591,Newcastle,2.6232142,Brighton,2.5273814,Man Utd,2.6269507,Liverpool,2.2989461,Spurs,2.691116
+136,74,Adrien,Truffert,Defender,Bournemouth,4.5,2.6183037644340876,15.610064,Brentford,2.828635,Chelsea,2.395168,Arsenal,2.383671,Spurs,2.9548688,Brighton,2.5897193,Liverpool,2.4579997
+137,585,Rodrigo,Bentancur,Midfielder,Spurs,5.3,2.5979590188889277,15.8431015,Crystal Palace,2.4692318,Brentford,2.540949,Sunderland,2.7968483,Bournemouth,2.5337334,West Ham,2.7460716,Burnley,2.7562664
+138,32,Emiliano,Martínez Romero,Goalkeeper,Aston Villa,5.0,2.595983766374134,15.900242,Chelsea,2.5187936,Arsenal,2.01875,Nott'm Forest,3.2072897,Crystal Palace,2.685815,Everton,2.9529495,Newcastle,2.5166447
+139,173,Mats,Wieffer,Midfielder,Brighton,4.9,2.591611135573614,15.850748,Arsenal,2.3060005,West Ham,2.580397,Burnley,3.0864136,Man City,2.2589166,Bournemouth,2.9444218,Fulham,2.6745987
+140,145,Maxim,De Cuyper,Defender,Brighton,4.3,2.5824004525230047,15.799969,Arsenal,1.9190545,West Ham,3.0635304,Burnley,3.3881822,Man City,1.8315765,Bournemouth,2.7533476,Fulham,2.844277
+141,314,Bernd,Leno,Goalkeeper,Fulham,4.9,2.579621008464268,15.487957,West Ham,2.7208023,Crystal Palace,2.4270089,Liverpool,2.5169609,Chelsea,2.572512,Leeds,2.676131,Brighton,2.5745418
+142,453,Alejandro,Garnacho Ferreyra,Midfielder,Chelsea,6.4,2.5594468797956194,15.501284,Aston Villa,2.5286987,Bournemouth,2.7474833,Man City,2.0668383,Fulham,2.8405602,Brentford,2.732039,Crystal Palace,2.5856645
+143,491,Sandro,Tonali,Midfielder,Newcastle,5.3,2.5474066507248656,15.575935,Man Utd,2.35463,Burnley,2.5964212,Crystal Palace,2.4773517,Leeds,2.5726697,Wolves,3.1833751,Aston Villa,2.3914874
+144,163,Jack,Hinshelwood,Midfielder,Brighton,5.1,2.5408687705085384,15.742891,Arsenal,1.9812626,West Ham,2.907268,Burnley,3.072926,Man City,2.0046263,Bournemouth,2.8519382,Fulham,2.924869
+145,26,Martín,Zubimendi Ibáñez,Midfielder,Arsenal,5.2,2.5363063698723196,15.285018,Brighton,2.4464612,Aston Villa,2.4525428,Bournemouth,2.7990549,Liverpool,2.4167075,Nott'm Forest,2.7043598,Man Utd,2.4658911
+146,110,Michael,Kayode,Defender,Brentford,4.5,2.535490762619745,15.292959,Bournemouth,2.5065632,Spurs,2.5065632,Everton,2.4396713,Sunderland,2.9455929,Chelsea,2.183079,Nott'm Forest,2.7114892
+147,148,Ferdi,Kadıoğlu,Defender,Brighton,4.4,2.5151448533648533,15.554561,Arsenal,1.8584099,West Ham,2.9212227,Burnley,3.2370787,Man City,1.8988029,Bournemouth,2.777699,Fulham,2.861348
+148,59,Amadou,Onana,Midfielder,Aston Villa,4.8,2.5047464711325507,15.3675995,Chelsea,2.36833,Arsenal,1.9952743,Nott'm Forest,3.1405292,Crystal Palace,2.5205112,Everton,2.9467201,Newcastle,2.396234
+149,505,Nikola,Milenković,Defender,Nott'm Forest,5.1,2.5026785646166116,15.167929,Man City,2.2778902,Everton,2.6983252,Aston Villa,2.3264744,West Ham,2.9352806,Arsenal,2.3555858,Brentford,2.5743718
+150,681,Benjamin,Sesko,Forward,Man Utd,7.2,2.4974427961167835,14.156979,Newcastle,2.319062,Wolves,2.917489,Leeds,2.5714123,Burnley,2.6687298,Man City,1.9723577,Arsenal,1.7079273
+151,466,Joshua,Zirkzee,Forward,Man Utd,5.8,2.4929654200871787,14.344618,Newcastle,2.2261922,Wolves,3.0464501,Leeds,2.4689078,Burnley,2.5901964,Man City,2.1037776,Arsenal,1.909094
+152,38,Ezri,Konsa Ngoyo,Defender,Aston Villa,4.4,2.4853131430489674,15.24983,Chelsea,2.2829964,Arsenal,1.8633308,Nott'm Forest,3.3748288,Crystal Palace,2.5053055,Everton,2.9383426,Newcastle,2.2850263
+153,350,Brenden,Aaronson,Midfielder,Leeds,5.4,2.4852436497097923,14.947467,Sunderland,2.6516979,Liverpool,2.271961,Man Utd,2.5267236,Newcastle,2.3525963,Fulham,2.6109526,Everton,2.533536
+154,310,Thierno,Barry,Forward,Everton,5.7,2.470672232764108,14.627107,Burnley,2.5884643,Nott'm Forest,2.3040733,Brentford,2.3568964,Wolves,3.030534,Aston Villa,1.9666392,Leeds,2.3804986
+155,502,Matz,Sels,Goalkeeper,Nott'm Forest,4.6,2.4590504623594738,14.872337,Man City,2.1303613,Everton,2.717244,Aston Villa,2.4513867,West Ham,2.9014058,Arsenal,2.0899677,Brentford,2.5819726
+156,693,Omari,Hutchinson,Midfielder,Nott'm Forest,5.4,2.4533894856770835,14.993273,Man City,2.1407344,Everton,2.7063072,Aston Villa,2.312376,West Ham,2.7659433,Arsenal,2.5299911,Brentford,2.5379205
+157,20,Leandro,Trossard,Midfielder,Arsenal,6.9,2.4429633163270497,14.835453,Brighton,2.3433154,Aston Villa,2.3157244,Bournemouth,2.7231133,Liverpool,2.376011,Nott'm Forest,2.5659406,Man Utd,2.5113485
+158,129,Yehor,Yarmoliuk,Midfielder,Brentford,5.0,2.4396941207704086,14.662567,Bournemouth,2.4342139,Spurs,2.4342139,Everton,2.3327496,Sunderland,2.7287776,Chelsea,2.2072804,Nott'm Forest,2.5253317
+159,324,Alex,Iwobi,Midfielder,Fulham,6.3,2.439551285334996,14.715854,West Ham,2.4630196,Crystal Palace,2.3656924,Liverpool,2.4355721,Chelsea,2.4959795,Leeds,2.43818,Brighton,2.5174103
+160,230,Wesley,Fofana,Defender,Chelsea,4.4,2.429160413287935,14.694695,Aston Villa,2.4009895,Bournemouth,2.6774368,Man City,1.7448338,Fulham,2.8755121,Brentford,2.6174526,Crystal Palace,2.3784704
+161,476,Dan,Burn,Defender,Newcastle,5.1,2.403196618670509,14.545769,Man Utd,2.1306503,Burnley,2.5233207,Crystal Palace,2.5399647,Leeds,2.5054836,Wolves,2.5439644,Aston Villa,2.3023856
+162,600,Alphonse,Areola,Goalkeeper,West Ham,4.3,2.391721237273443,14.303825,Fulham,2.320722,Brighton,2.250697,Wolves,2.833889,Nott'm Forest,2.320722,Spurs,2.1728122,Sunderland,2.404982
+163,722,Florentino Ibrain,Morris Luís,Midfielder,Burnley,5.0,2.388867514474051,14.240646,Everton,2.4759533,Newcastle,2.4100027,Brighton,2.2953243,Man Utd,2.4364064,Liverpool,2.1470072,Spurs,2.4759533
+164,541,Reinildo,Mandava,Defender,Sunderland,3.9,2.374192215147472,14.372096,Leeds,2.5200539,Man City,2.0854604,Spurs,2.4199948,Brentford,2.442102,Crystal Palace,2.399641,West Ham,2.504844
+165,415,Sávio,Moreira de Oliveira,Midfielder,Man City,6.9,2.3714398883637924,14.666664,Nott'm Forest,2.2597437,Sunderland,2.4428363,Chelsea,2.258492,Brighton,2.4472635,Man Utd,2.3935065,Wolves,2.8648226
+166,109,Rico,Henry,Defender,Brentford,4.3,2.3675915627252486,14.232411,Bournemouth,2.3399734,Spurs,2.3399734,Everton,2.3221507,Sunderland,2.6408222,Chelsea,2.1791534,Nott'm Forest,2.4103386
+167,749,Mateus,Mané,Forward,Wolves,4.5,2.360994554701305,13.999992,Liverpool,2.3837008,Man Utd,2.3451726,West Ham,2.4555225,Everton,2.3038032,Newcastle,2.3075242,Man City,2.2042692
+168,727,Samuel,Chukwueze,Midfielder,Fulham,5.3,2.3457461198170977,14.176902,West Ham,2.369094,Crystal Palace,2.2525263,Liverpool,2.3691823,Chelsea,2.3979096,Leeds,2.3248253,Brighton,2.4633648
+169,646,João Victor,Gomes da Silva,Midfielder,Wolves,5.3,2.3283599785396025,13.760757,Liverpool,2.2468557,Man Utd,2.3414075,West Ham,2.4886591,Everton,2.3299809,Newcastle,2.4089537,Man City,1.944901
+170,487,Harvey,Barnes,Midfielder,Newcastle,6.2,2.323552324658349,14.165191,Man Utd,2.1495652,Burnley,2.393928,Crystal Palace,2.2260063,Leeds,2.401013,Wolves,2.8258252,Aston Villa,2.168853
+171,151,Jan Paul,van Hecke,Defender,Brighton,4.6,2.3076486133393783,14.658232,Arsenal,1.5332298,West Ham,2.7281928,Burnley,3.161395,Man City,1.5332298,Bournemouth,2.672824,Fulham,3.0293603
+172,325,Emile,Smith Rowe,Midfielder,Fulham,5.6,2.3075139295487173,13.852634,West Ham,2.4172862,Crystal Palace,2.2408364,Liverpool,2.2040231,Chelsea,2.2754333,Leeds,2.3924463,Brighton,2.3226087
+173,654,Jørgen,Strand Larsen,Forward,Wolves,6.1,2.3053146884554905,13.667761,Liverpool,2.141613,Man Utd,2.3738477,West Ham,2.473424,Everton,2.384039,Newcastle,2.352042,Man City,1.9427953
+174,116,Aaron,Hickey,Defender,Brentford,4.0,2.29500352768671,13.798302,Bournemouth,2.2835836,Spurs,2.2835836,Everton,2.2184248,Sunderland,2.6215963,Chelsea,1.9460518,Nott'm Forest,2.4450622
+175,643,André,Trindade da Costa Neto,Midfielder,Wolves,5.3,2.2883629515057518,13.56104,Liverpool,2.197688,Man Utd,2.2922397,West Ham,2.471924,Everton,2.280813,Newcastle,2.3597856,Man City,1.9585887
+176,615,Crysencio,Summerville,Midfielder,West Ham,5.5,2.287915581748599,13.822353,Fulham,2.1863592,Brighton,2.0925636,Wolves,2.8072653,Nott'm Forest,2.2043753,Spurs,2.0912771,Sunderland,2.440513
+177,553,Chemsdine,Talbi,Midfielder,Sunderland,4.9,2.282380183537801,13.687017,Leeds,2.4472616,Man City,2.1411245,Spurs,2.1960554,Brentford,2.2291002,Crystal Palace,2.3957949,West Ham,2.27768
+178,90,Alex,Scott,Midfielder,Bournemouth,5.0,2.2736451625823975,13.687645,Brentford,2.3782926,Chelsea,2.201873,Arsenal,2.0693023,Spurs,2.4553444,Brighton,2.2413528,Liverpool,2.3414795
+179,730,Brian,Brobbey,Forward,Sunderland,5.5,2.2735484895252043,13.706985,Leeds,2.3618345,Man City,2.0881317,Spurs,2.3089888,Brentford,2.3183265,Crystal Palace,2.3122149,West Ham,2.3174884
+180,343,Pascal,Struijk,Defender,Leeds,4.3,2.271876051312401,13.467674,Sunderland,2.6181576,Liverpool,2.007576,Man Utd,2.1814828,Newcastle,2.0834644,Fulham,2.4092524,Everton,2.1677423
+181,81,Justin,Kluivert,Midfielder,Bournemouth,7.0,2.2650694847106934,13.580452,Brentford,2.436288,Chelsea,2.1225412,Arsenal,2.074052,Spurs,2.4199755,Brighton,2.252293,Liverpool,2.2753034
+182,603,El Hadji Malick,Diouf,Defender,West Ham,4.0,2.2635546071188792,13.6117,Fulham,2.1726556,Brighton,2.1815941,Wolves,2.6972663,Nott'm Forest,2.0935025,Spurs,2.054489,Sunderland,2.4121919
+183,311,Norberto Bercique,Gomes Betuncal,Forward,Everton,5.0,2.2627853098369783,13.530945,Burnley,2.3565705,Nott'm Forest,1.9901214,Brentford,1.9290258,Wolves,3.3725886,Aston Villa,1.7119541,Leeds,2.1706846
+184,731,Kevin,Santos Lopes de Macedo,Midfielder,Fulham,5.8,2.262559254964193,13.614337,West Ham,2.2881942,Crystal Palace,2.2725642,Liverpool,2.2015922,Chelsea,2.225888,Leeds,2.311628,Brighton,2.3144693
+185,490,Joelinton Cássio,Apolinário de Lira,Midfielder,Newcastle,5.9,2.259533337184361,13.709735,Man Utd,2.1366677,Burnley,2.2987726,Crystal Palace,2.2398007,Leeds,2.289761,Wolves,2.5631115,Aston Villa,2.1816218
+186,358,Tanaka,Ao,Midfielder,Leeds,4.8,2.258370456241426,13.550113,Sunderland,2.4843304,Liverpool,2.0387647,Man Utd,2.2213848,Newcastle,2.0806534,Fulham,2.4734952,Everton,2.2514837
+187,284,Eddie,Nketiah,Forward,Crystal Palace,5.4,2.258295104617164,13.7764,Spurs,2.2459989,Fulham,2.2624063,Newcastle,2.050092,Aston Villa,2.213968,Sunderland,2.789966,Chelsea,2.213968
+188,318,Calvin,Bassey,Defender,Fulham,4.5,2.2534339541480652,13.448811,West Ham,2.472841,Crystal Palace,2.1407545,Liverpool,2.0620677,Chelsea,2.1559374,Leeds,2.4480014,Brighton,2.1692085
+189,486,Anthony,Elanga,Midfielder,Newcastle,6.5,2.252229327247256,13.717332,Man Utd,2.0143087,Burnley,2.4563808,Crystal Palace,2.094371,Leeds,2.2854226,Wolves,2.8284588,Aston Villa,2.03839
+190,301,Carlos,Alcaraz Durán,Midfielder,Everton,5.2,2.2431792418162027,13.380596,Burnley,2.2922542,Nott'm Forest,2.1242735,Brentford,2.1641264,Wolves,2.6764715,Aston Villa,1.9224813,Leeds,2.2009885
+191,443,Luke,Shaw,Defender,Man Utd,4.5,2.235337734222412,12.895555,Newcastle,1.9555087,Wolves,2.675062,Leeds,2.2525687,Burnley,2.4988265,Man City,1.8133872,Arsenal,1.7002017
+192,521,Ibrahim,Sangaré,Midfielder,Nott'm Forest,4.9,2.233032237915766,13.43587,Man City,2.1297414,Everton,2.4426434,Aston Villa,2.0576656,West Ham,2.3570793,Arsenal,2.1513712,Brentford,2.2973688
+193,332,Saša,Lukić,Midfielder,Fulham,4.9,2.231549819310506,13.369611,West Ham,2.3170786,Crystal Palace,2.2101688,Liverpool,2.1380715,Chelsea,2.1677866,Leeds,2.3170786,Brighton,2.2194273
+194,388,Curtis,Jones,Midfielder,Liverpool,5.4,2.219532188915071,12.784859,Wolves,2.7802696,Leeds,2.1231596,Fulham,2.0587451,Arsenal,1.4737941,Burnley,2.3075073,Bournemouth,2.0413826
+195,489,Jacob,Murphy,Midfielder,Newcastle,6.0,2.2169518243698842,13.4718685,Man Utd,2.0449808,Burnley,2.305207,Crystal Palace,2.1559274,Leeds,2.2802322,Wolves,2.6101418,Aston Villa,2.075379
+196,126,Mathias,Jensen,Midfielder,Brentford,4.9,2.2162197885059176,13.207497,Bournemouth,2.2339087,Spurs,2.2339087,Everton,2.156429,Sunderland,2.4266763,Chelsea,1.9053018,Nott'm Forest,2.2512717
+197,146,Lewis,Dunk,Defender,Brighton,4.5,2.213779954683213,13.3820305,Arsenal,1.8431097,West Ham,2.5010595,Burnley,2.7145636,Man City,1.7556318,Bournemouth,2.2326064,Fulham,2.3350604
+198,271,Daichi,Kamada,Midfielder,Crystal Palace,5.0,2.211768933704921,13.268168,Spurs,2.3050127,Fulham,2.245528,Newcastle,1.9770889,Aston Villa,2.2215822,Sunderland,2.2973735,Chelsea,2.2215822
+199,162,Brajan,Gruda,Midfielder,Brighton,5.4,2.2091292540232335,13.51995,Arsenal,1.8098656,West Ham,2.3554206,Burnley,2.7742,Man City,1.8332305,Bournemouth,2.4116929,Fulham,2.3355408
+200,613,Tomáš,Souček,Midfielder,West Ham,5.7,2.206162503787449,13.4048,Fulham,2.0744476,Brighton,1.9834529,Wolves,2.743521,Nott'm Forest,2.1942286,Spurs,1.9995418,Sunderland,2.4096088
+201,610,Aaron,Wan-Bissaka,Defender,West Ham,4.2,2.204451935631888,13.343248,Fulham,2.068487,Brighton,2.052886,Wolves,2.7646208,Nott'm Forest,2.068487,Spurs,1.9654284,Sunderland,2.4233384
+202,444,Leny,Yoro,Defender,Man Utd,4.3,2.2030026401792253,12.655231,Newcastle,2.1147532,Wolves,2.6464534,Leeds,2.0636997,Burnley,2.1810548,Man City,1.8950356,Arsenal,1.7542344
+203,276,Justin,Devenny,Midfielder,Crystal Palace,4.3,2.198997168313889,13.254567,Spurs,2.196945,Fulham,2.217735,Newcastle,2.1144104,Aston Villa,2.1214101,Sunderland,2.4826567,Chelsea,2.1214101
+204,506,Murillo,Costa dos Santos,Defender,Nott'm Forest,5.2,2.195494288489932,13.331623,Man City,1.9825929,Everton,2.3814566,Aston Villa,2.1629708,West Ham,2.3928823,Arsenal,2.060288,Brentford,2.3514333
+205,606,Konstantinos,Mavropanos,Defender,West Ham,4.4,2.1848237060365223,13.138292,Fulham,2.1089969,Brighton,1.9294331,Wolves,2.7731316,Nott'm Forest,2.1089969,Spurs,1.9429011,Sunderland,2.2748318
+206,474,Fabian,Schär,Defender,Newcastle,5.3,2.180771742548261,13.146965,Man Utd,2.0788994,Burnley,2.217881,Crystal Palace,2.1313238,Leeds,2.244975,Wolves,2.4992998,Aston Villa,1.9745854
+207,573,Djed,Spence,Defender,Spurs,4.3,2.1720891680036276,13.314363,Crystal Palace,2.056678,Brentford,2.088027,Sunderland,2.3737402,Bournemouth,2.0959404,West Ham,2.3509104,Burnley,2.3490665
+208,11,Benjamin,White,Defender,Arsenal,5.2,2.1711367993127735,13.235314,Brighton,2.1124425,Aston Villa,2.1527588,Bournemouth,2.1959505,Liverpool,2.2621126,Nott'm Forest,2.0732343,Man Utd,2.438815
+209,330,Sander,Berge,Midfielder,Fulham,4.9,2.153272867202759,12.897062,West Ham,2.271644,Crystal Palace,2.0859654,Liverpool,2.0416684,Chelsea,2.1338043,Leeds,2.2269728,Brighton,2.1370063
+210,609,Jean-Clair,Todibo,Defender,West Ham,4.3,2.149643035162063,12.968045,Fulham,2.0329008,Brighton,1.9686618,Wolves,2.7304373,Nott'm Forest,2.0329008,Spurs,1.8781933,Sunderland,2.324952
+211,586,Lucas,Bergvall,Midfielder,Spurs,5.3,2.141653197152274,12.997811,Crystal Palace,2.0452962,Brentford,2.1216412,Sunderland,2.2896357,Bournemouth,2.1005814,West Ham,2.19379,Burnley,2.2468674
+212,187,Kyle,Walker,Defender,Burnley,4.4,2.139980304808844,12.745666,Everton,2.2039356,Newcastle,2.1813529,Brighton,2.0555174,Man Utd,2.1813529,Liverpool,1.9195722,Spurs,2.2039356
+213,418,Jérémy,Doku,Midfielder,Man City,6.4,2.136330525080363,13.076394,Nott'm Forest,2.039688,Sunderland,2.1725223,Chelsea,2.155713,Brighton,2.1920178,Man Utd,2.046842,Wolves,2.469611
+214,119,Bryan,Mbeumo,Midfielder,Man Utd,8.1,2.1354027021498907,12.098061,Newcastle,2.1250482,Wolves,2.4292192,Leeds,2.0332708,Burnley,2.2980847,Man City,1.7072966,Arsenal,1.5051408
+215,623,Freddie,Potts,Midfielder,West Ham,4.4,2.1165351356778825,12.745872,Fulham,2.050203,Brighton,1.9560958,Wolves,2.5260634,Nott'm Forest,2.050203,Spurs,1.9473712,Sunderland,2.2159348
+216,37,Lucas,Digne,Defender,Aston Villa,4.5,2.105031036195301,12.9546585,Chelsea,2.078249,Arsenal,1.601814,Nott'm Forest,2.5560355,Crystal Palace,2.1552293,Everton,2.4739268,Newcastle,2.089404
+217,166,Yasin,Ayari,Midfielder,Brighton,4.8,2.094669472603571,12.893562,Arsenal,1.7525622,West Ham,2.3241932,Burnley,2.4225144,Man City,1.7054781,Bournemouth,2.3564136,Fulham,2.3324006
+218,726,Randal,Kolo Muani,Forward,Spurs,6.9,2.07848444439116,12.649954,Crystal Palace,1.9661335,Brentford,2.0373814,Sunderland,2.2602963,Bournemouth,2.038428,West Ham,2.1602812,Burnley,2.1874335
+219,304,Tim,Iroegbunam,Midfielder,Everton,4.8,2.066674754733131,12.35202,Burnley,2.090977,Nott'm Forest,1.9475286,Brentford,1.9807051,Wolves,2.5043054,Aston Villa,1.8524238,Leeds,1.9760809
+220,272,Jefferson,Lerma Solís,Midfielder,Crystal Palace,4.9,2.0643189293997626,12.427451,Spurs,2.085756,Fulham,2.1192493,Newcastle,1.8975124,Aston Villa,1.9959933,Sunderland,2.3329458,Chelsea,1.9959933
+221,716,Nicolò,Savona,Defender,Nott'm Forest,4.5,2.062974259966895,12.452928,Man City,1.8936695,Everton,2.246782,Aston Villa,2.02091,West Ham,2.2500699,Arsenal,1.8511866,Brentford,2.1903093
+222,733,Senne,Lammens,Goalkeeper,Man Utd,5.0,2.0617280574071977,11.932152,Newcastle,1.9364148,Wolves,2.4452255,Leeds,1.994535,Burnley,2.0816207,Man City,1.754316,Arsenal,1.7200389
+223,192,Quilindschy,Hartman,Defender,Burnley,4.0,2.0539382639385404,12.221612,Everton,2.1153011,Newcastle,2.0937934,Brighton,1.9842013,Man Utd,2.0937934,Liverpool,1.8192216,Spurs,2.1153011
+224,376,Joe,Gomez,Defender,Liverpool,4.9,2.048772136370341,11.895591,Wolves,2.3934095,Leeds,2.0482414,Fulham,1.9903059,Arsenal,1.5024318,Burnley,1.9928293,Bournemouth,1.9683735
+225,441,Patrick,Dorgu,Defender,Man Utd,4.1,2.0387998876117526,11.487671,Newcastle,1.7883216,Wolves,2.7628956,Leeds,1.837731,Burnley,2.1297874,Man City,1.5611694,Arsenal,1.4077649
+226,372,Andrew,Robertson,Defender,Liverpool,5.8,2.0330047664188204,11.798241,Wolves,2.4401076,Leeds,1.999919,Fulham,1.9415619,Arsenal,1.3620046,Burnley,2.1459503,Bournemouth,1.908697
+227,685,Bafodé,Diakité,Defender,Bournemouth,4.4,2.0324175301052274,12.219457,Brentford,2.1469307,Chelsea,1.9265636,Arsenal,1.8536468,Spurs,2.2148037,Brighton,2.0298557,Liverpool,2.0476563
+228,605,Maximilian,Kilman,Defender,West Ham,4.2,2.030914124988374,12.208086,Fulham,1.8510096,Brighton,1.8365521,Wolves,2.7972503,Nott'm Forest,1.8510096,Spurs,1.7460833,Sunderland,2.1261818
+229,697,Amine,Adli,Midfielder,Bournemouth,5.4,2.029856312842596,12.23912,Brentford,2.1417358,Chelsea,1.9141952,Arsenal,1.8905449,Spurs,2.1434717,Brighton,2.063825,Liverpool,2.0853474
+230,713,Álex,Jiménez Sánchez,Defender,Bournemouth,4.5,2.0204959994270686,12.132987,Brentford,2.135983,Chelsea,1.9485177,Arsenal,1.7766308,Spurs,2.228504,Brighton,2.0365434,Liverpool,2.006808
+231,677,Evann,Guessand,Midfielder,Aston Villa,6.2,2.01341864608583,12.259456,Chelsea,1.9161383,Arsenal,1.8514354,Nott'm Forest,2.214691,Crystal Palace,2.0855057,Everton,2.220818,Newcastle,1.9708678
+232,665,Lucas Estella,Perri,Goalkeeper,Leeds,4.5,1.986933259736924,11.741345,Sunderland,2.2054484,Liverpool,1.852025,Man Utd,1.9229072,Newcastle,1.9112482,Fulham,1.957692,Everton,1.8920254
+233,169,Diego,Gómez Amarilla,Midfielder,Brighton,4.9,1.9818151451292492,12.121735,Arsenal,1.6897433,West Ham,2.1346462,Burnley,2.3704896,Man City,1.6022654,Bournemouth,2.1930838,Fulham,2.1315055
+234,680,Armando,Broja,Forward,Burnley,5.2,1.9754758392061504,11.834918,Everton,1.9761015,Newcastle,1.957761,Brighton,2.0094604,Man Utd,1.9946489,Liverpool,1.9208441,Spurs,1.9761015
+235,17,Martin,Ødegaard,Midfielder,Arsenal,7.8,1.9741761627651395,11.860817,Brighton,1.9410942,Aston Villa,1.9204795,Bournemouth,2.103245,Liverpool,1.9037304,Nott'm Forest,2.0922983,Man Utd,1.899969
+236,316,Antonee,Robinson,Defender,Fulham,4.9,1.9675319819223311,11.724528,West Ham,2.111627,Crystal Palace,1.9684758,Liverpool,1.7776098,Chelsea,1.8507953,Leeds,2.1271849,Brighton,1.8888351
+237,202,Jacob,Bruun Larsen,Midfielder,Burnley,5.3,1.9658730427424114,11.743455,Everton,2.0047333,Newcastle,1.9660743,Brighton,1.9405189,Man Utd,2.0029616,Liverpool,1.8244343,Spurs,2.0047333
+238,663,Jhon,Arias,Midfielder,Wolves,4.9,1.9455617666244507,11.55674,Liverpool,1.8511777,Man Utd,1.963228,West Ham,2.0839286,Everton,1.9842912,Newcastle,1.9708884,Man City,1.7032263
+239,552,Noah,Sadiki,Midfielder,Sunderland,5.0,1.931824445724487,11.609892,Leeds,2.0812643,Man City,1.779169,Spurs,1.8666688,Brentford,1.888776,Crystal Palace,2.0578663,West Ham,1.9361472
+240,560,Wilson,Isidor,Forward,Sunderland,5.4,1.92589917637053,11.657622,Leeds,2.0384107,Man City,1.6706111,Spurs,1.9706798,Brentford,1.9909554,Crystal Palace,2.0178132,West Ham,1.9691515
+241,584,Mathys,Tel,Midfielder,Spurs,6.2,1.9245054835364932,11.677599,Crystal Palace,1.8595936,Brentford,1.8987498,Sunderland,2.03458,Bournemouth,1.8718743,West Ham,1.9965608,Burnley,2.0162396
+242,344,Jaka,Bijol,Defender,Leeds,3.9,1.9233188515617734,11.460308,Sunderland,2.3368182,Liverpool,1.5492563,Man Utd,1.7992597,Newcastle,1.775897,Fulham,2.0986986,Everton,1.900378
+243,365,Lukas,Nmecha,Forward,Leeds,5.0,1.9065862780525569,11.171547,Sunderland,2.2677946,Liverpool,1.6706831,Man Utd,1.8372586,Newcastle,1.7067822,Fulham,1.9197193,Everton,1.7693088
+244,735,Bertrand,Traoré,Midfielder,Sunderland,5.5,1.9036356608072915,11.430909,Leeds,2.0529974,Man City,1.7343613,Spurs,1.8641787,Brentford,1.8751163,Crystal Palace,2.0002384,West Ham,1.9040178
+245,477,Tino,Livramento,Defender,Newcastle,4.9,1.894073509034656,11.407698,Man Utd,1.8395091,Burnley,1.9551208,Crystal Palace,1.9109362,Leeds,1.8415891,Wolves,1.9338309,Aston Villa,1.926711
+246,720,Tolu,Arokodare,Forward,Wolves,5.4,1.8920246703284127,11.184345,Liverpool,1.7855034,Man Utd,1.9275136,West Ham,2.0613887,Everton,1.9369282,Newcastle,1.8525795,Man City,1.6204314
+247,100,Junior,Kroupi,Forward,Bournemouth,4.6,1.8899630762281872,11.410476,Brentford,2.0656836,Chelsea,1.7967746,Arsenal,1.5673189,Spurs,2.0311673,Brighton,1.9989406,Liverpool,1.9505912
+248,351,Wilfried,Gnonto,Midfielder,Leeds,5.2,1.8802767594655352,11.117136,Sunderland,2.0875432,Liverpool,1.756955,Man Utd,1.8333613,Newcastle,1.7894512,Fulham,1.8241525,Everton,1.8256736
+249,580,Brennan,Johnson,Midfielder,Spurs,6.5,1.8689021042415073,11.467873,Crystal Palace,1.7639363,Brentford,1.7915026,Sunderland,2.0728912,Bournemouth,1.7925497,West Ham,1.9896058,Burnley,2.0573878
+250,241,Moisés,Caicedo Corozo,Midfielder,Chelsea,5.7,1.84544761407943,11.249663,Aston Villa,1.8227605,Bournemouth,2.1336665,Man City,1.1741239,Fulham,2.095446,Brentford,2.1430044,Crystal Palace,1.8806618
+251,356,Ilia,Gruev,Midfielder,Leeds,4.7,1.8442536138352892,10.97184,Sunderland,1.9580312,Liverpool,1.7741697,Man Utd,1.8077877,Newcastle,1.8156353,Fulham,1.8160177,Everton,1.8001983
+252,18,Noni,Madueke,Midfielder,Arsenal,6.8,1.8397895722162154,11.071973,Brighton,1.921524,Aston Villa,1.7389867,Bournemouth,1.8640031,Liverpool,1.7588562,Nott'm Forest,1.8903193,Man Utd,1.8982836
+253,50,Emiliano,Buendía Stati,Midfielder,Aston Villa,5.3,1.825271549678984,11.183639,Chelsea,1.7517005,Arsenal,1.5510645,Nott'm Forest,2.0938408,Crystal Palace,1.9023165,Everton,2.0981472,Newcastle,1.78657
+254,238,Estêvão,Almeida de Oliveira Gonçalves,Midfielder,Chelsea,6.4,1.8100505499612718,10.981828,Aston Villa,1.7741197,Bournemouth,2.0794244,Man City,1.3074433,Fulham,1.9149227,Brentford,2.0887625,Crystal Palace,1.817155
+255,732,Christantus,Uche,Forward,Crystal Palace,5.5,1.7717104128428867,10.746479,Spurs,1.7615589,Fulham,1.7560598,Newcastle,1.6992723,Aston Villa,1.7618295,Sunderland,2.0059297,Chelsea,1.7618295
+256,438,Noussair,Mazraoui,Defender,Man Utd,4.9,1.770712472143627,10.120725,Newcastle,1.6256349,Wolves,2.1339324,Leeds,1.710246,Burnley,1.9176608,Man City,1.4342732,Arsenal,1.2989779
+257,178,Danny,Welbeck,Forward,Brighton,6.4,1.7702595733460924,10.787067,Arsenal,1.4134059,West Ham,1.964406,Burnley,2.2301066,Man City,1.4367708,Bournemouth,1.8998693,Fulham,1.8425082
+258,52,Jacob,Ramsey,Midfielder,Newcastle,5.3,1.766050622576759,10.55984,Man Utd,1.659648,Burnley,1.8959985,Crystal Palace,1.6848955,Leeds,1.7822449,Wolves,2.0258126,Aston Villa,1.511241
+259,191,Maxime,Estève,Defender,Burnley,3.9,1.751961588859558,10.428154,Everton,1.7694587,Newcastle,1.8200233,Brighton,1.7003088,Man Utd,1.7658215,Liverpool,1.6030834,Spurs,1.7694587
+260,210,Loum,Tchaouna,Midfielder,Burnley,4.9,1.7514764070510864,10.45024,Everton,1.8162652,Newcastle,1.7489221,Brighton,1.693272,Man Utd,1.7984183,Liverpool,1.5770973,Spurs,1.8162652
+261,217,Lyle,Foster,Forward,Burnley,4.9,1.7249990758441744,10.278901,Everton,1.7776786,Newcastle,1.7341121,Brighton,1.6989974,Man Utd,1.7338116,Liverpool,1.5566226,Spurs,1.7776786
+262,570,Kevin,Danso,Defender,Spurs,4.2,1.7153890246436707,10.473173,Crystal Palace,1.620547,Brentford,1.6724733,Sunderland,1.8945552,Bournemouth,1.6613961,West Ham,1.7509103,Burnley,1.8732908
+263,167,Carlos,Baleba,Midfielder,Brighton,4.6,1.7146395899000624,10.4151,Arsenal,1.4818475,West Ham,1.8106238,Burnley,2.0529227,Man City,1.4818475,Bournemouth,1.8181354,Fulham,1.7697232
+264,375,Conor,Bradley,Defender,Liverpool,5.0,1.7076102097829182,9.958111,Wolves,2.0434027,Leeds,1.6335334,Fulham,1.5631526,Arsenal,1.3123567,Burnley,1.8363858,Bournemouth,1.5692796
+265,674,Aaron,Ramsdale,Goalkeeper,Newcastle,4.8,1.7054512273697626,10.253591,Man Utd,1.6110752,Burnley,1.8290294,Crystal Palace,1.6444768,Leeds,1.7113055,Wolves,1.8333504,Aston Villa,1.6243532
+266,190,Hjalmar,Ekdal,Defender,Burnley,3.9,1.7019285644803728,10.120482,Everton,1.7419869,Newcastle,1.7245054,Brighton,1.6877768,Man Utd,1.7245054,Liverpool,1.4997206,Spurs,1.7419869
+267,197,Oliver,Sonne,Defender,Burnley,3.8,1.7015276920227778,10.169141,Everton,1.7156731,Newcastle,1.7021757,Brighton,1.7127427,Man Utd,1.7147676,Liverpool,1.6081089,Spurs,1.7156731
+268,644,Jean-Ricner,Bellegarde,Midfielder,Wolves,5.2,1.689814187231518,10.06547,Liverpool,1.5894375,Man Utd,1.6758416,West Ham,1.8750899,Everton,1.7104189,Newcastle,1.7239672,Man City,1.4907144
+269,588,Wilson,Odobert,Midfielder,Spurs,5.3,1.6884199097042993,10.364442,Crystal Palace,1.5847074,Brentford,1.6141917,Sunderland,1.8921629,Bournemouth,1.6152387,West Ham,1.8051071,Burnley,1.8530337
+270,709,Ladislav,Krejcí,Defender,Wolves,4.5,1.6794551894778298,10.021738,Liverpool,1.6148313,Man Utd,1.7020705,West Ham,1.7453095,Everton,1.7057077,Newcastle,1.7170383,Man City,1.5367812
+271,447,Ayden,Heaven,Defender,Man Utd,3.8,1.6702234404427665,9.3338585,Newcastle,1.5094905,Wolves,2.1721432,Leeds,1.5968618,Burnley,1.7655865,Man City,1.1830505,Arsenal,1.1067253
+272,328,Ryan,Sessegnon,Midfielder,Fulham,5.4,1.6533988657451808,9.958309,West Ham,1.6980895,Crystal Palace,1.5973254,Liverpool,1.6215135,Chelsea,1.6884909,Leeds,1.641796,Brighton,1.7110935
+273,39,Ian,Maatsen,Defender,Aston Villa,4.2,1.6495957033974786,10.115734,Chelsea,1.5724486,Arsenal,1.4261317,Nott'm Forest,1.8938153,Crystal Palace,1.6892,Everton,1.8991599,Newcastle,1.6349784
+274,724,Lutsharel,Geertruida,Defender,Sunderland,4.5,1.6380347694669446,9.950054,Leeds,1.7659247,Man City,1.3837329,Spurs,1.6669974,Brentford,1.7000424,Crystal Palace,1.6830434,West Ham,1.7503139
+275,319,Timothy,Castagne,Defender,Fulham,4.3,1.6297939448129561,9.770461,West Ham,1.7181634,Crystal Palace,1.5810864,Liverpool,1.5420866,Chelsea,1.5978134,Leeds,1.7181634,Brighton,1.6131474
+276,300,Dwight,McNeil,Midfielder,Everton,5.5,1.6209151177179246,9.685278,Burnley,1.6876215,Nott'm Forest,1.5557554,Brentford,1.5297531,Wolves,1.8570615,Aston Villa,1.3894284,Leeds,1.6656581
+277,669,Dan,Ndoye,Midfielder,Nott'm Forest,5.5,1.6171306598754158,9.709322,Man City,1.5227399,Everton,1.7442558,Aston Villa,1.5538584,West Ham,1.758325,Arsenal,1.4814737,Brentford,1.6486697
+278,85,Tyler,Adams,Midfielder,Bournemouth,5.0,1.615199571564084,9.753686,Brentford,1.6807532,Chelsea,1.49581,Arsenal,1.5464472,Spurs,1.8089554,Brighton,1.5212468,Liverpool,1.700473
+279,239,Jamie,Bynoe-Gittens,Midfielder,Chelsea,6.0,1.613716505822681,9.761309,Aston Villa,1.6512796,Bournemouth,1.7628865,Man City,1.2257795,Fulham,1.6791465,Brentford,1.7831621,Crystal Palace,1.6590546
+280,335,Josh,King,Midfielder,Fulham,4.5,1.5888835078194024,9.49202,West Ham,1.7754207,Crystal Palace,1.5022496,Liverpool,1.4269133,Chelsea,1.4650345,Leeds,1.7776241,Brighton,1.5447769
+281,370,Jeremie,Frimpong,Defender,Liverpool,5.7,1.5828285274051483,9.130007,Wolves,1.9863111,Leeds,1.478057,Fulham,1.4012998,Arsenal,1.2047977,Burnley,1.652114,Bournemouth,1.4074268
+282,511,Felipe,Rodrigues da Silva,Defender,Nott'm Forest,4.3,1.5789857591901508,9.586228,Man City,1.3996803,Everton,1.7125577,Aston Villa,1.5594947,West Ham,1.8300617,Arsenal,1.3852335,Brentford,1.6992
+283,302,Idrissa Gana,Gueye,Midfielder,Everton,5.4,1.5571118933813912,9.181952,Burnley,1.6452372,Nott'm Forest,1.421957,Brentford,1.5445379,Wolves,1.8864987,Aston Villa,1.196772,Leeds,1.4869498
+284,632,Matt,Doherty,Defender,Wolves,4.4,1.5456988016764324,9.169416,Liverpool,1.5089332,Man Utd,1.5437567,West Ham,1.636943,Everton,1.5429777,Newcastle,1.5737815,Man City,1.3630241
+285,73,Adam,Smith,Defender,Bournemouth,4.4,1.5340928066344486,9.164844,Brentford,1.625028,Chelsea,1.5470576,Arsenal,1.3139304,Spurs,1.6089214,Brighton,1.578101,Liverpool,1.4918048
+286,86,David,Brooks,Midfielder,Bournemouth,5.0,1.5132926078069777,9.116427,Brentford,1.6175508,Chelsea,1.417142,Arsenal,1.3740101,Spurs,1.6258714,Brighton,1.5326216,Liverpool,1.5492316
+287,591,Archie,Gray,Midfielder,Spurs,4.8,1.5027704693022228,9.1129875,Crystal Palace,1.4130358,Brentford,1.4271177,Sunderland,1.76914,Bournemouth,1.4320627,West Ham,1.4999974,Burnley,1.5716338
+288,627,Sam,Johnstone,Goalkeeper,Wolves,4.4,1.471375096411932,8.806817,Liverpool,1.4409724,Man Utd,1.4647357,West Ham,1.5366172,Everton,1.4406474,Newcastle,1.5371089,Man City,1.3867351
+289,494,Joe,Willock,Midfielder,Newcastle,5.0,1.4611901726041518,8.9446335,Man Utd,1.3580068,Burnley,1.4968759,Crystal Palace,1.3840563,Leeds,1.4647259,Wolves,1.8812019,Aston Villa,1.3597666
+290,270,Will,Hughes,Midfielder,Crystal Palace,4.7,1.4375461396716889,8.705683,Spurs,1.4270989,Fulham,1.4801776,Newcastle,1.3140877,Aston Villa,1.3429646,Sunderland,1.798389,Chelsea,1.3429646
+291,638,Ki-Jana,Hoever,Defender,Wolves,3.8,1.429459571838379,8.494476,Liverpool,1.4004796,Man Utd,1.4176604,West Ham,1.5171349,Everton,1.4191097,Newcastle,1.4615116,Man City,1.27858
+292,19,Gabriel,Martinelli Silva,Midfielder,Arsenal,6.8,1.4263736861092702,8.491329,Brighton,1.4486418,Aston Villa,1.4500097,Bournemouth,1.3788363,Liverpool,1.4550265,Nott'm Forest,1.3727093,Man Utd,1.3861051
+293,543,Simon,Adingra,Midfielder,Sunderland,4.9,1.4262881392524356,8.601478,Leeds,1.5472568,Man City,1.2685667,Spurs,1.4053009,Brentford,1.4146388,Crystal Palace,1.4948418,West Ham,1.470873
+294,437,Lisandro,Martínez,Defender,Man Utd,4.8,1.4242839756466095,8.064389,Newcastle,1.3450803,Wolves,1.7593788,Leeds,1.3585554,Burnley,1.4448382,Man City,1.117315,Arsenal,1.0392216
+295,157,Mitoma,Kaoru,Midfielder,Brighton,6.1,1.4216372910000026,8.816727,Arsenal,1.1146208,West Ham,1.621133,Burnley,1.7044699,Man City,1.1146208,Bournemouth,1.6373695,Fulham,1.6245123
+296,144,Diego,Coppola,Defender,Brighton,4.2,1.4113425073169525,8.563718,Arsenal,1.1236466,West Ham,1.6662183,Burnley,1.6976047,Man City,1.1236466,Bournemouth,1.4512619,Fulham,1.5013393
+297,206,Marcus,Edwards,Midfielder,Burnley,4.7,1.401853453545343,8.380648,Everton,1.423884,Newcastle,1.4002136,Brighton,1.3962644,Man Utd,1.4128057,Liverpool,1.3235958,Spurs,1.423884
+298,695,Jackson,Tchatchoua,Defender,Wolves,4.5,1.398046993073963,8.328804,Liverpool,1.3450897,Man Utd,1.4044837,West Ham,1.4874032,Everton,1.3953508,Newcastle,1.4338882,Man City,1.262589
+299,682,David,Møller Wolfe,Defender,Wolves,4.3,1.3901234240758988,8.261312,Liverpool,1.2797483,Man Utd,1.4283689,West Ham,1.4923,Everton,1.4421949,Newcastle,1.4577736,Man City,1.1609253
+300,53,Donyell,Malen,Midfielder,Aston Villa,5.1,1.377937878881182,8.481244,Chelsea,1.3490515,Arsenal,1.0486268,Nott'm Forest,1.6719682,Crystal Palace,1.4555515,Everton,1.5886791,Newcastle,1.3673671
+301,250,Liam,Delap,Forward,Chelsea,6.2,1.3524983553659347,8.304611,Aston Villa,1.3369478,Bournemouth,1.4315684,Man City,1.1302062,Fulham,1.4157449,Brentford,1.4647323,Crystal Palace,1.5254126
+302,631,Emmanuel,Agbadou,Defender,Wolves,4.3,1.3506906373160226,8.025595,Liverpool,1.2995259,Man Utd,1.3132443,West Ham,1.5239471,Everton,1.3267777,Newcastle,1.3629051,Man City,1.1991947
+303,659,Kyle,Walker-Peters,Defender,West Ham,4.2,1.348999227796282,8.245704,Fulham,1.3048699,Brighton,1.185405,Wolves,1.6560369,Nott'm Forest,1.3048699,Spurs,1.2394603,Sunderland,1.5550616
+304,143,Olivier,Boscagli,Defender,Brighton,4.2,1.3426215024221513,8.2266655,Arsenal,1.0730798,West Ham,1.5149844,Burnley,1.6578859,Man City,1.0730798,Bournemouth,1.4232318,Fulham,1.484404
+305,41,Pau,Torres,Defender,Aston Villa,4.3,1.338563430876959,8.125487,Chelsea,1.3233718,Arsenal,1.2216582,Nott'm Forest,1.4395616,Crystal Palace,1.3446447,Everton,1.472879,Newcastle,1.3233718
+306,719,Victor,Lindelöf,Defender,Aston Villa,4.5,1.329733899661473,8.083912,Chelsea,1.3091865,Arsenal,1.1685836,Nott'm Forest,1.4982977,Crystal Palace,1.3346325,Everton,1.456075,Newcastle,1.3171368
+307,642,Hwang,Hee-chan,Midfielder,Wolves,5.6,1.2932501350130352,7.6974754,Liverpool,1.1417377,Man Utd,1.3225807,West Ham,1.4786401,Everton,1.3690785,Newcastle,1.2876889,Man City,1.0977496
+308,723,Jaydee,Canvot,Defender,Crystal Palace,4.5,1.2921885819662184,7.6576777,Spurs,1.342938,Fulham,1.3294486,Newcastle,1.2302537,Aston Villa,1.233494,Sunderland,1.2880493,Chelsea,1.233494
+309,715,John Victor,Maciel Furtado,Goalkeeper,Nott'm Forest,4.0,1.276066081864493,7.559208,Man City,1.4705849,Everton,1.1528593,Aston Villa,1.1170331,West Ham,1.2260667,Arsenal,1.4705849,Brentford,1.1220795
+310,209,Josh,Laurent,Midfielder,Burnley,4.8,1.2138540744781494,7.2376137,Everton,1.2238237,Newcastle,1.235746,Brighton,1.1999334,Man Utd,1.2371328,Liverpool,1.1171539,Spurs,1.2238237
+311,645,Fer,López González,Midfielder,Wolves,5.2,1.212093722252619,7.167223,Liverpool,1.1295867,Man Utd,1.2675947,West Ham,1.2997819,Everton,1.2449477,Newcastle,1.1791912,Man City,1.0461214
+312,267,Ismaïla,Sarr,Midfielder,Crystal Palace,6.4,1.2066414412998017,7.223576,Spurs,1.3162899,Fulham,1.2375067,Newcastle,0.95731914,Aston Villa,1.1011707,Sunderland,1.510119,Chelsea,1.1011707
+313,707,Tyler,Dibling,Midfielder,Everton,5.3,1.1526176702408564,6.905816,Burnley,1.1496569,Nott'm Forest,1.1081603,Brentford,1.1663893,Wolves,1.2880626,Aston Villa,1.0429364,Leeds,1.1506104
+314,246,Andrey,Nascimento dos Santos,Midfielder,Chelsea,4.5,1.1293865896406627,6.989994,Aston Villa,1.0402259,Bournemouth,1.3362739,Man City,0.7534718,Fulham,1.2921051,Brentford,1.3362739,Crystal Palace,1.2316434
+315,636,Santiago,Ignacio Bueno,Defender,Wolves,4.4,1.1193407177925108,6.588277,Liverpool,1.042716,Man Utd,1.123386,West Ham,1.2318976,Everton,1.1934562,Newcastle,1.1281484,Man City,0.868673
+316,519,Nicolás,Domínguez,Midfielder,Nott'm Forest,5.0,1.1132843097050984,6.806212,Man City,0.9809549,Everton,1.1908486,Aston Villa,1.1132962,West Ham,1.2824472,Arsenal,0.99980664,Brentford,1.2388587
+317,548,Romaine,Mundle,Midfielder,Sunderland,4.9,1.1109907967703683,6.72166,Leeds,1.1559318,Man City,0.98475945,Spurs,1.1341234,Brentford,1.1590834,Crystal Palace,1.1699125,West Ham,1.1178497
+318,625,Niclas,Füllkrug,Forward,West Ham,5.6,1.1077117238725935,6.773781,Fulham,1.075774,Brighton,1.0130208,Wolves,1.2390639,Nott'm Forest,1.1510426,Spurs,1.0379356,Sunderland,1.2569443
+319,329,Harry,Wilson,Midfielder,Fulham,5.8,1.0881043190047854,6.721607,West Ham,1.0996777,Crystal Palace,0.791627,Liverpool,1.3121642,Chelsea,1.256375,Leeds,1.0144447,Brighton,1.2473186
+320,321,Jorge,Cuenca Barreno,Defender,Fulham,4.3,1.0873915411177135,6.500234,West Ham,1.1802489,Crystal Palace,1.0674607,Liverpool,0.96864194,Chelsea,1.0310843,Leeds,1.1958066,Brighton,1.056992
+321,385,Federico,Chiesa,Midfielder,Liverpool,6.3,1.0803151982171195,5.9322205,Wolves,1.6288867,Leeds,0.9412093,Fulham,0.9290041,Arsenal,0.5601269,Burnley,0.93786216,Bournemouth,0.9351311
+322,362,Joël,Piroe,Forward,Leeds,5.0,1.0643982546670097,6.3453,Sunderland,1.151567,Liverpool,1.0002484,Man Utd,1.0476553,Newcastle,1.0305928,Fulham,1.0440826,Everton,1.0711542
+323,637,Toti,Gomes,Defender,Wolves,4.2,1.058170681908017,6.3124204,Liverpool,1.0521525,Man Utd,1.0385755,West Ham,1.1315894,Everton,1.0294427,Newcastle,1.0404454,Man City,1.020215
+324,326,Adama,Traoré Diarra,Midfielder,Fulham,5.1,1.0540040901729038,6.272413,West Ham,1.1618323,Crystal Palace,1.0437477,Liverpool,0.9333577,Chelsea,0.95670605,Leeds,1.1640358,Brighton,1.012733
+325,111,Ethan,Pinnock,Defender,Brentford,4.2,1.0448707512446813,6.228386,Bournemouth,1.0468884,Spurs,1.0468884,Everton,1.0593199,Sunderland,1.0829868,Chelsea,0.9479714,Nott'm Forest,1.0443312
+326,706,James,Justin,Defender,Leeds,3.9,0.9976320209957305,5.960944,Sunderland,1.0976008,Liverpool,0.8972377,Man Utd,0.9817889,Newcastle,0.9705405,Fulham,1.0259254,Everton,0.9878511
+327,405,Nathan,Aké,Defender,Man City,5.3,0.9892538700784955,6.0027122,Nott'm Forest,0.98054975,Sunderland,0.98330754,Chelsea,0.96423966,Brighton,1.0231462,Man Utd,0.99662906,Wolves,1.0548398
+328,459,Manuel,Ugarte Ribeiro,Midfielder,Man Utd,4.7,0.9726866313389368,5.5413,Newcastle,0.92746323,Wolves,1.109006,Leeds,0.9867468,Burnley,1.0107948,Man City,0.82994944,Arsenal,0.6773393
+329,402,Rayan,Aït-Nouri,Defender,Man City,5.7,0.9615728173937115,5.922223,Nott'm Forest,0.85516953,Sunderland,0.8749745,Chelsea,1.05758,Brighton,1.1949332,Man Utd,0.93245393,Wolves,1.0071121
+330,263,Nathaniel,Clyne,Defender,Crystal Palace,3.8,0.9499228937285286,5.609334,Spurs,0.9941015,Fulham,0.9837957,Newcastle,0.9009598,Aston Villa,0.84650236,Sunderland,1.0374722,Chelsea,0.84650236
+331,152,Joël,Veltman,Defender,Brighton,4.3,0.9420923675809588,5.8958683,Arsenal,0.7045419,West Ham,1.0890763,Burnley,1.1628376,Man City,0.7045419,Bournemouth,1.1114596,Fulham,1.1234113
+332,108,Kristoffer,Ajer,Defender,Brentford,4.4,0.9218401880491347,5.4974236,Bournemouth,0.9312245,Spurs,0.9312245,Everton,0.8950487,Sunderland,1.0227878,Chelsea,0.749478,Nott'm Forest,0.96766007
+333,232,Tosin,Adarabioyo,Defender,Chelsea,4.1,0.9205753888402667,5.6522226,Aston Villa,0.890703,Bournemouth,1.0733047,Man City,0.57649547,Fulham,1.0596989,Brentford,1.0842423,Crystal Palace,0.9677784
+334,436,Matthijs,de Ligt,Defender,Man Utd,5.0,0.9119072953859965,5.083346,Newcastle,0.8072493,Wolves,1.1686417,Leeds,0.81494534,Burnley,1.132562,Man City,0.6459344,Arsenal,0.51401263
+335,88,Lewis,Cook,Midfielder,Bournemouth,4.9,0.8874575240271433,5.306349,Brentford,0.9446882,Chelsea,0.8499196,Arsenal,0.82170117,Spurs,0.9215507,Brighton,0.89893496,Liverpool,0.86955404
+336,77,James,Hill,Defender,Bournemouth,3.9,0.8853883345921835,5.2841344,Brentford,0.9591396,Chelsea,0.84386975,Arsenal,0.7753914,Spurs,0.93720925,Brighton,0.9372506,Liverpool,0.8312742
+337,10,Myles,Lewis-Skelly,Defender,Arsenal,5.1,0.8732647753897166,5.2450504,Brighton,0.87110615,Aston Villa,0.85524654,Bournemouth,0.9043326,Liverpool,0.86333555,Nott'm Forest,0.87732416,Man Utd,0.8737054
+338,618,Guido,Rodríguez,Midfielder,West Ham,4.8,0.8655443077995663,5.1925406,Fulham,0.81213146,Brighton,0.83799267,Wolves,1.0307137,Nott'm Forest,0.8301475,Spurs,0.8188258,Sunderland,0.86272955
+339,696,Arnaud,Kalimuendo,Forward,Nott'm Forest,6.0,0.8527627956299554,5.1724787,Man City,0.77679104,Everton,0.90273064,Aston Villa,0.83130276,West Ham,1.0038874,Arsenal,0.7389793,Brentford,0.9187874
+340,33,Marco,Bizot,Goalkeeper,Aston Villa,4.2,0.8188500801722208,4.928521,Chelsea,0.87238824,Arsenal,0.81295586,Nott'm Forest,0.7033061,Crystal Palace,0.8835067,Everton,0.77663445,Newcastle,0.87972957
+341,135,Yoane,Wissa,Forward,Newcastle,7.3,0.8039915448143369,4.791977,Man Utd,0.8301642,Burnley,0.7563229,Crystal Palace,0.8337177,Leeds,0.8446112,Wolves,0.72535723,Aston Villa,0.8018037
+342,180,Stefanos,Tzimas,Forward,Brighton,5.2,0.802233971300579,4.767152,Arsenal,0.6810967,West Ham,0.9236238,Burnley,0.97160226,Man City,0.62443316,Bournemouth,0.8161104,Fulham,0.7502851
+343,413,Omar,Marmoush,Midfielder,Man City,8.3,0.7965857812336513,5.02,Nott'm Forest,0.73159665,Sunderland,0.8770129,Chelsea,0.7401919,Brighton,0.79749435,Man Utd,0.7267021,Wolves,1.1470022
+344,593,Pape Matar,Sarr,Midfielder,Spurs,4.6,0.7851287523905436,5.021281,Crystal Palace,0.65224755,Brentford,0.6860235,Sunderland,1.0359055,Bournemouth,0.7224575,West Ham,0.9084597,Burnley,1.0161872
+345,352,Jack,Harrison,Midfielder,Leeds,5.1,0.7846876297678266,4.7353067,Sunderland,0.8019119,Liverpool,0.7284676,Man Utd,0.83074826,Newcastle,0.7547049,Fulham,0.8180495,Everton,0.80142426
+346,98,Enes,Ünal,Forward,Bournemouth,5.4,0.782197580451057,4.7634387,Brentford,0.887702,Chelsea,0.6668116,Arsenal,0.6317114,Spurs,0.89642113,Brighton,0.8689774,Liverpool,0.8118154
+347,762,Joél,Drakes-Thomas,Midfielder,Crystal Palace,4.5,0.7801923439616248,4.775977,Spurs,0.7650052,Fulham,0.7608264,Newcastle,0.74479264,Aston Villa,0.77206355,Sunderland,0.9612257,Chelsea,0.77206355
+348,551,Chris,Rigg,Midfielder,Sunderland,4.7,0.7661068978763762,4.693605,Leeds,0.8193902,Man City,0.6217536,Spurs,0.8041843,Brentford,0.8041843,Crystal Palace,0.7897532,West Ham,0.8543393
+349,87,Ryan,Christie,Midfielder,Bournemouth,4.9,0.7491065263748169,4.4280357,Brentford,0.8395579,Chelsea,0.665684,Arsenal,0.6968443,Spurs,0.82141334,Brighton,0.70931643,Liverpool,0.6952198
+350,634,Yerson,Mosquera Valdelamar,Defender,Wolves,4.3,0.7388220911934261,4.411006,Liverpool,0.66279364,Man Utd,0.74942887,West Ham,0.8319276,Everton,0.764965,Newcastle,0.76686156,Man City,0.63502926
+351,406,Abdukodir,Khusanov,Defender,Man City,5.4,0.7309531711396716,4.3795424,Nott'm Forest,0.7689874,Sunderland,0.72308636,Chelsea,0.69547176,Brighton,0.7160158,Man Utd,0.71474487,Wolves,0.7612361
+352,207,Hannibal,Mejbri,Midfielder,Burnley,4.8,0.7283097817784263,4.32705,Everton,0.7690054,Newcastle,0.7354262,Brighton,0.6898983,Man Utd,0.74731356,Liverpool,0.6164013,Spurs,0.7690054
+353,199,Joe,Worrall,Defender,Burnley,3.8,0.7237113458769662,4.330666,Everton,0.7345435,Newcastle,0.7189501,Brighton,0.7285875,Man Utd,0.7189501,Liverpool,0.6950915,Spurs,0.7345435
+354,633,Hugo,Bueno López,Defender,Wolves,4.3,0.7187072010267348,4.2084494,Liverpool,0.66040546,Man Utd,0.6940233,West Ham,0.88941556,Everton,0.71617305,Newcastle,0.7056884,Man City,0.5427437
+355,170,James,Milner,Midfielder,Brighton,4.9,0.7181580776260013,4.370989,Arsenal,0.70908237,West Ham,0.7737032,Burnley,0.72483647,Man City,0.5432538,Bournemouth,0.8090891,Fulham,0.8110239
+356,31,Gabriel,Fernando de Jesus,Forward,Arsenal,6.4,0.7135711141995021,4.297117,Brighton,0.7415167,Aston Villa,0.6777061,Bournemouth,0.7091026,Liverpool,0.71959245,Nott'm Forest,0.7029756,Man Utd,0.74622375
+357,181,Charalampos,Kostoulas,Forward,Brighton,4.8,0.7093471458980016,4.187208,Arsenal,0.5632668,West Ham,0.9114524,Burnley,0.83712614,Man City,0.52996796,Bournemouth,0.6756238,Fulham,0.66977113
+358,44,Lamare,Bogarde,Defender,Aston Villa,4.0,0.7076563522929238,4.3058476,Chelsea,0.70393384,Arsenal,0.649355,Nott'm Forest,0.7364117,Crystal Palace,0.74122274,Everton,0.7461663,Newcastle,0.72875786
+359,410,Rico,Lewis,Defender,Man City,4.7,0.7067062769617353,4.3861794,Nott'm Forest,0.7204757,Sunderland,0.6194153,Chelsea,0.72904056,Brighton,0.7495846,Man Utd,0.6883221,Wolves,0.879341
+360,331,Tom,Cairney,Midfielder,Fulham,4.8,0.6946261752219427,4.1917386,West Ham,0.6755611,Crystal Palace,0.71114635,Liverpool,0.69745314,Chelsea,0.69282883,Leeds,0.6950034,Brighton,0.71974564
+361,426,James,McAtee,Midfielder,Nott'm Forest,5.1,0.6753075349898565,4.146362,Man City,0.57458365,Everton,0.74536526,Aston Villa,0.6548324,West Ham,0.8046009,Arsenal,0.60701835,Brentford,0.75996095
+362,614,James,Ward-Prowse,Midfielder,West Ham,5.6,0.6656146815844944,4.0501337,Fulham,0.65859306,Brighton,0.615831,Wolves,0.7610152,Nott'm Forest,0.65859306,Spurs,0.5712537,Sunderland,0.78484756
+363,458,Kobbie,Mainoo,Midfielder,Man Utd,4.6,0.6600666031950995,3.6957524,Newcastle,0.56454897,Wolves,0.8953767,Leeds,0.60882777,Burnley,0.7466581,Man City,0.44159532,Arsenal,0.43874547
+364,699,Douglas Luiz,Soares de Paulo,Midfielder,Nott'm Forest,4.9,0.6587387976192292,4.056711,Man City,0.54237175,Everton,0.7356812,Aston Villa,0.6717938,West Ham,0.75879264,Arsenal,0.58925325,Brentford,0.7588187
+365,172,Tom,Watson,Midfielder,Brighton,4.8,0.6503899438040597,4.003542,Arsenal,0.53560853,West Ham,0.7648028,Burnley,0.69162065,Man City,0.5589735,Bournemouth,0.72458404,Fulham,0.7279524
+366,758,Mohamadou,Kanté,Midfielder,West Ham,4.5,0.6345640903427487,3.8236258,Fulham,0.6221794,Brighton,0.61894923,Wolves,0.6897065,Nott'm Forest,0.6221794,Spurs,0.60204804,Sunderland,0.6685631
+367,628,José,Malheiro de Sá,Goalkeeper,Wolves,4.2,0.6296583215395609,3.7706418,Liverpool,0.6123713,Man Utd,0.6379727,West Ham,0.6354491,Everton,0.624822,Newcastle,0.68244416,Man City,0.5775824
+368,755,Shea,Lacey,Midfielder,Man Utd,4.5,0.6154835110618955,3.549575,Newcastle,0.6165718,Wolves,0.68119246,Leeds,0.5946852,Burnley,0.63089275,Man City,0.52210873,Arsenal,0.5041242
+369,456,Jadon,Sancho,Midfielder,Aston Villa,5.8,0.6141622407095773,3.7675812,Chelsea,0.593447,Arsenal,0.5368766,Nott'm Forest,0.6452601,Crystal Palace,0.7139584,Everton,0.6513871,Newcastle,0.62665206
+370,527,Taiwo,Awoniyi,Forward,Nott'm Forest,5.2,0.6130504778453282,3.7390647,Man City,0.5604786,Everton,0.6784823,Aston Villa,0.581294,West Ham,0.6360477,Arsenal,0.60269547,Brentford,0.6800667
+371,475,Sven,Botman,Defender,Newcastle,4.9,0.5905599565733046,3.6437325,Man Utd,0.42658454,Burnley,0.78060895,Crystal Palace,0.48935282,Leeds,0.5695768,Wolves,0.8954559,Aston Villa,0.4821536
+372,469,Nick,Pope,Goalkeeper,Newcastle,5.1,0.5903145188377017,3.6161053,Man Utd,0.47707188,Burnley,0.6896486,Crystal Palace,0.58475584,Leeds,0.5725155,Wolves,0.73724705,Aston Villa,0.55486655
+373,392,Endo,Wataru,Midfielder,Liverpool,4.9,0.5752757248424348,3.3850589,Wolves,0.6072824,Leeds,0.59638244,Fulham,0.5708375,Arsenal,0.52768433,Burnley,0.5059081,Bournemouth,0.5769645
+374,728,Merlin,Röhl,Midfielder,Everton,5.0,0.5558557113011677,3.2972627,Burnley,0.56931514,Nott'm Forest,0.55482364,Brentford,0.5958701,Wolves,0.51506746,Aston Villa,0.4920919,Leeds,0.57009447
+375,747,Ezra,Mayers,Defender,West Ham,4.0,0.5501985663459413,3.3468332,Fulham,0.5172563,Brighton,0.5403281,Wolves,0.6354616,Nott'm Forest,0.5172563,Spurs,0.5188452,Sunderland,0.6176857
+376,608,Ollie,Scarles,Defender,West Ham,4.3,0.5470893553325107,3.2976527,Fulham,0.5495082,Brighton,0.53688276,Wolves,0.55021656,Nott'm Forest,0.5495082,Spurs,0.5464855,Sunderland,0.56505156
+377,5,Gabriel,dos Santos Magalhães,Defender,Arsenal,6.2,0.5414891072681971,3.3911269,Brighton,0.47008768,Aston Villa,0.37326357,Bournemouth,0.9495388,Liverpool,0.3060982,Nott'm Forest,0.6758389,Man Utd,0.6162997
+378,320,Issa,Diop,Defender,Fulham,4.3,0.5393172559284028,3.2325256,West Ham,0.54730546,Crystal Palace,0.5670842,Liverpool,0.4986082,Chelsea,0.5225713,Leeds,0.54730546,Brighton,0.5496509
+379,648,Marshall,Munetsi,Midfielder,Wolves,5.3,0.5232454424812679,3.0884867,Liverpool,0.41529197,Man Utd,0.5303969,West Ham,0.67612565,Everton,0.5743446,Newcastle,0.52455443,Man City,0.36777294
+380,525,Chris,Wood,Forward,Nott'm Forest,7.2,0.5169663060279118,3.1648176,Man City,0.49808964,Everton,0.6106661,Aston Villa,0.37361255,West Ham,0.51395434,Arsenal,0.60961586,Brentford,0.55887914
+381,571,Ben,Davies,Defender,Spurs,4.3,0.4931986331939697,2.9376438,Crystal Palace,0.50443715,Brentford,0.48375708,Sunderland,0.5000024,Bournemouth,0.48375708,West Ham,0.49479216,Burnley,0.4708979
+382,12,Oleksandr,Zinchenko,Defender,Nott'm Forest,4.9,0.49230318693887615,3.0109541,Man City,0.42484117,Everton,0.56736803,Aston Villa,0.4800793,West Ham,0.54155123,Arsenal,0.4103943,Brentford,0.5867203
+383,493,Sean,Longstaff,Midfielder,Leeds,4.8,0.4898752726259685,2.886178,Sunderland,0.5857334,Liverpool,0.4231882,Man Utd,0.48838437,Newcastle,0.4145707,Fulham,0.4854882,Everton,0.48881325
+384,198,Axel,Tuanzebe,Defender,Burnley,3.9,0.4871496983936854,2.8983207,Everton,0.49976885,Newcastle,0.49613178,Brighton,0.47483432,Man Utd,0.49613178,Liverpool,0.4316851,Spurs,0.49976885
+385,30,Kai,Havertz,Forward,Arsenal,7.3,0.48489248326846535,2.8748858,Brighton,0.48745006,Aston Villa,0.5220196,Bournemouth,0.42866915,Liverpool,0.5301089,Nott'm Forest,0.4363022,Man Utd,0.4703358
+386,513,Zach,Abbott,Defender,Nott'm Forest,3.8,0.478389907450903,2.888959,Man City,0.4458313,Everton,0.5389321,Aston Villa,0.4495011,West Ham,0.4962284,Arsenal,0.43138444,Brentford,0.5270814
+387,737,Jonah,Kusi-Asare,Forward,Fulham,4.5,0.4705000817775726,2.812308,West Ham,0.468725,Crystal Palace,0.47573772,Liverpool,0.47747204,Chelsea,0.46930793,Leeds,0.4505857,Brighton,0.47047982
+388,662,Cristhian,Mosquera,Defender,Arsenal,5.4,0.4698833354881832,2.7837896,Brighton,0.46356606,Aston Villa,0.48709092,Bournemouth,0.47728193,Liverpool,0.45887467,Nott'm Forest,0.46797135,Man Utd,0.42900464
+389,721,Veljko,Milosavljevic,Defender,Bournemouth,4.4,0.4690132737159729,2.819954,Brentford,0.52318406,Chelsea,0.42512518,Arsenal,0.38731462,Spurs,0.54266375,Brighton,0.46563256,Liverpool,0.47603363
+390,739,Divine,Mukasa,Midfielder,Man City,4.4,0.46786146504538395,2.8242667,Nott'm Forest,0.4570322,Sunderland,0.4742961,Chelsea,0.4693018,Brighton,0.47568393,Man Utd,0.45920548,Wolves,0.48874718
+391,259,Borna,Sosa,Defender,Crystal Palace,4.8,0.465131428979692,2.7891324,Spurs,0.46521363,Fulham,0.4549078,Newcastle,0.48195875,Aston Villa,0.44257584,Sunderland,0.50190043,Chelsea,0.44257584
+392,195,Lucas,Pires Silva,Defender,Burnley,3.8,0.46307765586035593,2.7533832,Everton,0.47219408,Newcastle,0.4693708,Brighton,0.4618996,Man Utd,0.4693708,Liverpool,0.40835366,Spurs,0.47219408
+393,27,Reiss,Nelson,Midfielder,Brentford,4.8,0.4612911712555658,2.7263343,Bournemouth,0.48236567,Spurs,0.48236567,Everton,0.45172787,Sunderland,0.4342391,Chelsea,0.3958275,Nott'm Forest,0.4798085
+394,353,Daniel,James,Midfielder,Leeds,5.3,0.4488715969380878,2.5969744,Sunderland,0.47812822,Liverpool,0.4484067,Man Utd,0.46409866,Newcastle,0.4223979,Fulham,0.40796947,Everton,0.37597337
+395,252,Marc,Guiu Paz,Forward,Chelsea,4.3,0.4476670480909801,2.8111587,Aston Villa,0.38840395,Bournemouth,0.5436948,Man City,0.28613493,Fulham,0.5354754,Brentford,0.5436948,Crystal Palace,0.5137549
+396,214,Mike,Trésor Ndayishimiye,Midfielder,Burnley,4.4,0.4451442162195841,2.6579652,Everton,0.44683897,Newcastle,0.4501096,Brighton,0.44557148,Man Utd,0.4501096,Liverpool,0.4184965,Spurs,0.44683897
+397,621,Andy,Irving,Midfielder,West Ham,4.3,0.4441602343604678,2.717813,Fulham,0.40920165,Brighton,0.43227348,Wolves,0.53488195,Nott'm Forest,0.40920165,Spurs,0.4114007,Sunderland,0.52085346
+398,522,Ryan,Yates,Midfielder,Nott'm Forest,4.7,0.44236627930686584,2.7428696,Man City,0.34867284,Everton,0.44327262,Aston Villa,0.40402094,West Ham,0.7420394,Arsenal,0.33422604,Brentford,0.47063777
+399,500,William,Osula,Forward,Newcastle,5.4,0.43900865884054263,2.6581812,Man Utd,0.4018081,Burnley,0.46542275,Crystal Palace,0.44913703,Leeds,0.44626346,Wolves,0.45033103,Aston Villa,0.44521883
+400,650,Tawanda,Chirewa,Midfielder,Wolves,4.3,0.4362866694018954,2.6007679,Liverpool,0.4411681,Man Utd,0.42904082,West Ham,0.44142064,Everton,0.43839797,Newcastle,0.43819055,Man City,0.41254976
+401,544,Habib,Diarra,Midfielder,Sunderland,5.3,0.4345688734735761,2.619928,Leeds,0.4506685,Man City,0.40128452,Spurs,0.4383093,Brentford,0.4383093,Crystal Palace,0.45599112,West Ham,0.43536526
+402,424,Oscar,Bobb,Midfielder,Man City,5.1,0.42625377433640615,2.8208177,Nott'm Forest,0.34940428,Sunderland,0.56398463,Chelsea,0.35296115,Brighton,0.3904532,Man Utd,0.2877619,Wolves,0.8762525
+403,478,Kieran,Trippier,Defender,Newcastle,4.9,0.4220877559412093,2.6448715,Man Utd,0.28936905,Burnley,0.518656,Crystal Palace,0.40447202,Leeds,0.4663108,Wolves,0.55146444,Aston Villa,0.41459915
+404,338,Rodrigo,Muniz Carvalho,Forward,Fulham,5.3,0.4185007356462024,2.4370775,West Ham,0.553669,Crystal Palace,0.3187859,Liverpool,0.39040288,Chelsea,0.34851652,Leeds,0.43970785,Brighton,0.38599527
+405,619,Luis Guilherme,Lira dos Santos,Midfielder,West Ham,4.9,0.4055169508570716,2.432406,Fulham,0.40668717,Brighton,0.40636882,Wolves,0.40194046,Nott'm Forest,0.40668717,Spurs,0.40534303,Sunderland,0.4053794
+406,55,Ross,Barkley,Midfielder,Aston Villa,4.8,0.4032665689786275,2.5491705,Chelsea,0.33715215,Arsenal,0.27633205,Nott'm Forest,0.57726794,Crystal Palace,0.40546682,Everton,0.58560115,Newcastle,0.36735022
+407,596,Dominic,Solanke-Mitchell,Forward,Spurs,7.2,0.4022890002954574,2.3683894,Crystal Palace,0.436712,Brentford,0.3951163,Sunderland,0.3758957,Bournemouth,0.36596164,West Ham,0.456044,Burnley,0.3386598
+408,164,Matt,O'Riley,Midfielder,Brighton,5.5,0.4011647843179248,2.4596975,Arsenal,0.3299355,West Ham,0.41113988,Burnley,0.62092686,Man City,0.17234483,Bournemouth,0.46305576,Fulham,0.4622947
+409,409,John,Stones,Defender,Man City,5.4,0.3993284986132667,2.4691944,Nott'm Forest,0.39545432,Sunderland,0.42438772,Chelsea,0.37363207,Brighton,0.37884226,Man Utd,0.36330086,Wolves,0.53357714
+410,507,Ola,Aina,Defender,Nott'm Forest,4.7,0.38632971757934204,2.363152,Man City,0.33536065,Everton,0.44381484,Aston Villa,0.39389485,West Ham,0.39033213,Arsenal,0.33536065,Brentford,0.46438888
+411,345,Sebastiaan,Bornauw,Defender,Leeds,3.8,0.3860042336441221,2.3085935,Sunderland,0.38795093,Liverpool,0.38714284,Man Utd,0.38150144,Newcastle,0.3959939,Fulham,0.37267748,Everton,0.3833268
+412,686,Rio,Ngumoha,Midfielder,Liverpool,4.3,0.38082162468206304,2.0209434,Wolves,0.6678043,Leeds,0.27015376,Fulham,0.27395102,Arsenal,0.20586471,Burnley,0.3230916,Bournemouth,0.28007808
+413,128,Frank,Onyeka,Midfielder,Brentford,4.8,0.37848048834573655,2.2564256,Bournemouth,0.39509213,Spurs,0.37021548,Everton,0.3815629,Sunderland,0.37006333,Chelsea,0.35052672,Nott'm Forest,0.3889651
+414,678,Arthur,Masuaku,Defender,Sunderland,3.9,0.37476766677129836,2.2754645,Leeds,0.4169722,Man City,0.30086523,Spurs,0.37745997,Brentford,0.37745997,Crystal Palace,0.41903472,West Ham,0.38367245
+415,574,Destiny,Udogie,Defender,Spurs,4.4,0.3417993414969671,2.152937,Crystal Palace,0.2942376,Brentford,0.29488546,Sunderland,0.45910102,Bournemouth,0.30070072,West Ham,0.39541483,Burnley,0.4085973
+416,734,Dilane,Bakwa,Midfielder,Nott'm Forest,5.9,0.33690379914783297,2.0710406,Man City,0.29926485,Everton,0.37905183,Aston Villa,0.28824383,West Ham,0.39705625,Arsenal,0.33256352,Brentford,0.3748604
+417,421,Rodrigo 'Rodri',Hernandez Cascante,Midfielder,Man City,6.3,0.329821160861424,2.0544314,Nott'm Forest,0.27178958,Sunderland,0.2921531,Chelsea,0.41292188,Brighton,0.41674495,Man Utd,0.27199715,Wolves,0.3888248
+418,561,Eliezer,Mayenda Dossou,Forward,Sunderland,5.2,0.3254672629492623,2.0125732,Leeds,0.34781453,Man City,0.21868667,Spurs,0.36310312,Brentford,0.37244093,Crystal Palace,0.37422863,West Ham,0.33629945
+419,442,Harry,Maguire,Defender,Man Utd,4.3,0.3216656719644864,1.6747011,Newcastle,0.38994795,Wolves,0.31831795,Leeds,0.2888116,Burnley,0.41097823,Man City,0.1688752,Arsenal,0.09777019
+420,40,Tyrone,Mings,Defender,Aston Villa,4.3,0.30269800694215865,1.8718066,Chelsea,0.24616258,Arsenal,0.24678475,Nott'm Forest,0.44213155,Crystal Palace,0.24993971,Everton,0.44062552,Newcastle,0.24616258
+421,25,Ethan,Nwaneri,Midfielder,Arsenal,5.1,0.290019466763451,1.7649254,Brighton,0.29257885,Aston Villa,0.26005068,Bournemouth,0.3153728,Liverpool,0.27663118,Nott'm Forest,0.32300586,Man Utd,0.29728588
+422,431,Altay,Bayındır,Goalkeeper,Man Utd,4.8,0.28913265679563793,1.561365,Newcastle,0.2886484,Wolves,0.3185235,Leeds,0.31084102,Burnley,0.32641613,Man City,0.20772956,Arsenal,0.109206304
+423,182,James,Trafford,Goalkeeper,Man City,4.6,0.28613309491248357,1.678104,Nott'm Forest,0.29528242,Sunderland,0.27238607,Chelsea,0.30073446,Brighton,0.30797464,Man Utd,0.24658188,Wolves,0.25514457
+424,80,Julio,Soler Barreto,Defender,Bournemouth,4.0,0.28462509456134977,1.7069259,Brentford,0.30292317,Chelsea,0.2607476,Arsenal,0.2702316,Spurs,0.31290922,Brighton,0.2760815,Liverpool,0.28403282
+425,462,Jack,Fletcher,Midfielder,Man Utd,4.3,0.2763905440058027,1.6516266,Newcastle,0.28283525,Wolves,0.2581429,Leeds,0.28072494,Burnley,0.29391772,Man City,0.2758168,Arsenal,0.260189
+426,510,Jair,Paula da Cunha Filho,Defender,Nott'm Forest,4.3,0.27232477068901056,1.6509457,Man City,0.24885078,Everton,0.32355252,Aston Villa,0.26694688,West Ham,0.26110098,Arsenal,0.20636798,Brentford,0.3441265
+427,243,Tyrique,George,Midfielder,Chelsea,4.8,0.272293359041214,1.6512146,Aston Villa,0.26694041,Bournemouth,0.2890072,Man City,0.23632604,Fulham,0.28078786,Brentford,0.3056612,Crystal Palace,0.272492
+428,244,Roméo,Lavia,Midfielder,Chelsea,4.9,0.27205383919534226,1.661562,Aston Villa,0.25747547,Bournemouth,0.32858613,Man City,0.16094252,Fulham,0.31921658,Brentford,0.32858613,Crystal Palace,0.26675507
+429,229,Benoît,Badiashile Mukinayi,Defender,Chelsea,4.4,0.27152939140796667,1.6307056,Aston Villa,0.26086524,Bournemouth,0.30277532,Man City,0.22213246,Fulham,0.29340577,Brentford,0.30277532,Crystal Palace,0.24875136
+430,149,Igor Julio,dos Santos de Paulo,Defender,West Ham,4.5,0.27148721615473437,1.6510301,Fulham,0.2675236,Brighton,0.2812001,Wolves,0.26120782,Nott'm Forest,0.2675236,Spurs,0.26911253,Sunderland,0.30446237
+431,341,Karl,Darlow,Goalkeeper,Leeds,3.9,0.2690280278523763,1.611213,Sunderland,0.2772159,Liverpool,0.24040943,Man Utd,0.28522778,Newcastle,0.28063965,Fulham,0.27369583,Everton,0.25402433
+432,269,Romain,Esse,Midfielder,Crystal Palace,4.7,0.25968065715971445,1.5414114,Spurs,0.26892626,Fulham,0.25862044,Newcastle,0.25945234,Aston Villa,0.2145359,Sunderland,0.3253405,Chelsea,0.2145359
+433,545,Patrick,Roberts,Midfielder,Sunderland,5.4,0.2567918591556095,1.5426826,Leeds,0.269926,Man City,0.21952485,Spurs,0.26086026,Brentford,0.28296733,Crystal Palace,0.2737016,West Ham,0.23570248
+434,518,João Pedro,Ferreira da Silva,Midfielder,Nott'm Forest,5.4,0.2497075987713677,1.4992387,Man City,0.23103136,Everton,0.2940599,Aston Villa,0.23615037,West Ham,0.24898548,Arsenal,0.2068024,Brentford,0.2822092
+435,396,Trey,Nyoni,Midfielder,Liverpool,4.3,0.24212902713389622,1.4466134,Wolves,0.24866249,Leeds,0.2499158,Fulham,0.24687503,Arsenal,0.2095207,Burnley,0.23545395,Bournemouth,0.25618556
+436,122,Antoni,Milambo,Midfielder,Brentford,5.2,0.23074457333201454,1.3624313,Bournemouth,0.23635092,Spurs,0.23635092,Everton,0.22450024,Sunderland,0.24754047,Chelsea,0.1874648,Nott'm Forest,0.2302239
+437,672,Jorrel,Hato,Defender,Chelsea,4.6,0.2187106673206602,1.3418248,Aston Villa,0.18023884,Bournemouth,0.28028756,Man City,0.1514011,Fulham,0.24713199,Brentford,0.28028756,Crystal Palace,0.20247763
+438,542,Jenson,Seelt,Defender,Sunderland,4.0,0.21787041141873312,1.3188502,Leeds,0.22643669,Man City,0.17690985,Spurs,0.231199,Brentford,0.25330615,Crystal Palace,0.21639642,West Ham,0.21460198
+439,221,Filip,Jörgensen,Goalkeeper,Chelsea,4.3,0.2100702091341927,1.2554196,Aston Villa,0.20489123,Bournemouth,0.24864899,Man City,0.15665382,Fulham,0.20919612,Brentford,0.24864899,Crystal Palace,0.18738043
+440,679,Mads,Hermansen,Goalkeeper,West Ham,4.3,0.20097809320404417,1.2014617,Fulham,0.19158253,Brighton,0.21465428,Wolves,0.20971502,Nott'm Forest,0.19158253,Spurs,0.19023837,Sunderland,0.20368893
+441,391,Ben,Gannon-Doak,Midfielder,Bournemouth,4.8,0.1970660558768681,1.2295443,Brentford,0.17705767,Chelsea,0.14733967,Arsenal,0.2745273,Spurs,0.21919376,Brighton,0.17222646,Liverpool,0.23919937
+442,123,Fábio,Freitas Gouveia Carvalho,Midfielder,Brentford,4.7,0.19300282711074465,1.0537261,Bournemouth,0.23785047,Spurs,0.23785047,Everton,0.122080564,Sunderland,0.26821622,Chelsea,-0.043995112,Nott'm Forest,0.23172347
+443,285,Odsonne,Édouard,Forward,Crystal Palace,5.0,0.18961140797251744,1.1372526,Spurs,0.20575538,Fulham,0.19544962,Newcastle,0.14898208,Aston Villa,0.1973592,Sunderland,0.19234702,Chelsea,0.1973592
+444,96,Ben,Winterburn,Midfielder,Bournemouth,4.5,0.1836365134943099,1.0946767,Brentford,0.20009898,Chelsea,0.17770986,Arsenal,0.15027854,Spurs,0.20901658,Brighton,0.18148698,Liverpool,0.17608577
+445,24,Christian,Nørgaard,Midfielder,Arsenal,5.2,0.17852783486956642,1.0943921,Brighton,0.17972311,Aston Villa,0.14103675,Bournemouth,0.22314215,Liverpool,0.15433595,Nott'm Forest,0.21383163,Man Utd,0.18232241
+446,367,Giorgi,Mamardashvili,Goalkeeper,Liverpool,4.3,0.17431823341619404,1.1601604,Wolves,0.13855214,Leeds,0.1556462,Fulham,0.20250678,Arsenal,0.21252252,Burnley,0.15261152,Bournemouth,0.29832128
+447,607,Nayef,Aguerd,Defender,West Ham,4.4,0.17396092060066404,1.0569811,Fulham,0.16826531,Brighton,0.18194173,Wolves,0.1840743,Nott'm Forest,0.16826531,Spurs,0.13835125,Sunderland,0.21608317
+448,480,Jamaal,Lascelles,Defender,Newcastle,4.3,0.1706449148200807,1.0550504,Man Utd,0.14983295,Burnley,0.14494655,Crystal Palace,0.20114693,Leeds,0.2118949,Wolves,0.17231129,Aston Villa,0.17491779
+449,218,Ashley,Barnes,Forward,Burnley,4.3,0.170017863313357,1.0011036,Everton,0.22488147,Newcastle,0.15413462,Brighton,0.13849251,Man Utd,0.15413462,Liverpool,0.104578935,Spurs,0.22488147
+450,626,Callum,Marshall,Forward,West Ham,4.3,0.16159547581559136,0.9985712,Fulham,0.13946918,Brighton,0.15654542,Wolves,0.21762727,Nott'm Forest,0.13946918,Spurs,0.13958614,Sunderland,0.20587397
+451,389,Harvey,Elliott,Midfielder,Aston Villa,5.2,0.15252078927698587,0.9754127,Chelsea,0.11920925,Arsenal,0.1092421,Nott'm Forest,0.20946795,Crystal Palace,0.19123901,Everton,0.18362732,Newcastle,0.1626271
+452,539,Luke,O'Nien,Defender,Sunderland,4.0,0.14256423498903,0.87504184,Leeds,0.13567953,Man City,0.1319329,Spurs,0.15498716,Brentford,0.15498716,Crystal Palace,0.13774207,West Ham,0.15971303
+453,635,Rodrigo,Martins Gomes,Defender,Wolves,4.4,0.12156522886029311,0.6858294,Liverpool,0.08462672,Man Utd,0.12142334,West Ham,0.19328122,Everton,0.116369195,Newcastle,0.14563134,Man City,0.024497638
+454,549,Dan,Neil,Midfielder,Sunderland,4.8,0.12129663143839153,0.7391697,Leeds,0.13168739,Man City,0.08265206,Spurs,0.13879347,Brentford,0.13879347,Crystal Palace,0.12504694,West Ham,0.122196466
+455,305,Harrison,Armstrong,Midfielder,Everton,4.5,0.11076829121226354,0.61268353,Burnley,0.1522985,Nott'm Forest,0.084969476,Brentford,0.10086399,Wolves,0.12823156,Aston Villa,0.053025093,Leeds,0.09329494
+456,647,Gonçalo Manuel,Ganchinho Guedes,Midfielder,Wolves,5.5,0.10731220103445507,0.62971944,Liverpool,0.102758326,Man Utd,0.112724386,West Ham,0.11203348,Everton,0.113372214,Newcastle,0.09630275,Man City,0.09252828
+457,201,Manuel,Benson Hedilazio,Midfielder,Burnley,5.4,0.10528889511312757,0.6353381,Everton,0.11125099,Newcastle,0.09552026,Brighton,0.10473686,Man Utd,0.11060316,Liverpool,0.101975836,Spurs,0.11125099
+458,581,James,Maddison,Midfielder,Spurs,6.8,0.10356749771606355,0.61855775,Crystal Palace,0.103628896,Brentford,0.104276724,Sunderland,0.10313872,Bournemouth,0.104276724,West Ham,0.10313872,Burnley,0.10009795
+459,583,Dejan,Kulusevski,Midfielder,Spurs,6.4,0.10356749771606355,0.61855775,Crystal Palace,0.103628896,Brentford,0.104276724,Sunderland,0.10313872,Bournemouth,0.104276724,West Ham,0.10313872,Burnley,0.10009795
+460,465,Rasmus,Højlund,Forward,Man Utd,6.3,0.10326605857837767,0.5862101,Newcastle,0.11356546,Wolves,0.1005808,Leeds,0.100380026,Burnley,0.100380026,Man City,0.110326566,Arsenal,0.060977176
+461,451,Marcus,Rashford,Midfielder,Man Utd,7.0,0.10156644685637384,0.5760123,Newcastle,0.11186585,Wolves,0.098881185,Leeds,0.098680414,Burnley,0.098680414,Man City,0.108626954,Arsenal,0.05927756
+462,420,İlkay,Gündoğan,Midfielder,Man City,6.3,0.1006134170151892,0.60354626,Nott'm Forest,0.097663336,Sunderland,0.097663336,Chelsea,0.10666999,Brighton,0.10666999,Man Utd,0.09701551,Wolves,0.09786411
+463,454,Antony,dos Santos,Midfielder,Man Utd,5.9,0.10054936809908775,0.56990993,Newcastle,0.11084877,Wolves,0.09786411,Leeds,0.097663336,Burnley,0.097663336,Man City,0.107609876,Arsenal,0.05826048
+464,240,Christopher,Nkunku,Midfielder,Chelsea,5.9,0.09677131083749588,0.57497853,Aston Villa,0.11084877,Bournemouth,0.100704126,Man City,0.06804263,Fulham,0.097663336,Brentford,0.100704126,Crystal Palace,0.09701551
+465,251,Nicolas,Jackson,Forward,Chelsea,6.5,0.09677131083749588,0.57497853,Aston Villa,0.11084877,Bournemouth,0.100704126,Man City,0.06804263,Fulham,0.097663336,Brentford,0.100704126,Crystal Palace,0.09701551
+466,127,Gustavo,Nunes Fernandes Gomes,Midfielder,Brentford,4.9,0.0959468668415433,0.55576795,Bournemouth,0.10151207,Spurs,0.10151207,Everton,0.09847128,Sunderland,0.09733329,Chelsea,0.055427212,Nott'm Forest,0.10151207
+467,656,Saša,Kalajdžić,Forward,Wolves,4.9,0.09524883258910405,0.55808115,Liverpool,0.102372125,Man Utd,0.08744691,West Ham,0.09814818,Everton,0.09680406,Newcastle,0.09244337,Man City,0.08086652
+468,404,Manuel,Akanji,Defender,Man City,5.4,0.09512376820757275,0.5767631,Nott'm Forest,0.09176337,Sunderland,0.09176337,Chelsea,0.10077003,Brighton,0.10077003,Man Utd,0.09111554,Wolves,0.1005808
+469,397,Darwin,Núñez Ribeiro,Forward,Liverpool,6.5,0.09310531633950414,0.5528595,Wolves,0.09786411,Leeds,0.100704126,Fulham,0.097663336,Arsenal,0.05826048,Burnley,0.100704126,Bournemouth,0.097663336
+470,589,Manor,Solomon,Midfielder,Spurs,5.4,0.09251623033058073,0.5522501,Crystal Palace,0.09257763,Brentford,0.09322546,Sunderland,0.092087455,Bournemouth,0.09322546,West Ham,0.092087455,Burnley,0.08904668
+471,425,Claudio,Echeverri,Midfielder,Man City,5.4,0.09240707790567759,0.560463,Nott'm Forest,0.08904668,Sunderland,0.08904668,Chelsea,0.098053336,Brighton,0.098053336,Man Utd,0.08839885,Wolves,0.09786411
+472,479,Emil,Krafth,Defender,Newcastle,4.3,0.08781035918565022,0.50932765,Man Utd,0.0758354,Burnley,0.11515814,Crystal Palace,0.09356434,Leeds,0.08598878,Wolves,0.042209778,Aston Villa,0.096571185
+473,159,Solly,March,Midfielder,Brighton,5.8,0.08587523088568733,0.54182446,Arsenal,0.060695093,West Ham,0.10009795,Burnley,0.10313872,Man City,0.07047724,Bournemouth,0.1073175,Fulham,0.10009795
+474,383,Luis,Díaz Marulanda,Midfielder,Liverpool,8.0,0.08396845169010615,0.4883281,Wolves,0.09843744,Leeds,0.08768318,Fulham,0.08464239,Arsenal,0.045239545,Burnley,0.08768318,Bournemouth,0.08464239
+475,364,Mateo,Joseph Fernández-Regatillo,Forward,Leeds,5.0,0.08361846918151492,0.5124977,Sunderland,0.08012343,Liverpool,0.08097481,Man Utd,0.089602135,Newcastle,0.079958685,Fulham,0.09024996,Everton,0.09158869
+476,179,Evan,Ferguson,Forward,Brighton,5.5,0.08344062382266633,0.5272168,Arsenal,0.05826048,West Ham,0.097663336,Burnley,0.100704126,Man City,0.06804263,Bournemouth,0.1048829,Fulham,0.097663336
+477,422,Mateo,Kovačić,Midfielder,Man City,5.9,0.08188823858896892,0.5280678,Nott'm Forest,0.06621224,Sunderland,0.09964684,Chelsea,0.08033441,Brighton,0.08554457,Man Utd,0.049844272,Wolves,0.14648551
+478,49,Leon,Bailey,Midfielder,Aston Villa,5.5,0.08006502705670539,0.4950685,Chelsea,0.07128152,Arsenal,0.05826048,Nott'm Forest,0.100704126,Crystal Palace,0.09701551,Everton,0.100704126,Newcastle,0.067102745
+479,51,Samuel,Iling-Junior,Midfielder,Aston Villa,5.5,0.08006502705670539,0.4950685,Chelsea,0.07128152,Arsenal,0.05826048,Nott'm Forest,0.100704126,Crystal Palace,0.09701551,Everton,0.100704126,Newcastle,0.067102745
+480,550,Ian,Poveda-Ocampo,Midfielder,Sunderland,4.8,0.07855599515494846,0.47613102,Leeds,0.08363304,Man City,0.061883904,Spurs,0.08497177,Brentford,0.08497177,Crystal Palace,0.082985215,West Ham,0.0776853
+481,346,Sam,Byram,Defender,Leeds,3.8,0.07805156441671507,0.4459746,Sunderland,0.07207148,Liverpool,0.08821799,Man Utd,0.07618773,Newcastle,0.098241016,Fulham,0.054833714,Everton,0.056422647
+482,208,Luca,Koleosho,Midfielder,Burnley,5.0,0.07798009933460326,0.47148532,Everton,0.0839422,Newcastle,0.06821144,Brighton,0.07742807,Man Utd,0.08329437,Liverpool,0.074667044,Spurs,0.0839422
+483,327,Andreas,Hoelgebaum Pereira,Midfielder,Fulham,5.3,0.07772718299002873,0.45862526,West Ham,0.07993528,Crystal Palace,0.08346623,Liverpool,0.072440244,Chelsea,0.07142411,Leeds,0.07993528,Brighton,0.07142411
+484,363,Patrick,Bamford,Forward,Leeds,4.9,0.07660721632696332,0.47043014,Sunderland,0.073112205,Liverpool,0.07396355,Man Utd,0.08259087,Newcastle,0.07294742,Fulham,0.0832387,Everton,0.08457741
+485,399,Ederson,Santana de Moraes,Goalkeeper,Man City,5.3,0.07604656297536122,0.46229988,Nott'm Forest,0.07268616,Sunderland,0.07268616,Chelsea,0.08169283,Brighton,0.08169283,Man Utd,0.07203833,Wolves,0.081503615
+486,165,Abdallah,Sima,Midfielder,Brighton,5.4,0.07482396403238885,0.47551686,Arsenal,0.049643833,West Ham,0.08904668,Burnley,0.092087455,Man City,0.05942596,Bournemouth,0.09626623,Fulham,0.08904668
+487,161,Julio,Enciso Espínola,Midfielder,Brighton,5.4,0.07482396403238885,0.47551686,Arsenal,0.049643833,West Ham,0.08904668,Burnley,0.092087455,Man City,0.05942596,Bournemouth,0.09626623,Fulham,0.08904668
+488,520,Lewis,O'Brien,Midfielder,Nott'm Forest,5.0,0.07438522967554273,0.44813854,Man City,0.06384553,Everton,0.08879019,Aston Villa,0.0741194,West Ham,0.081570625,Arsenal,0.054063406,Brentford,0.0857494
+489,357,Largie,Ramazani,Midfielder,Leeds,4.9,0.07389052034843535,0.45412996,Sunderland,0.07039552,Liverpool,0.07124685,Man Utd,0.07987417,Newcastle,0.070230715,Fulham,0.080522,Everton,0.08186072
+490,355,Sam,Greenwood,Midfielder,Leeds,4.9,0.07389052034843535,0.45412996,Sunderland,0.07039552,Liverpool,0.07124685,Man Utd,0.07987417,Newcastle,0.070230715,Fulham,0.080522,Everton,0.08186072
+491,290,Jarrad,Branthwaite,Defender,Everton,5.3,0.07366607373669033,0.43129933,Burnley,0.07240409,Nott'm Forest,0.07658287,Brentford,0.079623654,Wolves,0.081221536,Aston Villa,0.046022277,Leeds,0.07544489
+492,336,Harrison,Reed,Midfielder,Fulham,4.3,0.07187404731909434,0.45459455,West Ham,0.07498946,Crystal Palace,0.059162915,Liverpool,0.0661235,Chelsea,0.08490077,Leeds,0.07498946,Brighton,0.094428435
+493,587,Yves,Bissouma,Midfielder,Spurs,5.2,0.07150157150768098,0.42616218,Crystal Palace,0.07156296,Brentford,0.07221079,Sunderland,0.07107282,Bournemouth,0.07221079,West Ham,0.07107282,Burnley,0.06803203
+494,649,Boubacar,Traoré,Midfielder,Wolves,5.0,0.07138673907944135,0.41416672,Liverpool,0.06683286,Man Utd,0.076798916,West Ham,0.07610802,Everton,0.077446744,Newcastle,0.060377292,Man City,0.056602854
+495,616,Edson,Álvarez Velázquez,Midfielder,West Ham,4.9,0.06945564828458285,0.42177084,Fulham,0.07421428,Brighton,0.058483545,Wolves,0.069270216,Nott'm Forest,0.07421428,Spurs,0.075553,Sunderland,0.07003551
+496,617,Maxwel,Cornet,Midfielder,West Ham,4.9,0.06945564828458285,0.42177084,Fulham,0.07421428,Brighton,0.058483545,Wolves,0.069270216,Nott'm Forest,0.07421428,Spurs,0.075553,Sunderland,0.07003551
+497,546,Milan,Aleksić,Midfielder,Sunderland,4.9,0.06837639301305726,0.41642287,Leeds,0.07421428,Man City,0.049269628,Spurs,0.075553,Brentford,0.075553,Crystal Palace,0.07356645,West Ham,0.06826653
+498,204,Darko,Churlinov,Midfielder,Burnley,4.9,0.06825217977166176,0.4131178,Everton,0.07421428,Newcastle,0.058483545,Brighton,0.067700125,Man Utd,0.07356645,Liverpool,0.06493912,Spurs,0.07421428
+499,592,Mikey,Moore,Midfielder,Spurs,5.0,0.06520744058347883,0.3883974,Crystal Palace,0.06526883,Brentford,0.06591666,Sunderland,0.064778686,Bournemouth,0.06591666,West Ham,0.064778686,Burnley,0.061737902
+500,412,Vitor,de Oliveira Nunes dos Reis,Defender,Man City,5.0,0.06506999972320737,0.39601606,Nott'm Forest,0.061737902,Sunderland,0.061737902,Chelsea,0.070744544,Brighton,0.070744544,Man Utd,0.061090063,Wolves,0.06996113
+501,428,Sverre,Nypan,Midfielder,Man City,5.0,0.06506999972320737,0.39601606,Nott'm Forest,0.061737902,Sunderland,0.061737902,Chelsea,0.070744544,Brighton,0.070744544,Man Utd,0.061090063,Wolves,0.06996113
+502,23,Fábio,Ferreira Vieira,Midfielder,Arsenal,5.4,0.06376019758837563,0.37540895,Brighton,0.0665033,Aston Villa,0.0665033,Bournemouth,0.057496656,Liverpool,0.06751943,Nott'm Forest,0.057496656,Man Utd,0.059889622
+503,9,Jakub,Kiwior,Defender,Arsenal,5.4,0.06376019758837563,0.37540895,Brighton,0.0665033,Aston Villa,0.0665033,Bournemouth,0.057496656,Liverpool,0.06751943,Nott'm Forest,0.057496656,Man Utd,0.059889622
+504,429,Kalvin,Phillips,Midfielder,Man City,4.8,0.06270091821040426,0.3818016,Nott'm Forest,0.06553586,Sunderland,0.06553586,Chelsea,0.056041386,Brighton,0.056041386,Man Utd,0.06488803,Wolves,0.07375908
+505,655,Fábio,Soares Silva,Forward,Wolves,4.9,0.06165882714447521,0.3557992,Liverpool,0.05710495,Man Utd,0.06707101,West Ham,0.066380106,Everton,0.06771884,Newcastle,0.05064938,Man City,0.046874907
+506,748,Josh,Dasilva,Midfielder,Brentford,4.9,0.05728783174639656,0.32916385,Bournemouth,0.061664127,Spurs,0.061664127,Everton,0.058623344,Sunderland,0.057485357,Chelsea,0.02806275,Nott'm Forest,0.061664127
+507,432,André,Onana,Goalkeeper,Man Utd,4.9,0.056806105277722785,0.30401212,Newcastle,0.0651954,Wolves,0.060233198,Leeds,0.052009962,Burnley,0.052009962,Man City,0.06195651,Arsenal,0.012607084
+508,700,Max,Dowman,Midfielder,Arsenal,4.3,0.05618483351454848,0.32819957,Brighton,0.06706005,Aston Villa,0.06104786,Bournemouth,0.018112196,Liverpool,0.10293423,Nott'm Forest,0.011985186,Man Utd,0.06706005
+509,590,Bryan,Gil Salvatierra,Midfielder,Spurs,4.9,0.05547950948987688,0.33002982,Crystal Palace,0.0555409,Brentford,0.056188732,Sunderland,0.055050746,Bournemouth,0.056188732,West Ham,0.055050746,Burnley,0.052009962
+510,168,Facundo,Buonanotte,Midfielder,Chelsea,4.6,0.05479292287713005,0.32398325,Aston Villa,0.046384517,Bournemouth,0.08754844,Man City,0.016624887,Fulham,0.048095524,Brentford,0.09848607,Crystal Palace,0.026843801
+511,268,Cheick,Doucouré,Midfielder,Crystal Palace,4.9,0.0547177011058444,0.3369168,Spurs,0.061664127,Fulham,0.057485357,Newcastle,0.02806275,Aston Villa,0.06763001,Sunderland,0.054444574,Chelsea,0.06763001
+512,91,Luis,Sinisterra Lucumí,Midfielder,Bournemouth,5.0,0.0543856815922828,0.32370183,Brentford,0.069231644,Chelsea,0.038671058,Arsenal,0.043520663,Spurs,0.072272435,Brighton,0.042448197,Liverpool,0.05755781
+513,71,Illia,Zabarnyi,Defender,Bournemouth,5.0,0.0543856815922828,0.32370183,Brentford,0.069231644,Chelsea,0.038671058,Arsenal,0.043520663,Spurs,0.072272435,Brighton,0.042448197,Liverpool,0.05755781
+514,492,Antoñito,Cordero Campillo,Midfielder,Newcastle,4.9,0.053836509585380554,0.33521354,Man Utd,0.05136213,Burnley,0.052009962,Crystal Palace,0.054402914,Leeds,0.055050746,Wolves,0.057192408,Aston Villa,0.0651954
+515,245,Mykhailo,Mudryk,Midfielder,Chelsea,4.9,0.05355254117222059,0.31566587,Aston Villa,0.06763001,Bournemouth,0.057485357,Man City,0.024823839,Fulham,0.054444574,Brentford,0.057485357,Crystal Palace,0.053796742
+516,312,Youssef,Ramalho Chermiti,Forward,Everton,4.9,0.053187052763643716,0.30834025,Burnley,0.052009962,Nott'm Forest,0.056188732,Brentford,0.059229515,Wolves,0.060233198,Aston Villa,0.025628135,Leeds,0.055050746
+517,692,Giovanni,Leoni,Defender,Liverpool,4.9,0.052178683646378066,0.30156937,Wolves,0.06266782,Leeds,0.057485357,Fulham,0.054444574,Arsenal,0.015041696,Burnley,0.057485357,Bournemouth,0.054444574
+518,339,Illan,Meslier,Goalkeeper,Leeds,4.2,0.05122788374622663,0.31609562,Sunderland,0.044988077,Liverpool,0.053044483,Man Utd,0.05446677,Newcastle,0.052028358,Fulham,0.0551146,Everton,0.05645333
+519,203,Enock,Agyei,Midfielder,Burnley,4.7,0.05079933681658336,0.30399525,Everton,0.051111683,Newcastle,0.05046385,Brighton,0.051802587,Man Utd,0.05046385,Liverpool,0.049041566,Spurs,0.051111683
+520,216,Zeki,Amdouni,Forward,Burnley,4.8,0.04972950333640689,0.2992744,Everton,0.056268588,Newcastle,0.043733347,Brighton,0.045072082,Man Utd,0.055620756,Liverpool,0.04231106,Spurs,0.056268588
+521,675,Angus,Gunn,Goalkeeper,Nott'm Forest,4.0,0.048620851444346566,0.29240593,Man City,0.045114174,Everton,0.054975923,Aston Villa,0.047510162,West Ham,0.047756363,Arsenal,0.045114174,Brentford,0.051935133
+522,340,Alex,Cairns,Goalkeeper,Leeds,3.9,0.04851119716962178,0.2997955,Sunderland,0.04227139,Liverpool,0.050327796,Man Utd,0.051750083,Newcastle,0.04931167,Fulham,0.052397914,Everton,0.053736642
+523,741,Harry,Gray,Forward,Leeds,4.5,0.04851119716962178,0.2997955,Sunderland,0.04227139,Liverpool,0.050327796,Man Utd,0.051750083,Newcastle,0.04931167,Fulham,0.052397914,Everton,0.053736642
+524,188,Hannes,Delcroix,Defender,Burnley,3.8,0.04849449598363468,0.29016617,Everton,0.048806842,Newcastle,0.04815901,Brighton,0.049497746,Man Utd,0.04815901,Liverpool,0.046736725,Spurs,0.048806842
+525,602,Krisztián,Hegyi,Goalkeeper,West Ham,3.9,0.04763937847954886,0.28440914,Fulham,0.048806842,Brighton,0.04815901,Wolves,0.04386277,Nott'm Forest,0.048806842,Spurs,0.050145578,Sunderland,0.044628073
+526,174,Malick,Yalcouyé,Midfielder,Brighton,5.0,0.04751516736689068,0.31166407,Arsenal,0.022335012,West Ham,0.061737902,Burnley,0.064778686,Man City,0.03211715,Bournemouth,0.06895742,Fulham,0.061737902
+527,529,Simon,Moore,Goalkeeper,Sunderland,3.9,0.046560127820287435,0.27906123,Leeds,0.048806842,Man City,0.038945094,Spurs,0.050145578,Brentford,0.050145578,Crystal Palace,0.04815901,West Ham,0.042859096
+528,554,Abdoullah,Ba,Midfielder,Sunderland,4.3,0.046560127820287435,0.27906123,Leeds,0.048806842,Man City,0.038945094,Spurs,0.050145578,Brentford,0.050145578,Crystal Palace,0.04815901,West Ham,0.042859096
+529,534,Joe,Anderson,Defender,Sunderland,3.9,0.046560127820287435,0.27906123,Leeds,0.048806842,Man City,0.038945094,Spurs,0.050145578,Brentford,0.050145578,Crystal Palace,0.04815901,West Ham,0.042859096
+530,540,Timothée,Pembélé,Defender,Sunderland,3.9,0.046560127820287435,0.27906123,Leeds,0.048806842,Man City,0.038945094,Spurs,0.050145578,Brentford,0.050145578,Crystal Palace,0.04815901,West Ham,0.042859096
+531,562,Ahmed,Abdullahi,Forward,Sunderland,4.3,0.046560127820287435,0.27906123,Leeds,0.048806842,Man City,0.038945094,Spurs,0.050145578,Brentford,0.050145578,Crystal Palace,0.04815901,West Ham,0.042859096
+532,185,Václav,Hladký,Goalkeeper,Burnley,3.9,0.04577780940702983,0.27386606,Everton,0.046090156,Newcastle,0.045442324,Brighton,0.04678106,Man Utd,0.045442324,Liverpool,0.044020038,Spurs,0.046090156
+533,213,Jaydon,Banel,Midfielder,Burnley,4.5,0.04577780940702983,0.27386606,Everton,0.046090156,Newcastle,0.045442324,Brighton,0.04678106,Man Utd,0.045442324,Liverpool,0.044020038,Spurs,0.046090156
+534,183,Max,Weiß,Goalkeeper,Burnley,4.3,0.04577780940702983,0.27386606,Everton,0.046090156,Newcastle,0.045442324,Brighton,0.04678106,Man Utd,0.045442324,Liverpool,0.044020038,Spurs,0.046090156
+535,752,Airidas,Golambeckis,Defender,West Ham,4.0,0.04492269190294401,0.268109,Fulham,0.046090156,Brighton,0.045442324,Wolves,0.041146085,Nott'm Forest,0.046090156,Spurs,0.04742889,Sunderland,0.041911386
+536,620,George,Earthy,Midfielder,West Ham,4.5,0.04492269190294401,0.268109,Fulham,0.046090156,Brighton,0.045442324,Wolves,0.041146085,Nott'm Forest,0.046090156,Spurs,0.04742889,Sunderland,0.041911386
+537,738,Lukasz,Fabianski,Goalkeeper,West Ham,4.5,0.04492269190294401,0.268109,Fulham,0.046090156,Brighton,0.045442324,Wolves,0.041146085,Nott'm Forest,0.046090156,Spurs,0.04742889,Sunderland,0.041911386
+538,652,Enso,González Medina,Midfielder,Wolves,4.3,0.04466514555471283,0.2603012,Liverpool,0.04347816,Man Utd,0.046239182,West Ham,0.04554828,Everton,0.046887014,Newcastle,0.044900447,Man City,0.033248127
+539,658,Nathan,Fraser,Forward,Wolves,4.3,0.04466514555471283,0.2603012,Liverpool,0.04347816,Man Utd,0.046239182,West Ham,0.04554828,Everton,0.046887014,Newcastle,0.044900447,Man City,0.033248127
+540,89,Philip,Billing,Midfielder,Bournemouth,4.9,0.04465775803795882,0.26533428,Brentford,0.059503727,Chelsea,0.028943134,Arsenal,0.03379273,Spurs,0.06254451,Brighton,0.032720268,Liverpool,0.0478299
+541,56,Enzo,Barrenechea,Midfielder,Aston Villa,5.0,0.04413957060092971,0.2795158,Chelsea,0.035356056,Arsenal,0.022335012,Nott'm Forest,0.064778686,Crystal Palace,0.061090063,Everton,0.064778686,Newcastle,0.031177286
+542,57,Lewis,Dobbin,Midfielder,Aston Villa,5.0,0.04413957060092971,0.2795158,Chelsea,0.035356056,Arsenal,0.022335012,Nott'm Forest,0.064778686,Crystal Palace,0.061090063,Everton,0.064778686,Newcastle,0.031177286
+543,558,Jay,Matete,Midfielder,Sunderland,4.3,0.04384344124368259,0.2627611,Leeds,0.046090156,Man City,0.036228407,Spurs,0.04742889,Brentford,0.04742889,Crystal Palace,0.045442324,West Ham,0.04014241
+544,528,Anthony,Patterson,Goalkeeper,Sunderland,4.2,0.04384344124368259,0.2627611,Leeds,0.046090156,Man City,0.036228407,Spurs,0.04742889,Brentford,0.04742889,Crystal Palace,0.045442324,West Ham,0.04014241
+545,538,Zak,Johnson,Defender,Sunderland,3.9,0.04384344124368259,0.2627611,Leeds,0.046090156,Man City,0.036228407,Spurs,0.04742889,Brentford,0.04742889,Crystal Palace,0.045442324,West Ham,0.04014241
+546,536,Leo Fuhr,Hjelde,Defender,Sunderland,4.0,0.04384344124368259,0.2627611,Leeds,0.046090156,Man City,0.036228407,Spurs,0.04742889,Brentford,0.04742889,Crystal Palace,0.045442324,West Ham,0.04014241
+547,535,Dennis,Cirkin,Defender,Sunderland,4.0,0.04384344124368259,0.2627611,Leeds,0.046090156,Man City,0.036228407,Spurs,0.04742889,Brentford,0.04742889,Crystal Palace,0.045442324,West Ham,0.04014241
+548,530,Blondy,Nna Noukeu,Goalkeeper,Sunderland,3.9,0.04384344124368259,0.2627611,Leeds,0.046090156,Man City,0.036228407,Spurs,0.04742889,Brentford,0.04742889,Crystal Palace,0.045442324,West Ham,0.04014241
+549,557,Harrison,Jones,Midfielder,Sunderland,4.3,0.04384344124368259,0.2627611,Leeds,0.046090156,Man City,0.036228407,Spurs,0.04742889,Brentford,0.04742889,Crystal Palace,0.045442324,West Ham,0.04014241
+550,641,Alfie,Pond,Defender,Wolves,3.9,0.04141062675487427,0.24077408,Liverpool,0.040223643,Man Utd,0.042984664,West Ham,0.04229376,Everton,0.043632496,Newcastle,0.04164593,Man City,0.02999359
+551,664,Benjamin,Lecomte,Goalkeeper,Fulham,3.9,0.04089032574778511,0.24837762,West Ham,0.037352566,Crystal Palace,0.040883504,Liverpool,0.044940412,Chelsea,0.043924287,Leeds,0.037352566,Brighton,0.043924287
+552,651,Tom,Edozie,Midfielder,Wolves,4.3,0.04008953459560871,0.23284753,Liverpool,0.03890255,Man Utd,0.041663572,West Ham,0.04097267,Everton,0.042311404,Newcastle,0.040324837,Man City,0.0286725
+553,467,Chido,Obi,Forward,Man Utd,4.2,0.0392722494545437,0.22635417,Newcastle,0.041856974,Wolves,0.04350848,Leeds,0.035285246,Burnley,0.035285246,Man City,0.038618065,Arsenal,0.031800136
+554,211,Aaron,Ramsey,Midfielder,Burnley,4.4,0.03911647253802845,0.23389803,Everton,0.03942882,Newcastle,0.038780987,Brighton,0.040119722,Man Utd,0.038780987,Liverpool,0.0373587,Spurs,0.03942882
+555,630,Tom,King,Goalkeeper,Everton,3.9,0.03895144501612299,0.23412763,Burnley,0.035285246,Nott'm Forest,0.039464016,Brentford,0.042504806,Wolves,0.04350848,Aston Villa,0.035039045,Leeds,0.038326036
+556,567,Antonín,Kinský,Goalkeeper,Spurs,3.9,0.038754794746637344,0.22968154,Crystal Palace,0.038816184,Brentford,0.039464016,Sunderland,0.038326036,Bournemouth,0.039464016,West Ham,0.038326036,Burnley,0.035285246
+557,770,Seth,Ridgeon,Midfielder,Fulham,4.5,0.03817363917118026,0.2320775,West Ham,0.03463588,Crystal Palace,0.038166817,Liverpool,0.042223725,Chelsea,0.0412076,Leeds,0.03463588,Brighton,0.0412076
+558,323,Samuel,Amissah,Defender,Fulham,3.8,0.03817363917118026,0.2320775,West Ham,0.03463588,Crystal Palace,0.038166817,Liverpool,0.042223725,Chelsea,0.0412076,Leeds,0.03463588,Brighton,0.0412076
+559,171,Jeremy,Sarmiento Morante,Midfielder,Brighton,4.9,0.03778723600719656,0.2532965,Arsenal,0.012607084,West Ham,0.052009962,Burnley,0.055050746,Man City,0.022389222,Bournemouth,0.059229515,Fulham,0.052009962
+560,767,Luke,Rawlings,Midfielder,Wolves,4.5,0.03737284589026655,0.2165474,Liverpool,0.036185857,Man Utd,0.038946886,West Ham,0.038255982,Everton,0.039594717,Newcastle,0.03760815,Man City,0.025955813
+561,766,Saheed,Olagunju,Defender,Wolves,4.0,0.03737284589026655,0.2165474,Liverpool,0.036185857,Man Utd,0.038946886,West Ham,0.038255982,Everton,0.039594717,Newcastle,0.03760815,Man City,0.025955813
+562,193,Bashir,Humphreys,Defender,Burnley,3.9,0.036127066594504174,0.20487453,Everton,0.028838566,Newcastle,0.04406557,Brighton,0.043070674,Man Utd,0.04406557,Liverpool,0.015995597,Spurs,0.028838566
+563,105,Hákon Rafn,Valdimarsson,Goalkeeper,Brentford,3.9,0.03604200535586902,0.21288985,Bournemouth,0.037929196,Spurs,0.037929196,Everton,0.034888405,Sunderland,0.033750426,Chelsea,0.030463431,Nott'm Forest,0.037929196
+564,137,Iwan,Morgan,Forward,Brentford,4.4,0.03604200535586902,0.21288985,Bournemouth,0.037929196,Spurs,0.037929196,Everton,0.034888405,Sunderland,0.033750426,Chelsea,0.030463431,Nott'm Forest,0.037929196
+565,102,Ellery,Balcombe,Goalkeeper,Brentford,3.9,0.03604200535586902,0.21288985,Bournemouth,0.037929196,Spurs,0.037929196,Everton,0.034888405,Sunderland,0.033750426,Chelsea,0.030463431,Nott'm Forest,0.037929196
+566,377,Konstantinos,Tsimikas,Defender,Liverpool,4.8,0.035506339743733406,0.20357078,Wolves,0.043960005,Leeds,0.038777556,Fulham,0.03573677,Arsenal,0.010582121,Burnley,0.038777556,Bournemouth,0.03573677
+567,227,Levi,Samuels Colwill,Defender,Chelsea,4.8,0.03470726328946295,0.21377383,Aston Villa,0.032855697,Bournemouth,0.04121217,Man City,0.02279886,Fulham,0.038171384,Brentford,0.04121217,Crystal Palace,0.037523553
+568,286,Zach,Marsh,Forward,Crystal Palace,4.5,0.03470122619044213,0.2074154,Spurs,0.037929196,Fulham,0.033750426,Newcastle,0.030463431,Aston Villa,0.037281364,Sunderland,0.030709632,Chelsea,0.037281364
+569,254,Walter,Benítez,Goalkeeper,Crystal Palace,4.0,0.03470122619044213,0.2074154,Spurs,0.037929196,Fulham,0.033750426,Newcastle,0.030463431,Aston Villa,0.037281364,Sunderland,0.030709632,Chelsea,0.037281364
+570,448,Tyrell,Malacia,Defender,Man Utd,3.8,0.03469663796325524,0.19890048,Newcastle,0.037281364,Wolves,0.03893287,Leeds,0.030709632,Burnley,0.030709632,Man City,0.034042455,Arsenal,0.027224524
+571,434,Tom,Heaton,Goalkeeper,Man Utd,3.9,0.03469663796325524,0.19890048,Newcastle,0.037281364,Wolves,0.03893287,Leeds,0.030709632,Burnley,0.030709632,Man City,0.034042455,Arsenal,0.027224524
+572,68,Will,Dennis,Goalkeeper,Bournemouth,4.0,0.03420084679410571,0.20981416,Brentford,0.034880508,Chelsea,0.030455533,Arsenal,0.034034558,Spurs,0.0379213,Brighton,0.034232676,Liverpool,0.03828959
+573,78,Julián,Araujo Zúñiga,Defender,Bournemouth,3.8,0.03420084679410571,0.20981416,Brentford,0.034880508,Chelsea,0.030455533,Arsenal,0.034034558,Spurs,0.0379213,Brighton,0.034232676,Liverpool,0.03828959
+574,599,Dane,Scarlett,Forward,Spurs,4.3,0.03417918440841493,0.20222786,Crystal Palace,0.034240574,Brentford,0.034888405,Sunderland,0.033750426,Bournemouth,0.034888405,West Ham,0.033750426,Burnley,0.030709632
+575,566,Brandon,Austin,Goalkeeper,Spurs,3.9,0.03417918440841493,0.20222786,Crystal Palace,0.034240574,Brentford,0.034888405,Sunderland,0.033750426,Bournemouth,0.034888405,West Ham,0.033750426,Burnley,0.030709632
+576,400,Stefan,Ortega Moreno,Goalkeeper,Man City,4.7,0.03414201363921165,0.21044819,Nott'm Forest,0.033014476,Sunderland,0.033014476,Chelsea,0.035407435,Brighton,0.035407435,Man Utd,0.032366645,Wolves,0.041237712
+577,368,Ármin,Pécsi,Goalkeeper,Liverpool,3.9,0.03357485424549807,0.19507751,Wolves,0.03893287,Leeds,0.033750426,Fulham,0.030709632,Arsenal,0.027224524,Burnley,0.033750426,Bournemouth,0.030709632
+578,378,Amara,Nallo,Defender,Liverpool,3.8,0.03357485424549807,0.19507751,Wolves,0.03893287,Leeds,0.033750426,Fulham,0.030709632,Arsenal,0.027224524,Burnley,0.033750426,Bournemouth,0.030709632
+579,380,Calvin,Ramsay,Defender,Liverpool,3.8,0.03357485424549807,0.19507751,Wolves,0.03893287,Leeds,0.033750426,Fulham,0.030709632,Arsenal,0.027224524,Burnley,0.033750426,Bournemouth,0.030709632
+580,103,Matthew,Cox,Goalkeeper,Brentford,3.9,0.033325318601869394,0.19658974,Bournemouth,0.03521251,Spurs,0.03521251,Everton,0.03217172,Sunderland,0.031033736,Chelsea,0.027746748,Nott'm Forest,0.03521251
+581,114,Benjamin,Arthur,Defender,Brentford,3.9,0.033325318601869394,0.19658974,Bournemouth,0.03521251,Spurs,0.03521251,Everton,0.03217172,Sunderland,0.031033736,Chelsea,0.027746748,Nott'm Forest,0.03521251
+582,104,Julian,Eyestone,Goalkeeper,Brentford,3.9,0.033325318601869394,0.19658974,Bournemouth,0.03521251,Spurs,0.03521251,Everton,0.03217172,Sunderland,0.031033736,Chelsea,0.027746748,Nott'm Forest,0.03521251
+583,133,Myles,Peart-Harris,Midfielder,Brentford,4.4,0.033325318601869394,0.19658974,Bournemouth,0.03521251,Spurs,0.03521251,Everton,0.03217172,Sunderland,0.031033736,Chelsea,0.027746748,Nott'm Forest,0.03521251
+584,132,Paris,Maghoma,Midfielder,Brentford,4.5,0.033325318601869394,0.19658974,Bournemouth,0.03521251,Spurs,0.03521251,Everton,0.03217172,Sunderland,0.031033736,Chelsea,0.027746748,Nott'm Forest,0.03521251
+585,131,Yunus Emre,Konak,Midfielder,Brentford,4.3,0.033325318601869394,0.19658974,Bournemouth,0.03521251,Spurs,0.03521251,Everton,0.03217172,Sunderland,0.031033736,Chelsea,0.027746748,Nott'm Forest,0.03521251
+586,130,Romelle,Donovan,Midfielder,Brentford,4.4,0.033325318601869394,0.19658974,Bournemouth,0.03521251,Spurs,0.03521251,Everton,0.03217172,Sunderland,0.031033736,Chelsea,0.027746748,Nott'm Forest,0.03521251
+587,481,Alex,Murphy,Defender,Newcastle,3.8,0.032221245978559764,0.2007979,Man Utd,0.030061802,Burnley,0.030709632,Crystal Palace,0.033102594,Leeds,0.033750426,Wolves,0.035892088,Aston Villa,0.037281364
+588,483,Miodrag,Pivaš,Defender,Newcastle,3.8,0.032221245978559764,0.2007979,Man Utd,0.030061802,Burnley,0.030709632,Crystal Palace,0.033102594,Leeds,0.033750426,Wolves,0.035892088,Aston Villa,0.037281364
+589,274,Asher,Agbinone,Midfielder,Crystal Palace,4.3,0.03198453979123206,0.19111529,Spurs,0.03521251,Fulham,0.031033736,Newcastle,0.027746748,Aston Villa,0.034564678,Sunderland,0.027992949,Chelsea,0.034564678
+590,281,Kaden,Rodney,Midfielder,Crystal Palace,4.4,0.03198453979123206,0.19111529,Spurs,0.03521251,Fulham,0.031033736,Newcastle,0.027746748,Aston Villa,0.034564678,Sunderland,0.027992949,Chelsea,0.034564678
+591,255,Remi,Matthews,Goalkeeper,Crystal Palace,3.9,0.03198453979123206,0.19111529,Spurs,0.03521251,Fulham,0.031033736,Newcastle,0.027746748,Aston Villa,0.034564678,Sunderland,0.027992949,Chelsea,0.034564678
+592,275,Naouirou,Ahamada,Midfielder,Crystal Palace,4.3,0.03198453979123206,0.19111529,Spurs,0.03521251,Fulham,0.031033736,Newcastle,0.027746748,Aston Villa,0.034564678,Sunderland,0.027992949,Chelsea,0.034564678
+593,463,Sékou,Koné,Midfielder,Man Utd,4.3,0.031979952539716444,0.18260036,Newcastle,0.034564678,Wolves,0.036216184,Leeds,0.027992949,Burnley,0.027992949,Man City,0.03132577,Arsenal,0.024507836
+594,769,Bendito,Mantato,Midfielder,Man Utd,4.5,0.031979952539716444,0.18260036,Newcastle,0.034564678,Wolves,0.036216184,Leeds,0.027992949,Burnley,0.027992949,Man City,0.03132577,Arsenal,0.024507836
+595,435,Dermot,Mee,Goalkeeper,Man Utd,3.9,0.031979952539716444,0.18260036,Newcastle,0.034564678,Wolves,0.036216184,Leeds,0.027992949,Burnley,0.027992949,Man City,0.03132577,Arsenal,0.024507836
+596,461,Jayce,Fitzgerald,Midfielder,Man Utd,4.4,0.031979952539716444,0.18260036,Newcastle,0.034564678,Wolves,0.036216184,Leeds,0.027992949,Burnley,0.027992949,Man City,0.03132577,Arsenal,0.024507836
+597,439,Diego,León Blanco,Defender,Man Utd,4.2,0.031979952539716444,0.18260036,Newcastle,0.034564678,Wolves,0.036216184,Leeds,0.027992949,Burnley,0.027992949,Man City,0.03132577,Arsenal,0.024507836
+598,446,Tyler,Fredricson,Defender,Man Utd,3.8,0.031979952539716444,0.18260036,Newcastle,0.034564678,Wolves,0.036216184,Leeds,0.027992949,Burnley,0.027992949,Man City,0.03132577,Arsenal,0.024507836
+599,307,Coby,Ebere,Midfielder,Everton,4.4,0.03165914810129574,0.19037385,Burnley,0.027992949,Nott'm Forest,0.03217172,Brentford,0.03521251,Wolves,0.036216184,Aston Villa,0.027746748,Leeds,0.031033736
+600,289,Harry,Tyrer,Goalkeeper,Everton,3.9,0.03165914810129574,0.19037385,Burnley,0.027992949,Nott'm Forest,0.03217172,Brentford,0.03521251,Wolves,0.036216184,Aston Villa,0.027746748,Leeds,0.031033736
+601,667,Adam,Aznou,Defender,Everton,4.2,0.03165914810129574,0.19037385,Burnley,0.027992949,Nott'm Forest,0.03217172,Brentford,0.03521251,Wolves,0.036216184,Aston Villa,0.027746748,Leeds,0.031033736
+602,705,Elijah,Campbell,Defender,Everton,3.9,0.03165914810129574,0.19037385,Burnley,0.027992949,Nott'm Forest,0.03217172,Brentford,0.03521251,Wolves,0.036216184,Aston Villa,0.027746748,Leeds,0.031033736
+603,288,Mark,Travers,Goalkeeper,Everton,4.3,0.03165914810129574,0.19037385,Burnley,0.027992949,Nott'm Forest,0.03217172,Brentford,0.03521251,Wolves,0.036216184,Aston Villa,0.027746748,Leeds,0.031033736
+604,296,Nathan,Patterson,Defender,Everton,4.4,0.03165914810129574,0.19037385,Burnley,0.027992949,Nott'm Forest,0.03217172,Brentford,0.03521251,Wolves,0.036216184,Aston Villa,0.027746748,Leeds,0.031033736
+605,306,Callum,Bates,Midfielder,Everton,4.3,0.03165914810129574,0.19037385,Burnley,0.027992949,Nott'm Forest,0.03217172,Brentford,0.03521251,Wolves,0.036216184,Aston Villa,0.027746748,Leeds,0.031033736
+606,297,Roman,Dixon,Defender,Everton,3.8,0.03165914810129574,0.19037385,Burnley,0.027992949,Nott'm Forest,0.03217172,Brentford,0.03521251,Wolves,0.036216184,Aston Villa,0.027746748,Leeds,0.031033736
+607,298,Reece,Welch,Defender,Everton,3.8,0.03165914810129574,0.19037385,Burnley,0.027992949,Nott'm Forest,0.03217172,Brentford,0.03521251,Wolves,0.036216184,Aston Villa,0.027746748,Leeds,0.031033736
+608,76,Owen,Bevan,Defender,Bournemouth,3.9,0.031484161104474745,0.19351403,Brentford,0.03216382,Chelsea,0.02773885,Arsenal,0.03131787,Spurs,0.03520461,Brighton,0.03151599,Liverpool,0.035572905
+609,69,Callan,McKenna,Goalkeeper,Bournemouth,3.9,0.031484161104474745,0.19351403,Brentford,0.03216382,Chelsea,0.02773885,Arsenal,0.03131787,Spurs,0.03520461,Brighton,0.03151599,Liverpool,0.035572905
+610,687,Remy,Rees-Dottin,Midfielder,Bournemouth,4.4,0.031484161104474745,0.19351403,Brentford,0.03216382,Chelsea,0.02773885,Arsenal,0.03131787,Spurs,0.03520461,Brighton,0.03151599,Liverpool,0.035572905
+611,756,Malcom,DaCosta,Midfielder,Bournemouth,4.5,0.031484161104474745,0.19351403,Brentford,0.03216382,Chelsea,0.02773885,Arsenal,0.03131787,Spurs,0.03520461,Brighton,0.03151599,Liverpool,0.035572905
+612,595,Callum,Olusesi,Midfielder,Spurs,4.3,0.0314624969448362,0.18592775,Crystal Palace,0.031523887,Brentford,0.03217172,Sunderland,0.031033736,Bournemouth,0.03217172,West Ham,0.031033736,Burnley,0.027992949
+613,751,Yusuf,Akhamrich,Midfielder,Spurs,4.5,0.0314624969448362,0.18592775,Crystal Palace,0.031523887,Brentford,0.03217172,Sunderland,0.031033736,Bournemouth,0.03217172,West Ham,0.031033736,Burnley,0.027992949
+614,745,Jun'ai,Byfield,Defender,Spurs,4.0,0.0314624969448362,0.18592775,Crystal Palace,0.031523887,Brentford,0.03217172,Sunderland,0.031033736,Bournemouth,0.03217172,West Ham,0.031033736,Burnley,0.027992949
+615,572,Radu,Drăgușin,Defender,Spurs,4.5,0.0314624969448362,0.18592775,Crystal Palace,0.031523887,Brentford,0.03217172,Sunderland,0.031033736,Bournemouth,0.03217172,West Ham,0.031033736,Burnley,0.027992949
+616,750,James,Rowswell,Defender,Spurs,4.0,0.0314624969448362,0.18592775,Crystal Palace,0.031523887,Brentford,0.03217172,Sunderland,0.031033736,Bournemouth,0.03217172,West Ham,0.031033736,Burnley,0.027992949
+617,760,Wellity,Lucky,Defender,Liverpool,4.0,0.030858167048011503,0.1787774,Wolves,0.036216184,Leeds,0.031033736,Fulham,0.027992949,Arsenal,0.024507836,Burnley,0.031033736,Bournemouth,0.027992949
+618,369,Freddie,Woodman,Goalkeeper,Liverpool,3.9,0.030858167048011503,0.1787774,Wolves,0.036216184,Leeds,0.031033736,Fulham,0.027992949,Arsenal,0.024507836,Burnley,0.031033736,Bournemouth,0.027992949
+619,746,Kieran,Morrison,Midfielder,Liverpool,4.5,0.030858167048011503,0.1787774,Wolves,0.036216184,Leeds,0.031033736,Fulham,0.027992949,Arsenal,0.024507836,Burnley,0.031033736,Bournemouth,0.027992949
+620,379,Rhys,Williams,Defender,Liverpool,3.8,0.030858167048011503,0.1787774,Wolves,0.036216184,Leeds,0.031033736,Fulham,0.027992949,Arsenal,0.024507836,Burnley,0.031033736,Bournemouth,0.027992949
+621,138,Jason,Steele,Goalkeeper,Brighton,4.2,0.03048279056591647,0.18754792,Arsenal,0.027224524,West Ham,0.030709632,Burnley,0.033750426,Man City,0.027224524,Bournemouth,0.037929196,Fulham,0.030709632
+622,140,Tom,McGill,Goalkeeper,Brighton,3.9,0.03048279056591647,0.18754792,Arsenal,0.027224524,West Ham,0.030709632,Burnley,0.033750426,Man City,0.027224524,Bournemouth,0.037929196,Fulham,0.030709632
+623,688,James,Wright,Goalkeeper,Aston Villa,3.9,0.030375039559744653,0.18153527,Chelsea,0.030463431,Arsenal,0.027224524,Nott'm Forest,0.033750426,Crystal Palace,0.030061802,Everton,0.033750426,Newcastle,0.026284663
+624,703,Sam,Proctor,Goalkeeper,Aston Villa,3.9,0.030375039559744653,0.18153527,Chelsea,0.030463431,Arsenal,0.027224524,Nott'm Forest,0.033750426,Crystal Palace,0.030061802,Everton,0.033750426,Newcastle,0.026284663
+625,63,Kadan,Young,Midfielder,Aston Villa,4.3,0.030375039559744653,0.18153527,Chelsea,0.030463431,Arsenal,0.027224524,Nott'm Forest,0.033750426,Crystal Palace,0.030061802,Everton,0.033750426,Newcastle,0.026284663
+626,45,Lino,da Cruz Sousa,Defender,Aston Villa,3.9,0.030375039559744653,0.18153527,Chelsea,0.030463431,Arsenal,0.027224524,Nott'm Forest,0.033750426,Crystal Palace,0.030061802,Everton,0.033750426,Newcastle,0.026284663
+627,60,Ben,Broggio,Midfielder,Aston Villa,4.5,0.030375039559744653,0.18153527,Chelsea,0.030463431,Arsenal,0.027224524,Nott'm Forest,0.033750426,Crystal Palace,0.030061802,Everton,0.033750426,Newcastle,0.026284663
+628,223,Gabriel,Słonina,Goalkeeper,Chelsea,3.9,0.030189501032942812,0.17647806,Aston Villa,0.034564678,Bournemouth,0.031033736,Man City,0.024507836,Fulham,0.027992949,Brentford,0.031033736,Crystal Palace,0.027345117
+629,743,Landon,Emenalo,Midfielder,Chelsea,4.5,0.030189501032942812,0.17647806,Aston Villa,0.034564678,Bournemouth,0.031033736,Man City,0.024507836,Fulham,0.027992949,Brentford,0.031033736,Crystal Palace,0.027345117
+630,689,Seung-Soo,Park,Midfielder,Newcastle,4.4,0.029504558869770593,0.18449777,Man Utd,0.027345117,Burnley,0.027992949,Crystal Palace,0.030385904,Leeds,0.031033736,Wolves,0.033175394,Aston Villa,0.034564678
+631,753,John,Ruddy,Goalkeeper,Newcastle,4.0,0.029504558869770593,0.18449777,Man Utd,0.027345117,Burnley,0.027992949,Crystal Palace,0.030385904,Leeds,0.031033736,Wolves,0.033175394,Aston Villa,0.034564678
+632,482,Harrison,Ashby,Defender,Newcastle,3.9,0.029504558869770593,0.18449777,Man Utd,0.027345117,Burnley,0.027992949,Crystal Palace,0.030385904,Leeds,0.031033736,Wolves,0.033175394,Aston Villa,0.034564678
+633,765,Leo,Shahar,Defender,Newcastle,4.0,0.029504558869770593,0.18449777,Man Utd,0.027345117,Burnley,0.027992949,Crystal Palace,0.030385904,Leeds,0.031033736,Wolves,0.033175394,Aston Villa,0.034564678
+634,471,Mark,Gillespie,Goalkeeper,Newcastle,3.9,0.029504558869770593,0.18449777,Man Utd,0.027345117,Burnley,0.027992949,Crystal Palace,0.030385904,Leeds,0.031033736,Wolves,0.033175394,Aston Villa,0.034564678
+635,501,Sean,Neave,Forward,Newcastle,4.4,0.029504558869770593,0.18449777,Man Utd,0.027345117,Burnley,0.027992949,Crystal Palace,0.030385904,Leeds,0.031033736,Wolves,0.033175394,Aston Villa,0.034564678
+636,763,Charlie,Gray,Midfielder,Man City,4.5,0.02912048498789469,0.18031901,Nott'm Forest,0.027992949,Sunderland,0.027992949,Chelsea,0.030385904,Brighton,0.030385904,Man Utd,0.027345117,Wolves,0.036216184
+637,742,Ryan,McAidoo,Midfielder,Man City,4.5,0.02912048498789469,0.18031901,Nott'm Forest,0.027992949,Sunderland,0.027992949,Chelsea,0.030385904,Brighton,0.030385904,Man Utd,0.027345117,Wolves,0.036216184
+638,764,Reigan,Heskey,Midfielder,Man City,4.5,0.02912048498789469,0.18031901,Nott'm Forest,0.027992949,Sunderland,0.027992949,Chelsea,0.030385904,Brighton,0.030385904,Man Utd,0.027345117,Wolves,0.036216184
+639,740,Stephen,Mfuni,Defender,Man City,3.9,0.02912048498789469,0.18031901,Nott'm Forest,0.027992949,Sunderland,0.027992949,Chelsea,0.030385904,Brighton,0.030385904,Man Utd,0.027345117,Wolves,0.036216184
+640,401,Marcus,Bettinelli,Goalkeeper,Man City,3.9,0.02912048498789469,0.18031901,Nott'm Forest,0.027992949,Sunderland,0.027992949,Chelsea,0.030385904,Brighton,0.030385904,Man Utd,0.027345117,Wolves,0.036216184
+641,761,Freddie,Simmonds,Defender,Brighton,4.0,0.027766103545824684,0.17124783,Arsenal,0.024507836,West Ham,0.027992949,Burnley,0.031033736,Man City,0.024507836,Bournemouth,0.03521251,Fulham,0.027992949
+642,156,Charlie,Tasker,Defender,Brighton,3.9,0.027766103545824684,0.17124783,Arsenal,0.024507836,West Ham,0.027992949,Burnley,0.031033736,Man City,0.024507836,Bournemouth,0.03521251,Fulham,0.027992949
+643,754,George,Hemmings,Midfielder,Aston Villa,4.5,0.027658352805745027,0.16523515,Chelsea,0.027746748,Arsenal,0.024507836,Nott'm Forest,0.031033736,Crystal Palace,0.027345117,Everton,0.031033736,Newcastle,0.023567976
+644,710,Travis,Patterson,Defender,Aston Villa,3.9,0.027658352805745027,0.16523515,Chelsea,0.027746748,Arsenal,0.024507836,Nott'm Forest,0.031033736,Crystal Palace,0.027345117,Everton,0.031033736,Newcastle,0.023567976
+645,757,Ronnie,Hollingshead,Goalkeeper,Aston Villa,4.0,0.027658352805745027,0.16523515,Chelsea,0.027746748,Arsenal,0.024507836,Nott'm Forest,0.031033736,Crystal Palace,0.027345117,Everton,0.031033736,Newcastle,0.023567976
+646,42,Andrés,García,Defender,Aston Villa,3.9,0.027658352805745027,0.16523515,Chelsea,0.027746748,Arsenal,0.024507836,Nott'm Forest,0.031033736,Crystal Palace,0.027345117,Everton,0.031033736,Newcastle,0.023567976
+647,62,Jamaldeen,Jimoh-Aloba,Midfielder,Aston Villa,4.5,0.027658352805745027,0.16523515,Chelsea,0.027746748,Arsenal,0.024507836,Nott'm Forest,0.031033736,Crystal Palace,0.027345117,Everton,0.031033736,Newcastle,0.023567976
+648,768,Leon,Routh,Defender,Aston Villa,4.0,0.027658352805745027,0.16523515,Chelsea,0.027746748,Arsenal,0.024507836,Nott'm Forest,0.031033736,Crystal Palace,0.027345117,Everton,0.031033736,Newcastle,0.023567976
+649,2,Kepa,Arrizabalaga Revuelta,Goalkeeper,Arsenal,4.1,0.024859572095530368,0.14861889,Brighton,0.025398113,Aston Villa,0.025398113,Bournemouth,0.023005158,Liverpool,0.026414238,Nott'm Forest,0.023005158,Man Utd,0.025398113
+650,13,Brayden,Clarke,Defender,Arsenal,3.8,0.024859572095530368,0.14861889,Brighton,0.025398113,Aston Villa,0.025398113,Bournemouth,0.023005158,Liverpool,0.026414238,Nott'm Forest,0.023005158,Man Utd,0.025398113
+651,4,Tommy,Setford,Goalkeeper,Arsenal,3.9,0.024859572095530368,0.14861889,Brighton,0.025398113,Aston Villa,0.025398113,Bournemouth,0.023005158,Liverpool,0.026414238,Nott'm Forest,0.023005158,Man Utd,0.025398113
+652,711,Andre,Harriman-Annous,Midfielder,Arsenal,4.5,0.023357672882931575,0.1396075,Brighton,0.023896214,Aston Villa,0.023896214,Bournemouth,0.021503258,Liverpool,0.024912339,Nott'm Forest,0.021503258,Man Utd,0.023896214
+653,759,Marli,Salmon,Defender,Arsenal,4.0,0.023357672882931575,0.1396075,Brighton,0.023896214,Aston Villa,0.023896214,Bournemouth,0.021503258,Liverpool,0.024912339,Nott'm Forest,0.021503258,Man Utd,0.023896214
+654,15,Josh,Nichols,Defender,Arsenal,3.8,0.023357672882931575,0.1396075,Brighton,0.023896214,Aston Villa,0.023896214,Bournemouth,0.021503258,Liverpool,0.024912339,Nott'm Forest,0.021503258,Man Utd,0.023896214
+655,514,Willy,Boly,Defender,Nott'm Forest,3.8,0.019935286382124537,0.12029254,Man City,0.016428612,Everton,0.026290355,Aston Villa,0.018824594,West Ham,0.019070799,Arsenal,0.016428612,Brentford,0.023249568
+656,359,Charlie,Crew,Midfielder,Leeds,4.5,0.018712121106329416,0.121001035,Sunderland,0.012472317,Liverpool,0.02052872,Man Utd,0.021951003,Newcastle,0.019512597,Fulham,0.022598835,Everton,0.023937566
+657,361,Darko,Gyabi,Midfielder,Leeds,4.5,0.018712121106329416,0.121001035,Sunderland,0.012472317,Liverpool,0.02052872,Man Utd,0.021951003,Newcastle,0.019512597,Fulham,0.022598835,Everton,0.023937566
+658,349,Isaac,Schmidt,Defender,Leeds,4.0,0.018712121106329416,0.121001035,Sunderland,0.012472317,Liverpool,0.02052872,Man Utd,0.021951003,Newcastle,0.019512597,Fulham,0.022598835,Everton,0.023937566
+659,360,Joe,Gelhardt,Midfielder,Leeds,4.5,0.018712121106329416,0.121001035,Sunderland,0.012472317,Liverpool,0.02052872,Man Utd,0.021951003,Newcastle,0.019512597,Fulham,0.022598835,Everton,0.023937566
+660,186,Connor,Roberts,Defender,Burnley,4.4,0.018413342535495755,0.10967925,Everton,0.01872569,Newcastle,0.018077858,Brighton,0.01941659,Man Utd,0.018077858,Liverpool,0.016655574,Spurs,0.01872569
+661,194,Jordan,Beyer,Defender,Burnley,3.9,0.018413342535495755,0.10967925,Everton,0.01872569,Newcastle,0.018077858,Brighton,0.01941659,Man Utd,0.018077858,Liverpool,0.016655574,Spurs,0.01872569
+662,601,Wes,Foderingham,Goalkeeper,West Ham,4.0,0.01784030587545463,0.10561468,Fulham,0.01900777,Brighton,0.018359939,Wolves,0.014063698,Nott'm Forest,0.01900777,Spurs,0.020346502,Sunderland,0.014829
+663,533,Aji,Alese,Defender,Sunderland,4.0,0.016478973973010267,0.09857427,Leeds,0.01872569,Man City,0.008863943,Spurs,0.020064421,Brentford,0.020064421,Crystal Palace,0.018077858,West Ham,0.01277794
+664,189,Owen,Dodgson,Defender,Burnley,4.0,0.015978736004659107,0.09507162,Everton,0.016291082,Newcastle,0.01564325,Brighton,0.016981984,Man Utd,0.01564325,Liverpool,0.0142209735,Spurs,0.016291082
+665,184,Etienne,Green,Goalkeeper,Burnley,4.0,0.015978736004659107,0.09507162,Everton,0.016291082,Newcastle,0.01564325,Brighton,0.016981984,Man Utd,0.01564325,Liverpool,0.0142209735,Spurs,0.016291082
+666,196,Shurandy,Sambo,Defender,Burnley,4.0,0.015978736004659107,0.09507162,Everton,0.016291082,Newcastle,0.01564325,Brighton,0.016981984,Man Utd,0.01564325,Liverpool,0.0142209735,Spurs,0.016291082
+667,219,Michael,Obafemi,Forward,Burnley,4.4,0.015978736004659107,0.09507162,Everton,0.016291082,Newcastle,0.01564325,Brighton,0.016981984,Man Utd,0.01564325,Liverpool,0.0142209735,Spurs,0.016291082
+668,212,Oluwaseun,Adewumi,Midfielder,Burnley,4.5,0.015978736004659107,0.09507162,Everton,0.016291082,Newcastle,0.01564325,Brighton,0.016981984,Man Utd,0.01564325,Liverpool,0.0142209735,Spurs,0.016291082
+669,604,Emerson,Palmieri dos Santos,Defender,West Ham,4.4,0.01512361867796807,0.08931456,Fulham,0.016291082,Brighton,0.01564325,Wolves,0.011347015,Nott'm Forest,0.016291082,Spurs,0.017629815,Sunderland,0.012112312
+670,611,Kaelan,Casey,Defender,West Ham,4.0,0.01512361867796807,0.08931456,Fulham,0.016291082,Brighton,0.01564325,Wolves,0.011347015,Nott'm Forest,0.016291082,Spurs,0.017629815,Sunderland,0.012112312
+671,622,Lewis,Orford,Midfielder,West Ham,4.4,0.01512361867796807,0.08931456,Fulham,0.016291082,Brighton,0.01564325,Wolves,0.011347015,Nott'm Forest,0.016291082,Spurs,0.017629815,Sunderland,0.012112312
+672,504,Matt,Turner,Goalkeeper,Nott'm Forest,4.0,0.014783998818269799,0.08938482,Man City,0.011277322,Everton,0.021139065,Aston Villa,0.013673314,West Ham,0.013919515,Arsenal,0.011277322,Brentford,0.018098278
+673,512,Omar,Richards,Defender,Nott'm Forest,4.5,0.014783998818269799,0.08938482,Man City,0.011277322,Everton,0.021139065,Aston Villa,0.013673314,West Ham,0.013919515,Arsenal,0.011277322,Brentford,0.018098278
+674,523,Eric,da Silva Moreira,Midfielder,Nott'm Forest,4.5,0.014783998818269799,0.08938482,Man City,0.011277322,Everton,0.021139065,Aston Villa,0.013673314,West Ham,0.013919515,Arsenal,0.011277322,Brentford,0.018098278
+675,524,Marko,Stamenić,Midfielder,Nott'm Forest,4.5,0.014783998818269799,0.08938482,Man City,0.011277322,Everton,0.021139065,Aston Villa,0.013673314,West Ham,0.013919515,Arsenal,0.011277322,Brentford,0.018098278
+676,509,David,Mota Veiga Teixeira do Carmo,Defender,Nott'm Forest,4.5,0.014783998818269799,0.08938482,Man City,0.011277322,Everton,0.021139065,Aston Villa,0.013673314,West Ham,0.013919515,Arsenal,0.011277322,Brentford,0.018098278
+677,729,Luis Eduardo,Soares da Silva,Defender,Nott'm Forest,4.5,0.014783998818269799,0.08938482,Man City,0.011277322,Everton,0.021139065,Aston Villa,0.013673314,West Ham,0.013919515,Arsenal,0.011277322,Brentford,0.018098278
+678,503,Carlos Miguel,dos Santos Pereira,Goalkeeper,Nott'm Forest,4.0,0.014783998818269799,0.08938482,Man City,0.011277322,Everton,0.021139065,Aston Villa,0.013673314,West Ham,0.013919515,Arsenal,0.011277322,Brentford,0.018098278
+679,559,Nectarios,Triantis,Midfielder,Sunderland,4.4,0.014044366200410186,0.083966635,Leeds,0.016291082,Man City,0.0064293314,Spurs,0.017629815,Brentford,0.017629815,Crystal Palace,0.01564325,West Ham,0.010343335
+680,556,Pierre,Ekwah Elimby,Midfielder,Sunderland,4.5,0.014044366200410186,0.083966635,Leeds,0.016291082,Man City,0.0064293314,Spurs,0.017629815,Brentford,0.017629815,Crystal Palace,0.01564325,West Ham,0.010343335
+681,555,Alan,Browne,Midfielder,Sunderland,4.5,0.014044366200410186,0.083966635,Leeds,0.016291082,Man City,0.0064293314,Spurs,0.017629815,Brentford,0.017629815,Crystal Palace,0.01564325,West Ham,0.010343335
+682,563,Luís Hemir,Silva Semedo,Forward,Sunderland,4.4,0.014044366200410186,0.083966635,Leeds,0.016291082,Man City,0.0064293314,Spurs,0.017629815,Brentford,0.017629815,Crystal Palace,0.01564325,West Ham,0.010343335
+683,564,Nazarii,Rusyn,Forward,Sunderland,4.4,0.014044366200410186,0.083966635,Leeds,0.016291082,Man City,0.0064293314,Spurs,0.017629815,Brentford,0.017629815,Crystal Palace,0.01564325,West Ham,0.010343335
+684,537,Niall,Huggins,Defender,Sunderland,4.0,0.014044366200410186,0.083966635,Leeds,0.016291082,Man City,0.0064293314,Spurs,0.017629815,Brentford,0.017629815,Crystal Palace,0.01564325,West Ham,0.010343335
+685,629,Daniel,Bentley,Goalkeeper,Wolves,3.9,0.012725071648934057,0.06866076,Liverpool,0.011538091,Man Utd,0.014299107,West Ham,0.013608204,Everton,0.014946938,Newcastle,0.0129603725,Man City,0.0013080495
+686,702,Bradley,Burrowes,Midfielder,Aston Villa,4.4,0.012017187396330491,0.12852675,Chelsea,0.00404276,Arsenal,-0.05718779,Nott'm Forest,0.07534989,Crystal Palace,0.019946273,Everton,0.06642933,Newcastle,0.019946273
+687,640,Pedro,Cardoso de Lima,Defender,Wolves,4.0,0.01029046550614848,0.054053124,Liverpool,0.0091034835,Man Utd,0.011864501,West Ham,0.011173599,Everton,0.012512333,Newcastle,0.010525768,Man City,-0.001126562
+688,657,Leon,Chiwome,Forward,Wolves,4.4,0.010008384728626836,0.052360646,Liverpool,0.008821401,Man Utd,0.011582419,West Ham,0.01089152,Everton,0.012230251,Newcastle,0.010243689,Man City,-0.001408634
+689,315,Steven,Benda,Goalkeeper,Fulham,4.0,0.00837456439400003,0.053283058,West Ham,0.0048368014,Crystal Palace,0.008367741,Liverpool,0.012424656,Chelsea,0.011408528,Leeds,0.0048368014,Brighton,0.011408528
+690,333,Martial,Godo,Midfielder,Fulham,4.5,0.00837456439400003,0.053283058,West Ham,0.0048368014,Crystal Palace,0.008367741,Liverpool,0.012424656,Chelsea,0.011408528,Leeds,0.0048368014,Brighton,0.011408528
+691,334,Luke,Harris,Midfielder,Fulham,4.5,0.00837456439400003,0.053283058,West Ham,0.0048368014,Crystal Palace,0.008367741,Liverpool,0.012424656,Chelsea,0.011408528,Leeds,0.0048368014,Brighton,0.011408528
+692,639,Bastien,Meupiyou Menadjou,Defender,Wolves,4.0,0.0075737771777702224,0.037752993,Liverpool,0.006386793,Man Utd,0.009147813,West Ham,0.008456913,Everton,0.009795644,Newcastle,0.007809081,Man City,-0.0038432481
+693,653,Joe,Hodge,Midfielder,Wolves,4.5,0.0075737771777702224,0.037752993,Liverpool,0.006386793,Man Utd,0.009147813,West Ham,0.008456913,Everton,0.009795644,Newcastle,0.007809081,Man City,-0.0038432481
+694,690,Rio,Cardines,Midfielder,Crystal Palace,4.4,0.007336761558517104,0.043228626,Spurs,0.010564731,Fulham,0.0063859606,Newcastle,0.0030989654,Aston Villa,0.0099169,Sunderland,0.0033451703,Chelsea,0.0099169
+695,43,Álex,Moreno Lopera,Defender,Aston Villa,4.0,0.005151574677299885,0.030194476,Chelsea,0.005239968,Arsenal,0.002001063,Nott'm Forest,0.008526956,Crystal Palace,0.004838337,Everton,0.008526956,Newcastle,0.0010611983
+696,262,Chadi,Riad Dnanou,Defender,Crystal Palace,4.0,0.0046200734019900365,0.0269285,Spurs,0.007848042,Fulham,0.0036692715,Newcastle,0.00038228088,Aston Villa,0.0072002104,Sunderland,0.00062848337,Chelsea,0.0072002104
+697,265,Caleb,Kporha,Defender,Crystal Palace,4.0,0.0046200734019900365,0.0269285,Spurs,0.007848042,Fulham,0.0036692715,Newcastle,0.00038228088,Aston Villa,0.0072002104,Sunderland,0.00062848337,Chelsea,0.0072002104
+698,578,Luka,Vušković,Defender,Spurs,3.9,0.004380108553007068,0.023433415,Crystal Palace,0.004441499,Brentford,0.0050893305,Sunderland,0.003951347,Bournemouth,0.0050893305,West Ham,0.003951347,Burnley,0.00091056124
+699,75,Matai,Akinmboni,Defender,Bournemouth,3.8,0.004119694846892907,0.029327251,Brentford,0.0047993558,Chelsea,0.00037438326,Arsenal,0.003953405,Spurs,0.007840144,Brighton,0.004151524,Liverpool,0.008208439
+700,577,Takai,Kōta,Defender,Spurs,4.0,0.004098031863880653,0.021740953,Crystal Palace,0.0041594217,Brentford,0.0048072534,Sunderland,0.0036692715,Bournemouth,0.0048072534,West Ham,0.0036692715,Burnley,0.00062848337
+701,134,Ryan,Trevitt,Midfielder,Brentford,4.5,0.0035262402546192913,0.017795263,Bournemouth,0.005413429,Spurs,0.005413429,Everton,0.002372644,Sunderland,0.001234659,Chelsea,-0.002052327,Nott'm Forest,0.005413429
+702,117,Kim,Ji-soo,Defender,Brentford,3.9,0.0035262402546192913,0.017795263,Bournemouth,0.005413429,Spurs,0.005413429,Everton,0.002372644,Sunderland,0.001234659,Chelsea,-0.002052327,Nott'm Forest,0.005413429
+703,115,Benjamin,Fredrick,Defender,Brentford,4.0,0.0035262402546192913,0.017795263,Bournemouth,0.005413429,Spurs,0.005413429,Everton,0.002372644,Sunderland,0.001234659,Chelsea,-0.002052327,Nott'm Forest,0.005413429
+704,118,Jayden,Meghoma,Defender,Brentford,4.0,0.0035262402546192913,0.017795263,Bournemouth,0.005413429,Spurs,0.005413429,Everton,0.002372644,Sunderland,0.001234659,Chelsea,-0.002052327,Nott'm Forest,0.005413429
+705,112,Mads,Roerslev Rasmussen,Defender,Brentford,4.5,0.0035262402546192913,0.017795263,Bournemouth,0.005413429,Spurs,0.005413429,Everton,0.002372644,Sunderland,0.001234659,Chelsea,-0.002052327,Nott'm Forest,0.005413429
+706,398,Jayden,Danns,Forward,Liverpool,4.3,0.0034937021001020356,0.014590603,Wolves,0.008851715,Leeds,0.0036692715,Fulham,0.00062848337,Arsenal,-0.0028566218,Burnley,0.0036692715,Bournemouth,0.00062848337
+707,393,Stefan,Bajčetić Maquieira,Midfielder,Liverpool,4.3,0.0034937021001020356,0.014590603,Wolves,0.008851715,Leeds,0.0036692715,Fulham,0.00062848337,Arsenal,-0.0028566218,Burnley,0.0036692715,Bournemouth,0.00062848337
+708,247,Dário,Luís Essugo,Midfielder,Chelsea,4.3,0.0028250370080405403,0.012291267,Aston Villa,0.0072002104,Bournemouth,0.0036692715,Man City,-0.0028566218,Fulham,0.00062848337,Brentford,0.0036692715,Crystal Palace,-1.9348401e-05
+709,279,Matheus,França de Oliveira,Midfielder,Crystal Palace,4.5,0.0021854620205149764,0.012320832,Spurs,0.005413429,Fulham,0.001234659,Newcastle,-0.002052327,Aston Villa,0.004765597,Sunderland,-0.0018061234,Chelsea,0.004765597
+710,282,Franco,Umeh-Chibueze,Midfielder,Crystal Palace,4.5,0.0021854620205149764,0.012320832,Spurs,0.005413429,Fulham,0.001234659,Newcastle,-0.002052327,Aston Villa,0.004765597,Sunderland,-0.0018061234,Chelsea,0.004765597
+711,280,David,Ozoh,Midfielder,Crystal Palace,4.5,0.0021854620205149764,0.012320832,Spurs,0.005413429,Fulham,0.001234659,Newcastle,-0.002052327,Aston Villa,0.004765597,Sunderland,-0.0018061234,Chelsea,0.004765597
+712,277,Malcolm,Ebiowei,Midfielder,Crystal Palace,4.5,0.0021854620205149764,0.012320832,Spurs,0.005413429,Fulham,0.001234659,Newcastle,-0.002052327,Aston Villa,0.004765597,Sunderland,-0.0018061234,Chelsea,0.004765597
+713,278,Jesurun,Rak-Sakyi,Midfielder,Crystal Palace,4.4,0.0021854620205149764,0.012320832,Spurs,0.005413429,Fulham,0.001234659,Newcastle,-0.002052327,Aston Villa,0.004765597,Sunderland,-0.0018061234,Chelsea,0.004765597
+714,264,Rob,Holding,Defender,Crystal Palace,4.0,0.0021854620205149764,0.012320832,Spurs,0.005413429,Fulham,0.001234659,Newcastle,-0.002052327,Aston Villa,0.004765597,Sunderland,-0.0018061234,Chelsea,0.004765597
+715,468,Ethan,Wheatley,Forward,Man Utd,4.5,0.002180876177070396,0.0038059158,Newcastle,0.004765597,Wolves,0.006417106,Leeds,-0.0018061234,Burnley,-0.0018061234,Man City,0.001526692,Arsenal,-0.005291233
+716,460,Toby,Collyer,Midfielder,Man Utd,4.5,0.002180876177070396,0.0038059158,Newcastle,0.004765597,Wolves,0.006417106,Leeds,-0.0018061234,Burnley,-0.0018061234,Man City,0.001526692,Arsenal,-0.005291233
+717,445,Harry,Amass,Defender,Man Utd,4.0,0.002180876177070396,0.0038059158,Newcastle,0.004765597,Wolves,0.006417106,Leeds,-0.0018061234,Burnley,-0.0018061234,Man City,0.001526692,Arsenal,-0.005291233
+718,433,Elyh,Harrison,Goalkeeper,Man Utd,4.0,0.002180876177070396,0.0038059158,Newcastle,0.004765597,Wolves,0.006417106,Leeds,-0.0018061234,Burnley,-0.0018061234,Man City,0.001526692,Arsenal,-0.005291233
+719,464,Jack,Moorhouse,Midfielder,Man Utd,4.5,0.002180876177070396,0.0038059158,Newcastle,0.004765597,Wolves,0.006417106,Leeds,-0.0018061234,Burnley,-0.0018061234,Man City,0.001526692,Arsenal,-0.005291233
+720,313,Martin,Sherif,Forward,Everton,4.4,0.0018600722597468464,0.011579388,Burnley,-0.0018061234,Nott'm Forest,0.002372644,Brentford,0.005413429,Wolves,0.006417106,Aston Villa,-0.002052327,Leeds,0.001234659
+721,309,Jenson,Metcalfe,Midfielder,Everton,4.5,0.0018600722597468464,0.011579388,Burnley,-0.0018061234,Nott'm Forest,0.002372644,Brentford,0.005413429,Wolves,0.006417106,Aston Villa,-0.002052327,Leeds,0.001234659
+722,308,Isaac,Heath,Midfielder,Everton,4.5,0.0018600722597468464,0.011579388,Burnley,-0.0018061234,Nott'm Forest,0.002372644,Brentford,0.005413429,Wolves,0.006417106,Aston Villa,-0.002052327,Leeds,0.001234659
+723,704,Tyler,Onyango,Midfielder,Everton,4.5,0.0018600722597468464,0.011579388,Burnley,-0.0018061234,Nott'm Forest,0.002372644,Brentford,0.005413429,Wolves,0.006417106,Aston Villa,-0.002052327,Leeds,0.001234659
+724,92,Romain,Faivre,Midfielder,Bournemouth,4.5,0.0016850851631412902,0.01471959,Brentford,0.0023647463,Chelsea,-0.0020602245,Arsenal,0.0015187962,Spurs,0.0054055313,Brighton,0.0017169146,Liverpool,0.0057738256
+725,66,Norberto,Murara Neto,Goalkeeper,Bournemouth,4.5,0.0016850851631412902,0.01471959,Brentford,0.0023647463,Chelsea,-0.0020602245,Arsenal,0.0015187962,Spurs,0.0054055313,Brighton,0.0017169146,Liverpool,0.0057738256
+726,94,Dominic,Sadi,Midfielder,Bournemouth,4.5,0.0016850851631412902,0.01471959,Brentford,0.0023647463,Chelsea,-0.0020602245,Arsenal,0.0015187962,Spurs,0.0054055313,Brighton,0.0017169146,Liverpool,0.0057738256
+727,95,Zain,Silcott-Duberry,Midfielder,Bournemouth,4.4,0.0016850851631412902,0.01471959,Brentford,0.0023647463,Chelsea,-0.0020602245,Arsenal,0.0015187962,Spurs,0.0054055313,Brighton,0.0017169146,Liverpool,0.0057738256
+728,70,Alex,Paulsen,Goalkeeper,Bournemouth,4.0,0.0016850851631412902,0.01471959,Brentford,0.0023647463,Chelsea,-0.0020602245,Arsenal,0.0015187962,Spurs,0.0054055313,Brighton,0.0017169146,Liverpool,0.0057738256
+729,99,Daniel,Adu-Adjei,Forward,Bournemouth,4.4,0.0016850851631412902,0.01471959,Brentford,0.0023647463,Chelsea,-0.0020602245,Arsenal,0.0015187962,Spurs,0.0054055313,Brighton,0.0017169146,Liverpool,0.0057738256
+730,79,Chris,Mepham,Defender,Bournemouth,4.0,0.0016850851631412902,0.01471959,Brentford,0.0023647463,Chelsea,-0.0020602245,Arsenal,0.0015187962,Spurs,0.0054055313,Brighton,0.0017169146,Liverpool,0.0057738256
+731,598,Will,Lankshear,Forward,Spurs,4.5,0.0016634216687331593,0.007133295,Crystal Palace,0.0017248122,Brentford,0.002372644,Sunderland,0.001234659,Bournemouth,0.002372644,West Ham,0.001234659,Burnley,-0.0018061234
+732,576,Ashley,Phillips,Defender,Spurs,4.0,0.0016634216687331593,0.007133295,Crystal Palace,0.0017248122,Brentford,0.002372644,Sunderland,0.001234659,Bournemouth,0.002372644,West Ham,0.001234659,Burnley,-0.0018061234
+733,594,Yang,Min-hyeok,Midfielder,Spurs,4.5,0.0016634216687331593,0.007133295,Crystal Palace,0.0017248122,Brentford,0.002372644,Sunderland,0.001234659,Bournemouth,0.002372644,West Ham,0.001234659,Burnley,-0.0018061234
+734,579,Son,Heung-min,Midfielder,Spurs,8.5,0.0013902887779598434,0.005494496,Crystal Palace,0.0014516786,Brentford,0.0020995112,Sunderland,0.00096152717,Bournemouth,0.0020995112,West Ham,0.00096152717,Burnley,-0.0020792598
+735,394,James,McConnell,Midfielder,Liverpool,4.4,0.001059092038000623,-1.7055543e-05,Wolves,0.006417106,Leeds,0.001234659,Fulham,-0.0018061234,Arsenal,-0.005291233,Burnley,0.001234659,Bournemouth,-0.0018061234
+736,395,Tyler,Morton,Midfielder,Liverpool,4.5,0.001059092038000623,-1.7055543e-05,Wolves,0.006417106,Leeds,0.001234659,Fulham,-0.0018061234,Arsenal,-0.005291233,Burnley,0.001234659,Bournemouth,-0.0018061234
+737,65,Zépiqueno,Redmond,Forward,Aston Villa,4.5,0.0005759649280835653,0.0027408216,Chelsea,0.00066435616,Arsenal,-0.0025745465,Nott'm Forest,0.003951347,Crystal Palace,0.00026272945,Everton,0.003951347,Newcastle,-0.0035144112
+738,153,Adam,Webster,Defender,Brighton,4.4,0.0004016416413443429,0.007061037,Arsenal,-0.0028566218,West Ham,0.00062848337,Burnley,0.0036692715,Man City,-0.0028566218,Bournemouth,0.007848042,Fulham,0.00062848337
+739,234,Aarón,Anselmino,Defender,Chelsea,4.0,0.00039042567922955467,-0.0023163962,Aston Villa,0.004765597,Bournemouth,0.001234659,Man City,-0.005291233,Fulham,-0.0018061234,Brentford,0.001234659,Crystal Palace,-0.0024539551
+740,231,Mamadou,Sarr,Defender,Chelsea,4.5,0.00039042567922955467,-0.0023163962,Aston Villa,0.004765597,Bournemouth,0.001234659,Man City,-0.005291233,Fulham,-0.0018061234,Brentford,0.001234659,Crystal Palace,-0.0024539551
+741,248,Kendry,Páez Andrade,Midfielder,Chelsea,4.5,0.00039042567922955467,-0.0023163962,Aston Villa,0.004765597,Bournemouth,0.001234659,Man City,-0.005291233,Fulham,-0.0018061234,Brentford,0.001234659,Crystal Palace,-0.0024539551
+742,222,Mike,Penders,Goalkeeper,Chelsea,4.0,0.00039042567922955467,-0.0023163962,Aston Villa,0.004765597,Bournemouth,0.001234659,Man City,-0.005291233,Fulham,-0.0018061234,Brentford,0.001234659,Crystal Palace,-0.0024539551
+743,484,Matt,Targett,Defender,Newcastle,4.0,-0.00029451534196379655,0.0057033263,Man Utd,-0.0024539551,Burnley,-0.0018061234,Crystal Palace,0.0005868273,Leeds,0.001234659,Wolves,0.0033763212,Aston Villa,0.004765597
+744,495,Isaac,Hayden,Midfielder,Newcastle,4.5,-0.00029451534196379655,0.0057033263,Man Utd,-0.0024539551,Burnley,-0.0018061234,Crystal Palace,0.0005868273,Leeds,0.001234659,Wolves,0.0033763212,Aston Villa,0.004765597
+745,496,Garang,Kuol,Midfielder,Newcastle,4.4,-0.00029451534196379655,0.0057033263,Man Utd,-0.0024539551,Burnley,-0.0018061234,Crystal Palace,0.0005868273,Leeds,0.001234659,Wolves,0.0033763212,Aston Villa,0.004765597
+746,472,Odysseas,Vlachodimos,Goalkeeper,Newcastle,4.0,-0.00029451534196379655,0.0057033263,Man Utd,-0.0024539551,Burnley,-0.0018061234,Crystal Palace,0.0005868273,Leeds,0.001234659,Wolves,0.0033763212,Aston Villa,0.004765597
+747,498,Joe,White,Midfielder,Newcastle,4.5,-0.00029451534196379655,0.0057033263,Man Utd,-0.0024539551,Burnley,-0.0018061234,Crystal Palace,0.0005868273,Leeds,0.001234659,Wolves,0.0033763212,Aston Villa,0.004765597
+748,155,Jacob,Slater,Defender,Brighton,4.0,-0.002032968681305647,-0.007546624,Arsenal,-0.005291233,West Ham,-0.0018061234,Burnley,0.001234659,Man City,-0.005291233,Bournemouth,0.005413429,Fulham,-0.0018061234
+749,177,Andrew,Moran,Midfielder,Brighton,4.5,-0.002032968681305647,-0.007546624,Arsenal,-0.005291233,West Ham,-0.0018061234,Burnley,0.001234659,Man City,-0.005291233,Bournemouth,0.005413429,Fulham,-0.0018061234
+750,141,Carl,Rushworth,Goalkeeper,Brighton,4.0,-0.002032968681305647,-0.007546624,Arsenal,-0.005291233,West Ham,-0.0018061234,Burnley,0.001234659,Man City,-0.005291233,Bournemouth,0.005413429,Fulham,-0.0018061234
+751,142,Kjell,Scherpen,Goalkeeper,Brighton,4.0,-0.002032968681305647,-0.007546624,Arsenal,-0.005291233,West Ham,-0.0018061234,Burnley,0.001234659,Man City,-0.005291233,Bournemouth,0.005413429,Fulham,-0.0018061234
+752,147,Pervis,Estupiñán Tenorio,Defender,Brighton,4.5,-0.002032968681305647,-0.007546624,Arsenal,-0.005291233,West Ham,-0.0018061234,Burnley,0.001234659,Man City,-0.005291233,Bournemouth,0.005413429,Fulham,-0.0018061234
+753,150,Tariq,Lamptey,Defender,Brighton,4.4,-0.002032968681305647,-0.007546624,Arsenal,-0.005291233,West Ham,-0.0018061234,Burnley,0.001234659,Man City,-0.005291233,Bournemouth,0.005413429,Fulham,-0.0018061234
+754,154,Eiran,Cashin,Defender,Brighton,4.0,-0.002032968681305647,-0.007546624,Arsenal,-0.005291233,West Ham,-0.0018061234,Burnley,0.001234659,Man City,-0.005291233,Bournemouth,0.005413429,Fulham,-0.0018061234
+755,176,Adrian,Mazilu,Midfielder,Brighton,4.5,-0.002032968681305647,-0.007546624,Arsenal,-0.005291233,West Ham,-0.0018061234,Burnley,0.001234659,Man City,-0.005291233,Bournemouth,0.005413429,Fulham,-0.0018061234
+756,61,Leander,Dendoncker,Midfielder,Aston Villa,4.5,-0.002140720740758947,-0.013559295,Chelsea,-0.002052327,Arsenal,-0.005291233,Nott'm Forest,0.001234659,Crystal Palace,-0.0024539551,Everton,0.001234659,Newcastle,-0.0062310984
+757,701,Triston,Rowe,Defender,Aston Villa,4.0,-0.002140720740758947,-0.013559295,Chelsea,-0.002052327,Arsenal,-0.005291233,Nott'm Forest,0.001234659,Crystal Palace,-0.0024539551,Everton,0.001234659,Newcastle,-0.0062310984
+758,35,Filip,Marschall,Goalkeeper,Aston Villa,4.0,-0.002140720740758947,-0.013559295,Chelsea,-0.002052327,Arsenal,-0.005291233,Nott'm Forest,0.001234659,Crystal Palace,-0.0024539551,Everton,0.001234659,Newcastle,-0.0062310984
+759,46,Yasin,Özcan,Defender,Aston Villa,4.0,-0.002140720740758947,-0.013559295,Chelsea,-0.002052327,Arsenal,-0.005291233,Nott'm Forest,0.001234659,Crystal Palace,-0.0024539551,Everton,0.001234659,Newcastle,-0.0062310984
+760,34,Joe,Gauci,Goalkeeper,Aston Villa,4.0,-0.002140720740758947,-0.013559295,Chelsea,-0.002052327,Arsenal,-0.005291233,Nott'm Forest,0.001234659,Crystal Palace,-0.0024539551,Everton,0.001234659,Newcastle,-0.0062310984
+761,3,Karl,Hein,Goalkeeper,Arsenal,4.0,-0.00644140291426863,-0.03918696,Brighton,-0.005902863,Aston Villa,-0.005902863,Bournemouth,-0.008295815,Liverpool,-0.004886737,Nott'm Forest,-0.008295815,Man Utd,-0.005902863
+762,28,Ismeal,Kabia,Midfielder,Arsenal,4.5,-0.00644140291426863,-0.03918696,Brighton,-0.005902863,Aston Villa,-0.005902863,Bournemouth,-0.008295815,Liverpool,-0.004886737,Nott'm Forest,-0.008295815,Man Utd,-0.005902863
+763,14,Maldini,Kacurri,Defender,Arsenal,3.9,-0.00644140291426863,-0.03918696,Brighton,-0.005902863,Aston Villa,-0.005902863,Bournemouth,-0.008295815,Liverpool,-0.004886737,Nott'm Forest,-0.008295815,Man Utd,-0.005902863
+764,29,Albert,Sambi Lokonga,Midfielder,Arsenal,4.5,-0.00644140291426863,-0.03918696,Brighton,-0.005902863,Aston Villa,-0.005902863,Bournemouth,-0.008295815,Liverpool,-0.004886737,Nott'm Forest,-0.008295815,Man Utd,-0.005902863
+765,744,Nehemiah,Oriola,Midfielder,Brighton,4.5,-0.009443071094297225,-0.028331297,Arsenal,-0.05884639,West Ham,-0.0049489643,Burnley,0.08124399,Man City,-0.05884639,Bournemouth,0.018015426,Fulham,-0.0049489643
+766,175,Joe,Knight,Midfielder,Brighton,4.4,-0.009443071094297225,-0.028331297,Arsenal,-0.05884639,West Ham,-0.0049489643,Burnley,0.08124399,Man City,-0.05884639,Bournemouth,0.018015426,Fulham,-0.0049489643
+767,294,Séamus,Coleman,Defender,Everton,4.3,-0.02665950349044232,-0.15613413,Burnley,-0.027669664,Nott'm Forest,-0.036932416,Brentford,-0.0022507675,Wolves,-0.03142372,Aston Villa,-0.048037715,Leeds,-0.00981984
+768,93,Hamed,Traorè,Midfielder,Bournemouth,4.5,-0.08651999951828093,-0.48704198,Brentford,-0.13543053,Chelsea,-0.12826456,Arsenal,0.07070808,Spurs,-0.12357989,Brighton,-0.10463156,Liverpool,-0.065843545
+769,233,Josh,Acheampong,Defender,Chelsea,3.8,-0.20899847717512218,-1.1246128,Aston Villa,-0.25927755,Bournemouth,-0.08313231,Man City,-0.43664545,Fulham,-0.12118475,Brentford,-0.08313231,Crystal Palace,-0.14124048
