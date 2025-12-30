@@ -108,6 +108,7 @@ def filter_predictions(predictions, position, max_cost):
 
 # Picks optimal starting 11 across [horizon] game forecast
 def pick_11(predictions):
+    predictions = predictions.dropna(subset=['now_cost'])
     # set up a target value maximization problem
     prob = pulp.LpProblem("FPL_11_Optimization", pulp.LpMaximize)
     players = predictions['player_id'].tolist()

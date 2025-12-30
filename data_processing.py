@@ -2,7 +2,7 @@ import pandas as pd
 
 LOCAL_LOCATION = "FPL-Elo-Insights"
 
-REMOTE_LOCATION = "https://raw.githubusercontent.com/olbauday/FPL-Elo-Insights/main"
+REMOTE_LOCATION = "https://raw.githubusercontent.com/olbauday/FPL-Core-Insights/main"
 
 DATA_SOURCE = LOCAL_LOCATION
 
