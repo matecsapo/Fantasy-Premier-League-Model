@@ -1,0 +1,14 @@
+,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
+0,Erling,Haaland,Forward,Man City,15.1,9.45065502893357,56.807156,Sunderland,10.314657
+1,Nick,Woltemade,Forward,Newcastle,7.4,4.767839999425979,27.751486,Burnley,4.766648
+2,Phil,Foden,Midfielder,Man City,9.0,6.232077621278309,37.628757,Sunderland,6.999275
+3,Florian,Wirtz,Midfielder,Liverpool,8.1,5.932626065753754,34.949226,Leeds,6.526619
+4,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.1,4.923733938307989,28.734846,Wolves,5.4479036
+5,Morgan,Rogers,Midfielder,Aston Villa,7.4,4.797451723189582,30.114073,Arsenal,3.1785572
+6,Joško,Gvardiol,Defender,Man City,6.0,4.867242722284226,29.181553,Sunderland,5.1803207
+7,James,Tarkowski,Defender,Everton,5.5,4.402967702774774,25.58329,Nott'm Forest,4.709502
+8,Reece,James,Defender,Chelsea,5.7,4.3965016546703515,27.005844,Bournemouth,4.8982663
+9,Trevoh,Chalobah,Defender,Chelsea,5.5,4.0418331396012075,25.051033,Bournemouth,4.5681357
+10,Jordan,Pickford,Goalkeeper,Everton,5.5,4.2329970087323865,25.005768,Nott'm Forest,4.343969
+11,,,,,,,,,
+12,,Total,,,83.3,58.0,347.8,,

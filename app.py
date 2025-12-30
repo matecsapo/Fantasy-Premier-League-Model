@@ -8,9 +8,6 @@ import threading
 import time
 from config import CURRENT_GAMEWEEK
 
-# Set our data source as remote
-data_processing.DATA_SOURCE = data_processing.REMOTE_LOCATION
-
 # Fetch Data
 # Cache date per hour
 @st.cache_data(ttl=3600, show_spinner=False)
