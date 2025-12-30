@@ -27,4 +27,4 @@ jobs:
       - name: Automated Prediction Update
         run: |
           chmod +x run_predictions
-          ./run_predictions
+          ./run runPredictions
