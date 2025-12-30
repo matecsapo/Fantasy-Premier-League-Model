@@ -2,5 +2,5 @@
     "current_gameweek" : 19,
     "local_location" : "FPL-Elo-Insights",
     "remote_location" : "https://raw.githubusercontent.com/olbauday/FPL-Core-Insights/main",
-    "data_source" : "remote"
+    "data_source" : "local"
 }

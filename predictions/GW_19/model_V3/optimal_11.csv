@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,15.1,7.273694356282552,43.86956,Sunderland,7.496129
-1,Jarrod,Bowen,Forward,West Ham,7.6,5.196371192023867,30.434055,Brighton,4.7466817
-2,Nick,Woltemade,Forward,Newcastle,7.4,4.7517646834963845,27.312317,Burnley,4.998519
-3,Phil,Foden,Midfielder,Man City,9.0,5.984924770536877,36.01346,Sunderland,6.22266
-4,Florian,Wirtz,Midfielder,Liverpool,8.1,5.3780184019179575,31.817057,Leeds,5.9880786
-5,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.1,4.831958305268061,27.592,Wolves,5.6806846
-6,Martin,Ødegaard,Midfielder,Arsenal,7.8,4.737696988242012,28.63583,Aston Villa,4.805474
-7,Joško,Gvardiol,Defender,Man City,6.0,4.724843116033645,28.40035,Sunderland,5.236086
-8,Micky,van de Ven,Defender,Spurs,4.5,4.239098582948956,24.994457,Brentford,3.7210264
-9,Jan Paul,van Hecke,Defender,Brighton,4.5,4.045804966063726,23.695799,West Ham,4.6732903
-10,Bart,Verbruggen,Goalkeeper,Brighton,4.4,3.8032783667246495,22.510721,West Ham,4.317956
+0,Erling,Haaland,Forward,Man City,15.1,7.530588785807291,45.650253,Sunderland,7.9485335
+1,Nick,Woltemade,Forward,Newcastle,7.4,4.6061765012286955,26.823786,Burnley,4.6612334
+2,Phil,Foden,Midfielder,Man City,9.0,6.131425698598226,37.021187,Sunderland,6.5291643
+3,Florian,Wirtz,Midfielder,Liverpool,8.2,5.767240251813615,34.304672,Leeds,6.3566785
+4,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.1,4.801919074285598,27.437586,Wolves,5.629064
+5,Martin,Ødegaard,Midfielder,Arsenal,7.8,4.718023890540713,28.32179,Aston Villa,4.8639827
+6,Declan,Rice,Midfielder,Arsenal,7.2,4.626715819040934,27.243948,Aston Villa,5.0082555
+7,Matheus,Nunes,Defender,Man City,5.4,4.893858455476307,29.507904,Sunderland,5.168391
+8,Reece,James,Defender,Chelsea,5.7,4.15771832920256,25.800163,Bournemouth,4.6209664
+9,Micky,van de Ven,Defender,Spurs,4.5,4.125333479472569,24.200392,Brentford,3.5806026
+10,Robert,Lynch Sánchez,Goalkeeper,Chelsea,4.9,3.8191205546969456,23.707249,Bournemouth,4.4573016
 11,,,,,,,,,
-12,,Total,,,82.5,55.0,325.3,,
+12,,Total,,,83.3,55.2,330.0,,
