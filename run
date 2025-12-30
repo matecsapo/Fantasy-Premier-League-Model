@@ -1,0 +1,39 @@
+#!/bin/bash
+
+# If local data source present, refresh it
+if [ -d "FPL-Elo-Insights" ]; then
+    cd FPL-Elo-Insights
+    git pull
+    cd ..
+fi
+
+# Extract desired action
+action=$1
+
+# Train model
+if [ "$action" = "train" ]; then
+    shift
+    model="$1"
+    python model_"$model".py
+# specific prediction
+elif [ "$action" = "predict" ]; then
+    shift
+    python predict.py "$@"
+# run streamlit app
+elif [ "$action" = "app" ]; then
+    streamlit run app.py
+# run full predictions
+elif [ "$action" = "runPredictions" ]; then
+    # Re-train model_V3
+    python model_V3.py
+    # run predictions of all models
+    GW=$(python3 -c "from config import CURRENT_GAMEWEEK; print(CURRENT_GAMEWEEK)")
+    for m in V2 V2_5 V2_ESI V3; do
+        python3 predict.py --gameweek "$GW" --model "$m"
+    done
+    # Push new predictions
+    date=$(date +"%m/%d/%Y/%H:%MEST")
+    git add --all
+    git commit -m "GW$GW Predictions - $date"
+    git push
+fi
