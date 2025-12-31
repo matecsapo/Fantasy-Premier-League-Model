@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,15.1,7.530588785807291,45.650253,Sunderland,7.9485335
-1,Nick,Woltemade,Forward,Newcastle,7.4,4.6061765012286955,26.823786,Burnley,4.6612334
-2,Phil,Foden,Midfielder,Man City,9.0,6.131425698598226,37.021187,Sunderland,6.5291643
-3,Florian,Wirtz,Midfielder,Liverpool,8.2,5.767240251813615,34.304672,Leeds,6.3566785
-4,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.1,4.801919074285598,27.437586,Wolves,5.629064
-5,Martin,Ødegaard,Midfielder,Arsenal,7.8,4.718023890540713,28.32179,Aston Villa,4.8639827
-6,Declan,Rice,Midfielder,Arsenal,7.2,4.626715819040934,27.243948,Aston Villa,5.0082555
-7,Matheus,Nunes,Defender,Man City,5.4,4.893858455476307,29.507904,Sunderland,5.168391
-8,Reece,James,Defender,Chelsea,5.7,4.15771832920256,25.800163,Bournemouth,4.6209664
-9,Micky,van de Ven,Defender,Spurs,4.5,4.125333479472569,24.200392,Brentford,3.5806026
+0,Erling,Haaland,Forward,Man City,15.1,7.199559461502801,43.747803,Sunderland,7.4008036
+1,Phil,Foden,Midfielder,Man City,9.0,6.815057550157818,41.167362,Sunderland,7.157788
+2,Florian,Wirtz,Midfielder,Liverpool,8.2,6.45168045588902,38.38466,Leeds,7.089276
+3,Bukayo,Saka,Midfielder,Arsenal,10.3,5.555103188469296,33.17645,Aston Villa,5.7298074
+4,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.1,5.387144792647589,30.790236,Wolves,6.336286
+5,Martin,Ødegaard,Midfielder,Arsenal,7.8,5.179109187353225,31.115648,Aston Villa,5.3134
+6,Matheus,Nunes,Defender,Man City,5.4,4.893858455476307,29.507904,Sunderland,5.168391
+7,Reece,James,Defender,Chelsea,5.7,4.304704405012585,26.711458,Bournemouth,4.8114586
+8,Micky,van de Ven,Defender,Spurs,4.5,4.125333479472569,24.200392,Brentford,3.5806026
+9,Jan Paul,van Hecke,Defender,Brighton,4.5,4.026201009750365,23.340012,West Ham,4.5659146
 10,Robert,Lynch Sánchez,Goalkeeper,Chelsea,4.9,3.8191205546969456,23.707249,Bournemouth,4.4573016
 11,,,,,,,,,
-12,,Total,,,83.3,55.2,330.0,,
+12,,Total,,,83.5,57.8,345.8,,

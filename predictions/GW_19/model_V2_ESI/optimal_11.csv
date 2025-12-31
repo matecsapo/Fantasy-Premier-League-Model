@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,15.1,9.07962585630871,54.38951,Sunderland,9.614574
-1,Viktor,Gyökeres,Forward,Arsenal,8.8,5.701826390765962,34.861874,Aston Villa,5.3402777
+0,Erling,Haaland,Forward,Man City,15.1,8.408147789183117,50.33879,Sunderland,9.039805
+1,Viktor,Gyökeres,Forward,Arsenal,8.8,5.649597031729562,34.667168,Aston Villa,5.26533
 2,Jarrod,Bowen,Forward,West Ham,7.6,5.344333989279611,32.05363,Brighton,5.1658053
-3,Phil,Foden,Midfielder,Man City,9.0,5.5893566494896305,33.50082,Sunderland,6.64429
-4,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.1,5.526986894153413,32.61097,Wolves,5.9559374
-5,Florian,Wirtz,Midfielder,Liverpool,8.2,5.480085781642368,32.564686,Leeds,5.8694215
-6,Cody,Gakpo,Midfielder,Liverpool,7.3,4.48550001780192,26.484028,Leeds,4.601157
-7,Trevoh,Chalobah,Defender,Chelsea,5.6,3.370423680260067,20.65477,Bournemouth,3.9702585
-8,Pedro,Porro Sauceda,Defender,Spurs,5.2,3.3200960045769095,19.573618,Brentford,3.0152383
-9,Patrick,Dorgu,Defender,Man Utd,4.2,2.91397305897304,16.76398,Wolves,3.2740443
+3,Phil,Foden,Midfielder,Man City,9.0,5.87368022827875,35.19728,Sunderland,6.998523
+4,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.1,5.850520747048514,34.46004,Wolves,6.315551
+5,Florian,Wirtz,Midfielder,Liverpool,8.2,5.773122878301712,34.281742,Leeds,6.193392
+6,Cody,Gakpo,Midfielder,Liverpool,7.3,4.549099218277704,26.845016,Leeds,4.6912627
+7,Joško,Gvardiol,Defender,Man City,6.0,3.59352741922651,21.384905,Sunderland,4.1215377
+8,Jan Paul,van Hecke,Defender,Brighton,4.5,3.0777526696523028,18.31341,West Ham,3.420548
+9,Micky,van de Ven,Defender,Spurs,4.5,3.0368853466851373,17.80131,Brentford,2.4592054
 10,Bart,Verbruggen,Goalkeeper,Brighton,4.4,3.680291050956362,22.255041,West Ham,3.8359313
 11,,,,,,,,,
-12,,Total,,,83.5,54.5,325.7,,
+12,,Total,,,83.5,54.8,327.6,,

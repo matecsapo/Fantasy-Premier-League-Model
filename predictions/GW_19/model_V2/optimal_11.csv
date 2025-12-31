@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,15.1,7.193417935144334,42.41633,Sunderland,7.6757574
-1,Alexander,Isak,Forward,Liverpool,10.3,5.8955121494474865,35.27708,Leeds,6.1802235
-2,Phil,Foden,Midfielder,Man City,9.0,6.234699499039422,37.359455,Sunderland,7.069668
-3,Florian,Wirtz,Midfielder,Liverpool,8.2,5.767026674179803,34.18373,Leeds,6.071697
-4,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.1,5.26015043258667,30.814268,Wolves,5.448393
-5,Mohammed,Kudus,Midfielder,Spurs,6.4,4.817559196835472,28.65075,Brentford,4.5020475
-6,Rayan,Cherki,Midfielder,Man City,6.7,4.668150833674839,28.195683,Sunderland,5.2785997
-7,Reece,James,Defender,Chelsea,5.7,4.049997965494792,24.702957,Bournemouth,4.494209
-8,Jan Paul,van Hecke,Defender,Brighton,4.5,3.4793629532768606,20.455833,West Ham,3.906283
-9,Micky,van de Ven,Defender,Spurs,4.5,3.2120084989638555,19.003672,Brentford,2.5442293
+0,Erling,Haaland,Forward,Man City,15.1,6.455485866183326,37.95621,Sunderland,6.789148
+1,Jarrod,Bowen,Forward,West Ham,7.6,5.18733515058245,31.086063,Brighton,4.9944763
+2,Igor Thiago,Nascimento Rodrigues,Forward,Brentford,7.0,4.55247163772583,26.739775,Spurs,4.4129214
+3,Phil,Foden,Midfielder,Man City,9.0,6.469999585832868,38.773823,Sunderland,7.2956805
+4,Florian,Wirtz,Midfielder,Liverpool,8.2,5.956493786403111,35.33086,Leeds,6.3481016
+5,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.1,5.378771305084228,31.47766,Wolves,5.6168876
+6,Mohammed,Kudus,Midfielder,Spurs,6.4,5.015475136893136,29.831198,Brentford,4.6385174
+7,Reece,James,Defender,Chelsea,5.7,4.31332152230399,26.309555,Bournemouth,4.870165
+8,Joško,Gvardiol,Defender,Man City,6.0,4.274953819456554,25.790005,Sunderland,4.4599676
+9,Jan Paul,van Hecke,Defender,Brighton,4.5,3.67479986236209,21.55084,West Ham,4.10546
 10,Guglielmo,Vicario,Goalkeeper,Spurs,4.8,3.684789737065633,21.792904,Brentford,3.1937392
 11,,,,,,,,,
-12,,Total,,,83.3,54.3,322.9,,
+12,,Total,,,82.4,55.0,326.6,,
