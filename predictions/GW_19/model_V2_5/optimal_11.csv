@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,15.1,9.940932818821496,59.03557,Sunderland,9.959605
-1,Jarrod,Bowen,Forward,West Ham,7.6,5.27232653754098,31.653496,Brighton,5.215921
-2,Phil,Foden,Midfielder,Man City,9.0,7.489682424636113,44.760754,Sunderland,8.00188
-3,Rayan,Cherki,Midfielder,Man City,6.7,6.8803721836635034,41.357533,Sunderland,7.101423
-4,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.1,6.590398629506428,39.801956,Wolves,6.809924
-5,Cole,Palmer,Midfielder,Chelsea,10.4,6.332535289582752,38.00629,Bournemouth,6.267748
-6,Florian,Wirtz,Midfielder,Liverpool,8.2,6.257291839236305,36.593227,Leeds,6.690563
-7,Reece,James,Defender,Chelsea,5.7,4.1374282496316095,25.640507,Bournemouth,4.3683934
-8,Maxim,De Cuyper,Defender,Brighton,4.3,3.0981661819276356,18.512394,West Ham,3.2190883
-9,Omar,Alderete,Defender,Sunderland,4.0,2.821024815241495,17.410418,Man City,2.5810232
-10,Bart,Verbruggen,Goalkeeper,Brighton,4.4,3.194232668195452,19.373087,West Ham,3.259868
+0,Hugo,Ekitiké,Forward,Liverpool,9.1,5.92081694375901,35.01495,Leeds,6.2244015
+1,Jarrod,Bowen,Forward,West Ham,7.6,5.2964049748012,31.81866,Brighton,5.219308
+2,Jean-Philippe,Mateta,Forward,Crystal Palace,7.7,5.250074409303211,31.126894,Fulham,5.9218507
+3,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.1,6.608666851407006,39.879066,Wolves,6.852978
+4,Cole,Palmer,Midfielder,Chelsea,10.4,6.492592221214657,38.539062,Bournemouth,6.802128
+5,Florian,Wirtz,Midfielder,Liverpool,8.2,6.341602575211297,37.426723,Leeds,6.690563
+6,Rayan,Cherki,Midfielder,Man City,6.7,5.266049907321022,31.906694,Sunderland,5.6390834
+7,Reece,James,Defender,Chelsea,5.7,4.361993244716099,26.504427,Bournemouth,5.1528997
+8,Trevoh,Chalobah,Defender,Chelsea,5.6,3.439671760513669,20.990614,Bournemouth,4.1982217
+9,Gabriel,dos Santos Magalhães,Defender,Arsenal,6.3,3.393147105262393,20.30597,Aston Villa,3.3342628
+10,Alisson,Becker,Goalkeeper,Liverpool,5.4,3.5050815060025164,20.99955,Leeds,3.586867
 11,,,,,,,,,
-12,,Total,,,83.5,62.0,372.1,,
+12,,Total,,,80.8,55.9,334.5,,

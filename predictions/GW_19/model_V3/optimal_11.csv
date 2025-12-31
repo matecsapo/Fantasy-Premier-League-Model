@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,15.1,7.199559461502801,43.747803,Sunderland,7.4008036
-1,Phil,Foden,Midfielder,Man City,9.0,6.815057550157818,41.167362,Sunderland,7.157788
-2,Florian,Wirtz,Midfielder,Liverpool,8.2,6.45168045588902,38.38466,Leeds,7.089276
-3,Bukayo,Saka,Midfielder,Arsenal,10.3,5.555103188469296,33.17645,Aston Villa,5.7298074
-4,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.1,5.387144792647589,30.790236,Wolves,6.336286
-5,Martin,Ødegaard,Midfielder,Arsenal,7.8,5.179109187353225,31.115648,Aston Villa,5.3134
-6,Matheus,Nunes,Defender,Man City,5.4,4.893858455476307,29.507904,Sunderland,5.168391
-7,Reece,James,Defender,Chelsea,5.7,4.304704405012585,26.711458,Bournemouth,4.8114586
-8,Micky,van de Ven,Defender,Spurs,4.5,4.125333479472569,24.200392,Brentford,3.5806026
-9,Jan Paul,van Hecke,Defender,Brighton,4.5,4.026201009750365,23.340012,West Ham,4.5659146
-10,Robert,Lynch Sánchez,Goalkeeper,Chelsea,4.9,3.8191205546969456,23.707249,Bournemouth,4.4573016
+0,Erling,Haaland,Forward,Man City,15.1,6.362472829364594,38.903828,Sunderland,6.721072
+1,Dominic,Calvert-Lewin,Forward,Leeds,5.8,4.300471907570248,25.893536,Liverpool,3.8844633
+2,Florian,Wirtz,Midfielder,Liverpool,8.2,6.551207633245558,38.778706,Leeds,7.3541875
+3,Phil,Foden,Midfielder,Man City,9.0,5.851519471123105,35.010654,Sunderland,6.2792425
+4,Bukayo,Saka,Midfielder,Arsenal,10.3,5.61592385882423,33.897945,Aston Villa,5.723065
+5,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.1,5.2948739869253965,30.105055,Wolves,6.19647
+6,Martin,Ødegaard,Midfielder,Arsenal,7.8,5.18334690729777,31.308409,Aston Villa,5.2981005
+7,Reece,James,Defender,Chelsea,5.7,4.335732051304409,26.81235,Bournemouth,4.8114586
+8,Micky,van de Ven,Defender,Spurs,4.5,4.255237999416533,24.656721,Brentford,3.7709675
+9,Jan Paul,van Hecke,Defender,Brighton,4.5,4.044211966650827,23.656502,West Ham,4.493103
+10,Bart,Verbruggen,Goalkeeper,Brighton,4.4,3.745171819414411,22.139132,West Ham,4.2327995
 11,,,,,,,,,
-12,,Total,,,83.5,57.8,345.8,,
+12,,Total,,,83.4,55.5,331.2,,

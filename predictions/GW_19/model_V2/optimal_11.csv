@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,15.1,6.455485866183326,37.95621,Sunderland,6.789148
-1,Jarrod,Bowen,Forward,West Ham,7.6,5.18733515058245,31.086063,Brighton,4.9944763
-2,Igor Thiago,Nascimento Rodrigues,Forward,Brentford,7.0,4.55247163772583,26.739775,Spurs,4.4129214
-3,Phil,Foden,Midfielder,Man City,9.0,6.469999585832868,38.773823,Sunderland,7.2956805
-4,Florian,Wirtz,Midfielder,Liverpool,8.2,5.956493786403111,35.33086,Leeds,6.3481016
-5,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.1,5.378771305084228,31.47766,Wolves,5.6168876
-6,Mohammed,Kudus,Midfielder,Spurs,6.4,5.015475136893136,29.831198,Brentford,4.6385174
-7,Reece,James,Defender,Chelsea,5.7,4.31332152230399,26.309555,Bournemouth,4.870165
-8,Joško,Gvardiol,Defender,Man City,6.0,4.274953819456554,25.790005,Sunderland,4.4599676
-9,Jan Paul,van Hecke,Defender,Brighton,4.5,3.67479986236209,21.55084,West Ham,4.10546
-10,Guglielmo,Vicario,Goalkeeper,Spurs,4.8,3.684789737065633,21.792904,Brentford,3.1937392
+0,Jarrod,Bowen,Forward,West Ham,7.6,5.173948242550804,30.972221,Brighton,5.013859
+1,Hugo,Ekitiké,Forward,Liverpool,9.1,4.71672621227446,28.13431,Leeds,5.1843576
+2,Florian,Wirtz,Midfielder,Liverpool,8.2,5.944490886869885,35.294827,Leeds,6.3481016
+3,Bukayo,Saka,Midfielder,Arsenal,10.3,5.596677076248896,35.41777,Aston Villa,5.2660685
+4,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.1,5.376199540637788,31.423653,Wolves,5.6168876
+5,Phil,Foden,Midfielder,Man City,9.0,5.2404804683866955,31.238754,Sunderland,6.3219423
+6,Mohammed,Kudus,Midfielder,Spurs,6.4,5.040701661791121,30.014965,Brentford,4.6192255
+7,Reece,James,Defender,Chelsea,5.7,4.323256424495151,26.449266,Bournemouth,4.870165
+8,Jan Paul,van Hecke,Defender,Brighton,4.5,3.669134174074445,21.540085,West Ham,4.100942
+9,Trevoh,Chalobah,Defender,Chelsea,5.6,3.58314239411127,21.94851,Bournemouth,4.081395
+10,Guglielmo,Vicario,Goalkeeper,Spurs,4.8,3.7115528129395985,21.92141,Brentford,3.2212894
 11,,,,,,,,,
-12,,Total,,,82.4,55.0,326.6,,
+12,,Total,,,79.3,52.4,314.4,,
