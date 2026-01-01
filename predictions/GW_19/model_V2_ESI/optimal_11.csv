@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,15.1,6.893020925067719,41.271244,Sunderland,7.60419
+0,Erling,Haaland,Forward,Man City,15.1,7.200078986939929,43.05779,Sunderland,7.9123096
 1,Viktor,Gyökeres,Forward,Arsenal,8.8,5.668895471663703,34.77102,Aston Villa,5.26533
-2,Jarrod,Bowen,Forward,West Ham,7.6,5.354338532402401,32.12347,Brighton,5.1658053
-3,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.1,5.860865002586727,34.50629,Wolves,6.315551
+2,Jarrod,Bowen,Forward,West Ham,7.6,5.366157917749313,32.247574,Brighton,5.1658053
+3,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.1,5.865470091501871,34.538525,Wolves,6.315551
 4,Florian,Wirtz,Midfielder,Liverpool,8.2,5.772717498597645,34.316933,Leeds,6.193392
-5,Cody,Gakpo,Midfielder,Liverpool,7.3,4.577450888497489,27.182156,Leeds,4.6912627
-6,Anthony,Gordon,Midfielder,Newcastle,7.4,4.574782723472232,26.567677,Burnley,4.9001856
-7,Trevoh,Chalobah,Defender,Chelsea,5.6,3.535546881811959,21.947775,Bournemouth,4.151262
-8,Reece,James,Defender,Chelsea,5.7,3.497661953880673,21.445448,Bournemouth,4.0716176
-9,Pedro,Porro Sauceda,Defender,Spurs,5.2,3.304954835346767,19.548182,Brentford,2.9401913
-10,Bart,Verbruggen,Goalkeeper,Brighton,4.4,3.6799714111146473,22.244884,West Ham,3.8359313
+5,Phil,Foden,Midfielder,Man City,9.0,5.254010995229085,31.21825,Sunderland,6.4507146
+6,Cody,Gakpo,Midfielder,Liverpool,7.3,4.588271686008999,27.220028,Leeds,4.7291355
+7,Reece,James,Defender,Chelsea,5.7,3.4885205427805577,21.416729,Bournemouth,4.0716176
+8,Michael,Keane,Defender,Everton,4.8,3.1714387167067755,18.245285,Nott'm Forest,3.68752
+9,Jan Paul,van Hecke,Defender,Brighton,4.5,3.07030683472043,18.224869,West Ham,3.420548
+10,Bart,Verbruggen,Goalkeeper,Brighton,4.4,3.6835100877852667,22.22249,West Ham,3.8359313
 11,,,,,,,,,
-12,,Total,,,83.4,52.7,315.9,,
+12,,Total,,,83.5,53.1,317.5,,

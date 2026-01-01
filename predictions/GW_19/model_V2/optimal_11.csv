@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
 0,Jarrod,Bowen,Forward,West Ham,7.6,5.173948242550804,30.972221,Brighton,5.013859
-1,Hugo,Ekitiké,Forward,Liverpool,9.1,4.71672621227446,28.13431,Leeds,5.1843576
+1,Hugo,Ekitiké,Forward,Liverpool,9.1,4.707686197190057,28.00473,Leeds,5.1843576
 2,Florian,Wirtz,Midfielder,Liverpool,8.2,5.944490886869885,35.294827,Leeds,6.3481016
-3,Bukayo,Saka,Midfielder,Arsenal,10.3,5.596677076248896,35.41777,Aston Villa,5.2660685
+3,Bukayo,Saka,Midfielder,Arsenal,10.3,5.610844112577893,35.516937,Aston Villa,5.2660685
 4,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.1,5.376199540637788,31.423653,Wolves,5.6168876
-5,Phil,Foden,Midfielder,Man City,9.0,5.2404804683866955,31.238754,Sunderland,6.3219423
-6,Mohammed,Kudus,Midfielder,Spurs,6.4,5.040701661791121,30.014965,Brentford,4.6192255
+5,Phil,Foden,Midfielder,Man City,9.0,5.300988674163818,31.63352,Sunderland,6.31373
+6,Mohammed,Kudus,Midfielder,Spurs,6.4,5.038055147443499,29.959389,Brentford,4.6192255
 7,Reece,James,Defender,Chelsea,5.7,4.323256424495151,26.449266,Bournemouth,4.870165
-8,Jan Paul,van Hecke,Defender,Brighton,4.5,3.669134174074445,21.540085,West Ham,4.100942
+8,Jan Paul,van Hecke,Defender,Brighton,4.5,3.6091648396991545,21.1203,West Ham,4.100942
 9,Trevoh,Chalobah,Defender,Chelsea,5.6,3.58314239411127,21.94851,Bournemouth,4.081395
 10,Guglielmo,Vicario,Goalkeeper,Spurs,4.8,3.7115528129395985,21.92141,Brentford,3.2212894
 11,,,,,,,,,
-12,,Total,,,79.3,52.4,314.4,,
+12,,Total,,,79.3,52.4,314.2,,
