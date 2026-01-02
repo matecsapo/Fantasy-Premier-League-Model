@@ -38,7 +38,7 @@ def load_stats(season, start_gw, end_gw):
 def load_FPL_info(season, start_gw, end_gw):
     location = ""
     if season == "2024-2025":
-        location = "FPL-Elo-Insights/data/2024-2025/playerstats/playerstats.csv"
+        location = f"{DATA_SOURCE}/data/2024-2025/playerstats/playerstats.csv"
     elif season == "2025-2026":
         location = f"{DATA_SOURCE}/data/2025-2026/playerstats.csv"
     FPL_info = pd.read_csv(location)
@@ -50,7 +50,7 @@ def load_FPL_info(season, start_gw, end_gw):
 def load_teams_info(season):
     location = ""
     if season == "2024-2025":
-        location = "FPL-Elo-Insights/data/2024-2025/teams/teams.csv"
+        location = f"{DATA_SOURCE}/data/2024-2025/teams/teams.csv"
     elif season == "2025-2026":
         location = f"{DATA_SOURCE}/data/2025-2026/teams.csv"
     teams_info = pd.read_csv(location)
@@ -60,7 +60,7 @@ def load_teams_info(season):
 # orderes by gameweek
 def load_fixture_info(season, start_gw, end_gw):
     if season == "2024-2025":
-        matches = pd.read_csv(f"FPL-Elo-Insights/data/{season}/matches/matches.csv")
+        matches = pd.read_csv(f"{DATA_SOURCE}/data/{season}/matches/matches.csv")
         matches = matches[matches["gameweek"].isin(range(start_gw, end_gw + 1))]
         matches = matches.sort_values(by="gameweek")
         return matches
