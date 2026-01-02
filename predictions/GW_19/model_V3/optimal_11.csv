@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,15.1,6.412285168965657,39.231464,Sunderland,6.721072
-1,Dominic,Calvert-Lewin,Forward,Leeds,5.8,4.370940832864671,26.200962,Liverpool,3.8844633
-2,Florian,Wirtz,Midfielder,Liverpool,8.2,6.548889546167282,38.74918,Leeds,7.3541875
-3,Phil,Foden,Midfielder,Man City,9.0,5.897175357455298,35.252888,Sunderland,6.2792425
-4,Bukayo,Saka,Midfielder,Arsenal,10.3,5.614662511008127,33.913437,Aston Villa,5.723065
-5,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.1,5.418940476008824,30.97987,Wolves,6.1901193
-6,Martin,Ødegaard,Midfielder,Arsenal,7.8,5.228525070917038,31.680302,Aston Villa,5.306657
-7,Reece,James,Defender,Chelsea,5.7,4.320141883123489,26.648651,Bournemouth,4.8114586
-8,Micky,van de Ven,Defender,Spurs,4.5,4.253956533613659,24.649994,Brentford,3.7709675
-9,Jan Paul,van Hecke,Defender,Brighton,4.5,4.024314335414341,23.490002,West Ham,4.493103
-10,Bart,Verbruggen,Goalkeeper,Brighton,4.4,3.7200968265533447,21.863909,West Ham,4.2327995
+0,Erling,Haaland,Forward,Man City,15.1,6.109225318545387,38.147728,Sunderland,5.623384
+1,Jarrod,Bowen,Forward,West Ham,7.6,5.059357506888253,29.989471,Brighton,4.7378793
+2,Phil,Foden,Midfielder,Man City,9.0,5.772605214800153,35.01031,Sunderland,5.596238
+3,Florian,Wirtz,Midfielder,Liverpool,8.2,5.498280002957299,32.63881,Leeds,6.242241
+4,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.1,5.354803596224103,29.781563,Wolves,6.5736127
+5,Anthony,Gordon,Midfielder,Newcastle,7.4,5.233228774297805,30.225508,Burnley,5.4542227
+6,Cody,Gakpo,Midfielder,Liverpool,7.3,4.792214280083066,28.562695,Leeds,5.2179556
+7,Reece,James,Defender,Chelsea,5.7,4.5901929423922585,28.247625,Bournemouth,5.010997
+8,Micky,van de Ven,Defender,Spurs,4.5,4.094370172137306,23.572388,Brentford,3.8445673
+9,Jake,O'Brien,Defender,Everton,4.9,4.011115278516497,23.389853,Nott'm Forest,4.157964
+10,Jordan,Pickford,Goalkeeper,Everton,5.5,4.116741816202799,24.166601,Nott'm Forest,4.14626
 11,,,,,,,,,
-12,,Total,,,83.4,55.8,332.7,,
+12,,Total,,,83.3,54.6,323.7,,
