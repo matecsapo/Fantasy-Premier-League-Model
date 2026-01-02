@@ -6,7 +6,7 @@ from config import CURRENT_GAMEWEEK, LOCAL_LOCATION, REMOTE_LOCATION, DATA_SOURC
 def load_players(season):
     location  = ""
     if season == "2024-2025":
-        location = "FPL-Elo-Insights/data/2024-2025/players/players.csv"
+        location = f"{DATA_SOURCE}/data/2024-2025/players/players.csv"
     elif season == "2025-2026":
         location = f"{DATA_SOURCE}/data/2025-2026/players.csv"
     players = pd.read_csv(location)
