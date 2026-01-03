@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,15.1,7.510449795495896,44.173683,Chelsea,7.220815
+0,Erling,Haaland,Forward,Man City,15.1,7.106153783344086,41.981636,Chelsea,6.8070636
 1,Jarrod,Bowen,Forward,West Ham,7.7,5.038744426908947,29.828316,Wolves,5.6147017
-2,Bukayo,Saka,Midfielder,Arsenal,10.3,5.617092019035701,34.679295,Bournemouth,5.415107
-3,Phil,Foden,Midfielder,Man City,8.9,5.045950276511055,29.773968,Chelsea,5.0139422
-4,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.2,4.847932202475411,29.380455,Leeds,4.828015
-5,Morgan,Rogers,Midfielder,Aston Villa,7.5,4.787594182150704,28.582218,Nott'm Forest,5.22569
-6,Tijjani,Reijnders,Midfielder,Man City,5.2,4.220365808123634,25.066647,Chelsea,4.0738664
+2,Ollie,Watkins,Forward,Aston Villa,8.6,4.9042755989801305,29.412285,Nott'm Forest,4.912799
+3,Bukayo,Saka,Midfielder,Arsenal,10.3,5.471105734507242,33.87542,Bournemouth,5.2579727
+4,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.2,5.143186955224899,31.09713,Leeds,5.067437
+5,Phil,Foden,Midfielder,Man City,8.9,5.1139390127999445,30.16669,Chelsea,5.064874
+6,Harry,Wilson,Midfielder,Fulham,5.8,4.700950758797782,28.495071,Liverpool,4.3089595
 7,Micky,van de Ven,Defender,Spurs,4.5,4.683885721933274,26.081604,Sunderland,5.1520963
 8,Pedro,Porro Sauceda,Defender,Spurs,5.2,4.624178171157837,26.144539,Sunderland,4.875279
-9,Trevoh,Chalobah,Defender,Chelsea,5.6,4.116480781918479,26.032646,Man City,3.0076401
+9,Omar,Alderete,Defender,Sunderland,4.1,4.124032599585396,24.371891,Spurs,4.2602158
 10,Guglielmo,Vicario,Goalkeeper,Spurs,4.8,4.470733846936907,25.090563,Sunderland,4.8410525
 11,,,,,,,,,
-12,,Total,,,83.0,55.0,324.8,,
+12,,Total,,,83.2,55.4,326.5,,

@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,15.1,6.906651178995768,40.789574,Chelsea,6.9272366
-1,Alexander,Isak,Forward,Liverpool,10.3,6.186933858054023,36.765167,Fulham,6.4632306
-2,Jarrod,Bowen,Forward,West Ham,7.7,5.6170236723763605,33.597244,Wolves,5.883863
-3,Florian,Wirtz,Midfielder,Liverpool,8.2,5.366858028230213,31.991476,Fulham,5.767101
-4,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.2,5.015256654648553,30.059532,Leeds,5.066623
-5,Rayan,Cherki,Midfielder,Man City,6.8,4.587898685818626,27.608438,Chelsea,4.302854
-6,Morgan,Rogers,Midfielder,Aston Villa,7.5,4.5008001781645275,26.696133,Nott'm Forest,5.0779786
-7,Pedro,Porro Sauceda,Defender,Spurs,5.2,3.442149412064325,19.406622,Sunderland,3.5469635
-8,Jan Paul,van Hecke,Defender,Brighton,4.5,3.425177471978323,20.568148,Burnley,3.8200452
+0,Erling,Haaland,Forward,Man City,15.1,6.1942561240423295,36.532703,Chelsea,6.197341
+1,Jarrod,Bowen,Forward,West Ham,7.7,5.6170236723763605,33.597244,Wolves,5.883863
+2,Hugo,Ekitiké,Forward,Liverpool,9.1,5.605041367667062,32.87215,Fulham,5.8635263
+3,Florian,Wirtz,Midfielder,Liverpool,8.2,5.582307316008069,33.22737,Fulham,6.055459
+4,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.2,5.211003598712739,31.190332,Leeds,5.3085814
+5,Rayan,Cherki,Midfielder,Man City,6.8,4.610026563916887,27.746119,Chelsea,4.320069
+6,Anthony,Gordon,Midfielder,Newcastle,7.4,4.533272856757755,26.738043,Crystal Palace,4.4926205
+7,Jan Paul,van Hecke,Defender,Brighton,4.5,3.445728846958705,20.507292,Burnley,4.026001
+8,Pedro,Porro Sauceda,Defender,Spurs,5.2,3.442149412064325,19.406622,Sunderland,3.5469635
 9,Patrick,Dorgu,Defender,Man Utd,4.2,3.380564383098058,19.531672,Leeds,3.7717018
 10,Jordan,Pickford,Goalkeeper,Everton,5.5,3.725016173862275,22.487402,Brentford,3.6715815
 11,,,,,,,,,
-12,,Total,,,83.2,52.2,309.5,,
+12,,Total,,,81.9,51.3,303.8,,
