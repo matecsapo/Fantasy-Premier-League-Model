@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Ollie,Watkins,Forward,Aston Villa,8.6,5.3365411531357525,31.203114,Nott'm Forest,6.230768
-1,Jarrod,Bowen,Forward,West Ham,7.6,5.18791559764317,31.294735,Wolves,5.1304526
-2,Hugo,Ekitiké,Forward,Liverpool,9.1,5.061391807737804,30.142319,Fulham,4.958936
+0,Ollie,Watkins,Forward,Aston Villa,8.6,5.322086788359143,31.116388,Nott'm Forest,6.216314
+1,Hugo,Ekitiké,Forward,Liverpool,9.1,4.955494744437082,29.470858,Fulham,4.8471856
+2,Jarrod,Bowen,Forward,West Ham,7.7,4.898135775611514,29.43782,Wolves,4.958907
 3,Bukayo,Saka,Midfielder,Arsenal,10.3,5.7985281717209585,37.024654,Bournemouth,5.038521
-4,Florian,Wirtz,Midfielder,Liverpool,8.2,5.236318179539272,30.706795,Fulham,5.2934875
-5,Bruno,Borges Fernandes,Midfielder,Man Utd,9.1,5.056956132253011,28.771107,Leeds,5.689331
-6,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.2,4.681363366899037,27.568695,Leeds,5.1188545
-7,Trevoh,Chalobah,Defender,Chelsea,5.6,3.8364725794110974,23.78194,Man City,3.0663173
-8,Pedro,Porro Sauceda,Defender,Spurs,5.2,3.7707918712071007,21.582663,Sunderland,3.8683205
-9,Reece,James,Defender,Chelsea,5.7,3.7256428400675454,22.922415,Man City,3.0831363
-10,Jordan,Pickford,Goalkeeper,Everton,5.5,3.872251783098493,23.694458,Brentford,3.7859576
+4,Florian,Wirtz,Midfielder,Liverpool,8.2,5.251748902457101,30.7608,Fulham,5.347495
+5,Bruno,Borges Fernandes,Midfielder,Man Utd,9.1,4.848811898912702,27.54539,Leeds,5.4760427
+6,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.2,4.749608414513724,27.98167,Leeds,5.1188545
+7,Pedro,Porro Sauceda,Defender,Spurs,5.2,3.7707918712071007,21.582663,Sunderland,3.8683205
+8,Trevoh,Chalobah,Defender,Chelsea,5.6,3.6587592079525897,22.78151,Man City,2.7867506
+9,Reece,James,Defender,Chelsea,5.7,3.64316075188773,22.596315,Man City,2.7958548
+10,Jordan,Pickford,Goalkeeper,Everton,5.5,3.9225057193211152,24.034555,Brentford,3.8336399
 11,,,,,,,,,
-12,,Total,,,83.1,51.6,308.7,,
+12,,Total,,,83.2,50.8,304.3,,

@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,15.1,7.287566094171432,42.46104,Chelsea,7.2962484
-1,Jarrod,Bowen,Forward,West Ham,7.6,4.932419322785877,29.194208,Wolves,5.345017
-2,Hugo,Ekitiké,Forward,Liverpool,9.1,4.7917016574314655,28.219887,Fulham,5.343277
-3,Bukayo,Saka,Midfielder,Arsenal,10.3,5.770596663157144,35.00055,Bournemouth,5.702683
-4,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.2,4.788390931628999,28.938171,Leeds,5.0367537
-5,Declan,Rice,Midfielder,Arsenal,7.2,4.578410829816545,27.7773,Bournemouth,4.4967074
-6,Mohammed,Kudus,Midfielder,Spurs,6.4,4.540151255471366,26.335316,Sunderland,4.812139
-7,Micky,van de Ven,Defender,Spurs,4.5,4.285212539491199,23.79753,Sunderland,4.745603
-8,James,Tarkowski,Defender,Everton,5.6,4.2149996530442,24.939358,Brentford,4.2807884
-9,Omar,Alderete,Defender,Sunderland,4.0,4.058926843461536,23.921005,Spurs,4.1669655
-10,Guglielmo,Vicario,Goalkeeper,Spurs,4.8,4.665864115669614,26.229282,Sunderland,5.089727
+0,Erling,Haaland,Forward,Man City,15.1,7.510449795495896,44.173683,Chelsea,7.220815
+1,Jarrod,Bowen,Forward,West Ham,7.7,5.038744426908947,29.828316,Wolves,5.6147017
+2,Bukayo,Saka,Midfielder,Arsenal,10.3,5.617092019035701,34.679295,Bournemouth,5.415107
+3,Phil,Foden,Midfielder,Man City,8.9,5.045950276511055,29.773968,Chelsea,5.0139422
+4,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.2,4.847932202475411,29.380455,Leeds,4.828015
+5,Morgan,Rogers,Midfielder,Aston Villa,7.5,4.787594182150704,28.582218,Nott'm Forest,5.22569
+6,Tijjani,Reijnders,Midfielder,Man City,5.2,4.220365808123634,25.066647,Chelsea,4.0738664
+7,Micky,van de Ven,Defender,Spurs,4.5,4.683885721933274,26.081604,Sunderland,5.1520963
+8,Pedro,Porro Sauceda,Defender,Spurs,5.2,4.624178171157837,26.144539,Sunderland,4.875279
+9,Trevoh,Chalobah,Defender,Chelsea,5.6,4.116480781918479,26.032646,Man City,3.0076401
+10,Guglielmo,Vicario,Goalkeeper,Spurs,4.8,4.470733846936907,25.090563,Sunderland,4.8410525
 11,,,,,,,,,
-12,,Total,,,82.8,53.9,316.8,,
+12,,Total,,,83.0,55.0,324.8,,

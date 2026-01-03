@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Alexander,Isak,Forward,Liverpool,10.3,5.734774226234072,34.295353,Fulham,5.827326
-1,Jarrod,Bowen,Forward,West Ham,7.6,5.690902278536842,34.21321,Wolves,5.606787
-2,Hugo,Ekitiké,Forward,Liverpool,9.1,5.393725327083042,31.410574,Fulham,6.0478177
+0,Hugo,Ekitiké,Forward,Liverpool,9.1,5.744994049980526,33.50717,Fulham,6.384399
+1,Alexander,Isak,Forward,Liverpool,10.3,5.734774226234072,34.295353,Fulham,5.827326
+2,Jarrod,Bowen,Forward,West Ham,7.7,5.571571599869501,33.49385,Wolves,5.404286
 3,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.2,5.820027464912051,34.679153,Leeds,6.227984
-4,Cole,Palmer,Midfielder,Chelsea,10.4,5.787642842247371,34.54951,Man City,5.6668115
-5,Florian,Wirtz,Midfielder,Liverpool,8.2,5.7701663062686,33.428196,Fulham,6.1546955
-6,Morgan,Rogers,Midfielder,Aston Villa,7.5,4.899327414376395,29.652153,Nott'm Forest,5.074542
-7,Reece,James,Defender,Chelsea,5.7,3.666703791845412,22.063889,Man City,2.718335
-8,Pedro,Porro Sauceda,Defender,Spurs,5.2,3.628131435030982,20.282635,Sunderland,3.7234428
-9,Trevoh,Chalobah,Defender,Chelsea,5.6,3.274708906809489,19.719822,Man City,2.3486817
-10,Guglielmo,Vicario,Goalkeeper,Spurs,4.8,3.680118946802048,21.218449,Sunderland,3.7856705
+4,Florian,Wirtz,Midfielder,Liverpool,8.2,5.7254608245123,33.152077,Fulham,6.099471
+5,Cole,Palmer,Midfielder,Chelsea,10.4,5.4686671665736615,32.690697,Man City,5.253857
+6,Morgan,Rogers,Midfielder,Aston Villa,7.5,4.939576285226004,29.893646,Nott'm Forest,5.114791
+7,Pedro,Porro Sauceda,Defender,Spurs,5.2,3.628131435030982,20.282635,Sunderland,3.7234428
+8,Reece,James,Defender,Chelsea,5.7,3.603815419333322,21.724115,Man City,2.525249
+9,Rúben,dos Santos Gato Alves Dias,Defender,Man City,5.7,3.2745471568334663,19.529478,Chelsea,3.2410846
+10,Caoimhín,Kelleher,Goalkeeper,Brentford,4.5,3.6987373147692,21.09128,Everton,3.5389996
 11,,,,,,,,,
-12,,Total,,,82.6,53.3,315.5,,
+12,,Total,,,82.5,53.2,314.3,,
