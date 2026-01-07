@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,15.1,6.236446562267485,36.42618,Brighton,6.490812
-1,Igor Thiago,Nascimento Rodrigues,Forward,Brentford,7.0,4.696766762506393,26.11256,Sunderland,6.0853934
-2,Bruno,Guimarães Rodriguez Moura,Midfielder,Newcastle,7.1,5.192812283833821,30.594784,Leeds,5.448803
-3,Martin,Ødegaard,Midfielder,Arsenal,7.8,5.1565479551042825,31.335106,Liverpool,4.8933945
-4,Enzo,Fernández,Midfielder,Chelsea,6.4,4.946211542401994,29.870525,Fulham,4.9044833
-5,Cole,Palmer,Midfielder,Chelsea,10.4,4.935025578453427,29.797352,Fulham,4.5165954
-6,Florian,Wirtz,Midfielder,Liverpool,8.2,4.653614452907017,28.4449,Arsenal,3.4646456
-7,James,Tarkowski,Defender,Everton,5.7,4.488581225985572,26.790949,Wolves,5.5666447
-8,Trevoh,Chalobah,Defender,Chelsea,5.5,4.4677809079488116,26.781862,Fulham,4.5334663
+0,Erling,Haaland,Forward,Man City,15.1,6.459831078847249,37.676926,Brighton,6.717392
+1,Igor Thiago,Nascimento Rodrigues,Forward,Brentford,7.0,5.066293500718616,28.213228,Sunderland,6.54683
+2,Cole,Palmer,Midfielder,Chelsea,10.4,5.559367134457543,33.611702,Fulham,5.103206
+3,Enzo,Fernández,Midfielder,Chelsea,6.4,5.273660024007162,31.917736,Fulham,5.1886854
+4,Martin,Ødegaard,Midfielder,Arsenal,7.8,5.196698529379708,31.445591,Liverpool,5.0058966
+5,Bruno,Guimarães Rodriguez Moura,Midfielder,Newcastle,7.1,5.192812283833821,30.594784,Leeds,5.448803
+6,Anthony,Gordon,Midfielder,Newcastle,7.4,5.003627481914702,29.445395,Leeds,5.0345063
+7,Gabriel,dos Santos Magalhães,Defender,Arsenal,6.6,5.109546207246327,31.114653,Liverpool,4.8648276
+8,Trevoh,Chalobah,Defender,Chelsea,5.5,4.755101203918457,28.630491,Fulham,4.7681646
 9,Nordi,Mukiele,Defender,Sunderland,4.3,4.398030621664865,25.866213,Brentford,4.124826
 10,Jordan,Pickford,Goalkeeper,Everton,5.6,4.941785812377929,29.497387,Wolves,5.6451597
 11,,,,,,,,,
-12,,Total,,,83.1,54.1,321.5,,
+12,,Total,,,83.2,57.0,338.0,,

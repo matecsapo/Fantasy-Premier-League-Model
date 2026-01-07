@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Ollie,Watkins,Forward,Aston Villa,8.7,5.188916592370896,31.28514,Crystal Palace,5.0457864
-1,Jarrod,Bowen,Forward,West Ham,7.7,4.993550663902646,29.746881,Nott'm Forest,5.220055
-2,Hugo,Ekitiké,Forward,Liverpool,9.0,4.641197340829032,28.3504,Arsenal,3.72599
-3,Bukayo,Saka,Midfielder,Arsenal,10.2,5.648005621773856,34.44776,Liverpool,4.2558002
-4,Bruno,Borges Fernandes,Midfielder,Man Utd,9.1,5.138617016020275,30.969284,Burnley,6.124246
-5,Florian,Wirtz,Midfielder,Liverpool,8.2,5.080918675377255,30.902813,Arsenal,4.3188457
-6,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.2,4.271979377383277,26.168705,Burnley,5.2830334
-7,Reece,James,Defender,Chelsea,5.7,3.995023727416992,23.91356,Fulham,4.187319
-8,Pedro,Porro Sauceda,Defender,Spurs,5.2,3.658868721553257,20.714752,Bournemouth,3.9839983
-9,Trevoh,Chalobah,Defender,Chelsea,5.5,3.6195697103227884,21.81612,Fulham,3.8534029
+0,Jarrod,Bowen,Forward,West Ham,7.7,4.993550663902646,29.746881,Nott'm Forest,5.220055
+1,Ollie,Watkins,Forward,Aston Villa,8.7,4.924133209955125,29.75765,Crystal Palace,4.7255116
+2,Jean-Philippe,Mateta,Forward,Crystal Palace,7.6,4.596649169921874,28.162891,Aston Villa,4.1657577
+3,Bukayo,Saka,Midfielder,Arsenal,10.2,5.765805448804582,35.129036,Liverpool,4.3934093
+4,Florian,Wirtz,Midfielder,Liverpool,8.2,5.278050468081519,32.14385,Arsenal,4.3843193
+5,Morgan,Rogers,Midfielder,Aston Villa,7.6,4.480086848849343,27.095684,Crystal Palace,4.312958
+6,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.2,4.457809641247704,27.33209,Burnley,5.4490848
+7,Reece,James,Defender,Chelsea,5.7,4.28207356589181,25.757734,Fulham,4.490033
+8,Trevoh,Chalobah,Defender,Chelsea,5.5,3.8582547505696616,23.41112,Fulham,4.0948544
+9,Jurriën,Timber,Defender,Arsenal,6.3,3.7547513870965865,22.15008,Liverpool,3.5724518
 10,Jordan,Pickford,Goalkeeper,Everton,5.6,3.923882507142566,23.948084,Wolves,4.170845
 11,,,,,,,,,
-12,,Total,,,83.1,50.2,302.3,,
+12,,Total,,,81.3,50.3,304.6,,
