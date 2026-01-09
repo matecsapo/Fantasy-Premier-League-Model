@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,15.1,6.321103868030367,37.38574,Brighton,6.2908163
-1,Jarrod,Bowen,Forward,West Ham,7.7,5.619044076828729,33.670506,Nott'm Forest,5.493879
+0,Erling,Haaland,Forward,Man City,15.1,6.542655626932779,38.127983,Brighton,7.0810256
+1,Jarrod,Bowen,Forward,West Ham,7.7,5.579957462492443,33.521152,Nott'm Forest,5.4090185
 2,Viktor,Gyökeres,Forward,Arsenal,8.8,5.160575457981654,31.261362,Liverpool,4.717827
-3,Florian,Wirtz,Midfielder,Liverpool,8.2,6.564796356927781,40.334576,Arsenal,5.230915
-4,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.2,5.6450960749671575,34.06138,Burnley,6.344065
-5,Morgan,Rogers,Midfielder,Aston Villa,7.6,4.6301832880292615,28.161226,Crystal Palace,4.5989046
-6,Jack,Grealish,Midfielder,Everton,6.5,4.453134661629086,26.985937,Wolves,4.7471633
-7,Reece,James,Defender,Chelsea,5.7,3.799427918025425,23.09899,Fulham,4.030733
+3,Florian,Wirtz,Midfielder,Liverpool,8.2,6.5621794291905,40.405777,Arsenal,5.1815743
+4,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.2,5.650536014920188,34.074646,Burnley,6.344065
+5,Rayan,Cherki,Midfielder,Man City,6.8,4.449798379625593,26.445648,Brighton,4.5518246
+6,Jack,Grealish,Midfielder,Everton,6.5,4.349046321142287,26.166857,Wolves,4.6193814
+7,Reece,James,Defender,Chelsea,5.7,3.580969617480323,22.323671,Fulham,3.3197007
 8,Jeremie,Frimpong,Defender,Liverpool,5.7,3.566463935942877,21.739218,Arsenal,3.0611882
-9,Maxim,De Cuyper,Defender,Brighton,4.3,3.2330108143034435,19.251003,Man City,2.9362876
-10,Jordan,Pickford,Goalkeeper,Everton,5.6,3.9699591114407493,24.17586,Wolves,4.38563
+9,Marcos,Senesi Barón,Defender,Bournemouth,4.8,3.475450197855631,21.103527,Spurs,3.6412587
+10,Gianluigi,Donnarumma,Goalkeeper,Man City,5.7,3.7593077250889366,22.477785,Brighton,3.6597443
 11,,,,,,,,,
-12,,Total,,,83.4,53.0,320.1,,
+12,,Total,,,83.2,52.7,317.6,,

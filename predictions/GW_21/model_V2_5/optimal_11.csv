@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Jarrod,Bowen,Forward,West Ham,7.7,5.644843805403936,33.741856,Nott'm Forest,5.7308636
-1,Ollie,Watkins,Forward,Aston Villa,8.7,4.654872440156483,28.241901,Crystal Palace,4.5782824
-2,Cole,Palmer,Midfielder,Chelsea,10.4,6.238958653949556,37.817413,Fulham,6.2979927
+0,Jarrod,Bowen,Forward,West Ham,7.7,5.642884413401286,33.735,Nott'm Forest,5.7240057
+1,Ollie,Watkins,Forward,Aston Villa,8.7,4.802896590459914,28.759987,Crystal Palace,5.096367
+2,Cole,Palmer,Midfielder,Chelsea,10.4,6.093553293318975,37.308495,Fulham,5.789074
 3,Florian,Wirtz,Midfielder,Liverpool,8.2,5.447507835569835,32.693333,Arsenal,5.022971
-4,Morgan,Rogers,Midfielder,Aston Villa,7.6,5.003902571541922,30.353416,Crystal Palace,4.9115868
-5,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.2,4.781829266321091,29.009682,Burnley,5.099283
-6,Rayan,Cherki,Midfielder,Man City,6.8,4.763619536445254,28.490465,Brighton,4.612663
-7,Reece,James,Defender,Chelsea,5.7,3.900662717365083,22.916534,Fulham,4.3940587
-8,Jeremie,Frimpong,Defender,Liverpool,5.7,3.7895897456577843,22.720615,Arsenal,3.4279747
+4,Morgan,Rogers,Midfielder,Aston Villa,7.6,5.174244335719517,30.949612,Crystal Palace,5.507783
+5,Rayan,Cherki,Midfielder,Man City,6.8,4.901117165883382,28.971706,Brighton,5.0939045
+6,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.2,4.801961331140427,29.080143,Burnley,5.1697454
+7,Jeremie,Frimpong,Defender,Liverpool,5.7,3.768215111323765,22.645803,Arsenal,3.3531635
+8,Reece,James,Defender,Chelsea,5.7,3.6985939797900973,22.209293,Fulham,3.6868181
 9,Pedro,Porro Sauceda,Defender,Spurs,5.2,3.644492081233433,20.103247,Bournemouth,4.458753
-10,Jordan,Pickford,Goalkeeper,Everton,5.6,3.8034495172046476,23.810879,Wolves,3.8743932
+10,Jordan,Pickford,Goalkeeper,Everton,5.6,3.843078431628999,23.949577,Wolves,4.0130944
 11,,,,,,,,,
-12,,Total,,,79.8,51.7,309.9,,
+12,,Total,,,79.8,51.8,310.4,,
