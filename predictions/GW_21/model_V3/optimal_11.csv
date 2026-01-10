@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,15.1,7.227288813818069,41.986988,Brighton,8.3775625
-1,Igor Thiago,Nascimento Rodrigues,Forward,Brentford,7.0,5.04662343433925,28.407494,Sunderland,6.19711
-2,Ollie,Watkins,Forward,Aston Villa,8.7,4.974952856699624,29.916393,Crystal Palace,4.799228
-3,Declan,Rice,Midfielder,Arsenal,7.2,5.740422998155865,34.745453,Liverpool,5.173462
-4,Antoine,Semenyo,Midfielder,Bournemouth,7.6,5.292774768102737,31.88823,Spurs,5.7405505
-5,Enzo,Fernández,Midfielder,Chelsea,6.4,5.106451193491618,31.45916,Fulham,4.641373
-6,Bukayo,Saka,Midfielder,Arsenal,10.2,4.9397189503624315,29.878462,Liverpool,4.7696137
-7,Gabriel,dos Santos Magalhães,Defender,Arsenal,6.6,5.775551001230875,34.825256,Liverpool,5.4222364
-8,Omar,Alderete,Defender,Sunderland,4.1,4.28724311646961,25.418674,Brentford,3.843386
-9,Micky,van de Ven,Defender,Spurs,4.5,4.262109665643601,23.760742,Bournemouth,5.0980763
-10,Jordan,Pickford,Goalkeeper,Everton,5.6,4.592955543881371,27.648663,Wolves,5.115378
+0,Erling,Haaland,Forward,Man City,15.1,7.967008409045992,45.929955,Brighton,9.124513
+1,Igor Thiago,Nascimento Rodrigues,Forward,Brentford,7.0,5.4617673328944605,31.14613,Sunderland,6.425233
+2,Morgan,Rogers,Midfielder,Aston Villa,7.6,5.099599520365397,30.691406,Crystal Palace,5.0525208
+3,Bukayo,Saka,Midfielder,Arsenal,10.2,5.083228996821812,30.73822,Liverpool,5.1140656
+4,Anthony,Gordon,Midfielder,Newcastle,7.4,4.857749007997059,28.59151,Leeds,4.8024764
+5,Bruno,Guimarães Rodriguez Moura,Midfielder,Newcastle,7.1,4.7197638012114025,28.050707,Leeds,5.0536466
+6,Enzo,Fernández,Midfielder,Chelsea,6.4,4.709328810373942,29.349339,Fulham,4.213703
+7,Gabriel,dos Santos Magalhães,Defender,Arsenal,6.6,5.247427191053117,31.72065,Liverpool,4.9464383
+8,Reece,James,Defender,Chelsea,5.7,4.33388616925194,27.34854,Fulham,3.7833579
+9,Michael,Keane,Defender,Everton,4.8,4.155967190152124,24.647732,Wolves,5.262272
+10,Jordan,Pickford,Goalkeeper,Everton,5.6,4.223118396032424,25.376816,Wolves,4.7842164
 11,,,,,,,,,
-12,,Total,,,83.0,57.2,339.9,,
+12,,Total,,,83.5,55.9,333.6,,
