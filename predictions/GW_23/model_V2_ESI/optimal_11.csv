@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,15.1,6.805134364536831,40.75832,Wolves,6.6816325
-1,Ollie,Watkins,Forward,Aston Villa,8.8,5.711418969290598,35.39237,Newcastle,5.341534
-2,Hugo,Ekitiké,Forward,Liverpool,8.9,5.359911895933605,32.7718,Bournemouth,5.4265347
-3,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.0,5.287036418914794,31.933117,Arsenal,5.0141315
-4,Antoine,Semenyo,Midfielder,Man City,7.6,5.049691109430222,30.047367,Wolves,5.081461
-5,Morgan,Rogers,Midfielder,Aston Villa,7.7,5.002032143729074,30.162231,Newcastle,4.9289503
-6,Declan,Rice,Midfielder,Arsenal,7.4,4.920509338378905,29.329699,Man Utd,4.638089
-7,Jeremie,Frimpong,Defender,Liverpool,5.8,3.6910613604954308,22.516024,Bournemouth,3.7971787
-8,Patrick,Dorgu,Defender,Man Utd,4.3,3.5169586908249624,22.443375,Arsenal,2.1463988
-9,Reece,James,Defender,Chelsea,5.7,3.4637567429315474,19.933535,Crystal Palace,3.578532
-10,Martin,Dúbravka,Goalkeeper,Burnley,4.0,3.5331489472162154,20.329727,Spurs,3.8799624
+0,Erling,Haaland,Forward,Man City,15.1,6.809285118466332,40.775753,Wolves,6.6816325
+1,Ollie,Watkins,Forward,Aston Villa,8.8,5.723188763573057,35.45416,Newcastle,5.341534
+2,Jarrod,Bowen,Forward,West Ham,7.6,5.274780046372187,31.200632,Sunderland,5.617625
+3,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.0,5.2408536048162535,31.690659,Arsenal,5.0141315
+4,Morgan,Rogers,Midfielder,Aston Villa,7.7,5.002032143729074,30.162231,Newcastle,4.9289503
+5,Antoine,Semenyo,Midfielder,Man City,7.6,4.955772127423968,29.652908,Wolves,5.081461
+6,Florian,Wirtz,Midfielder,Liverpool,8.3,4.87729024887085,30.087067,Bournemouth,4.896981
+7,Jeremie,Frimpong,Defender,Liverpool,5.8,3.692263830275763,22.555681,Bournemouth,3.7402132
+8,Reece,James,Defender,Chelsea,5.7,3.4637567429315474,19.933535,Crystal Palace,3.578532
+9,Patrick,Dorgu,Defender,Man Utd,4.3,3.358549538112822,21.637775,Arsenal,2.1463988
+10,Matz,Sels,Goalkeeper,Nott'm Forest,4.6,3.4749106452578586,20.498192,Brentford,3.1577356
 11,,,,,,,,,
-12,,Total,,,83.3,52.3,315.6,,
+12,,Total,,,83.5,51.9,313.6,,
