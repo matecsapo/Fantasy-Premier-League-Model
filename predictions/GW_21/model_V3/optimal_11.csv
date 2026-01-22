@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,15.1,7.002164136795771,40.455456,Brighton,8.145001
-1,Igor Thiago,Nascimento Rodrigues,Forward,Brentford,7.0,5.124654145467849,28.677275,Sunderland,6.4833565
-2,Ollie,Watkins,Forward,Aston Villa,8.7,5.05852306456793,30.349756,Crystal Palace,5.056235
+0,Erling,Haaland,Forward,Man City,15.1,7.276996953146798,41.609753,Brighton,8.145001
+1,Igor Thiago,Nascimento Rodrigues,Forward,Brentford,7.0,5.150070701326643,28.784025,Sunderland,6.4833565
+2,Ollie,Watkins,Forward,Aston Villa,8.7,5.0636764253888815,30.3714,Crystal Palace,5.056235
 3,Florian,Wirtz,Midfielder,Liverpool,8.2,5.259979815710158,32.2383,Arsenal,4.1193275
-4,Enzo,Fernández,Midfielder,Chelsea,6.4,5.211323647272019,31.866224,Fulham,5.0707836
-5,Morgan,Rogers,Midfielder,Aston Villa,7.6,5.046210856664748,30.319565,Crystal Palace,5.2739587
-6,Bruno,Guimarães Rodriguez Moura,Midfielder,Newcastle,7.1,4.805153971626645,28.572374,Leeds,5.0839543
+4,Enzo,Fernández,Midfielder,Chelsea,6.4,5.220383212679908,31.904276,Fulham,5.0707836
+5,Morgan,Rogers,Midfielder,Aston Villa,7.6,5.061554341089158,30.384007,Crystal Palace,5.2739587
+6,Bruno,Guimarães Rodriguez Moura,Midfielder,Newcastle,7.1,4.875535817373366,28.86798,Leeds,5.0839543
 7,Gabriel,dos Santos Magalhães,Defender,Arsenal,6.6,5.653526374271937,33.71105,Liverpool,5.645822
-8,James,Tarkowski,Defender,Everton,5.7,4.574594100316366,27.293856,Wolves,5.505226
-9,Trevoh,Chalobah,Defender,Chelsea,5.5,4.453429823830014,27.43876,Fulham,4.2806273
-10,Jordan,Pickford,Goalkeeper,Everton,5.6,4.800365606943766,28.307346,Wolves,5.6055055
+8,James,Tarkowski,Defender,Everton,5.7,4.5757200604393375,27.298584,Wolves,5.505226
+9,Trevoh,Chalobah,Defender,Chelsea,5.5,4.441520815803891,27.388742,Fulham,4.2806273
+10,Jordan,Pickford,Goalkeeper,Everton,5.6,4.801491510300409,28.312075,Wolves,5.6055055
 11,,,,,,,,,
-12,,Total,,,83.5,57.0,339.2,,
+12,,Total,,,83.5,57.4,340.9,,
