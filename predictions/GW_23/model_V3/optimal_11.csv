@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Ollie,Watkins,Forward,Aston Villa,8.8,5.120022228785923,31.17893,Newcastle,4.8079395
-1,Jarrod,Bowen,Forward,West Ham,7.6,4.730552196502685,27.92267,Sunderland,5.120646
-2,Bruno,Borges Fernandes,Midfielder,Man Utd,9.2,6.65605592727661,40.64765,Arsenal,5.851384
-3,Bukayo,Saka,Midfielder,Arsenal,10.1,5.610215686616444,33.102867,Man Utd,5.1631637
-4,Florian,Wirtz,Midfielder,Liverpool,8.3,5.586515040624708,34.627285,Bournemouth,5.4516897
-5,Declan,Rice,Midfielder,Arsenal,7.4,5.205066476549421,30.72598,Man Utd,4.944291
-6,Enzo,Fernández,Midfielder,Chelsea,6.6,4.988888116109939,29.08717,Crystal Palace,4.8542023
-7,Trevoh,Chalobah,Defender,Chelsea,5.6,4.362389916465395,25.018923,Crystal Palace,4.39706
-8,Patrick,Dorgu,Defender,Man Utd,4.3,4.126066798255557,25.43294,Arsenal,3.5474427
-9,James,Tarkowski,Defender,Everton,5.7,4.019690729322887,23.179728,Leeds,4.6350613
-10,Robert,Lynch Sánchez,Goalkeeper,Chelsea,4.9,4.339300746009463,25.050049,Crystal Palace,4.458318
+0,Ollie,Watkins,Forward,Aston Villa,8.8,4.555301212129139,27.654842,Newcastle,4.2507014
+1,Jarrod,Bowen,Forward,West Ham,7.6,4.518888518923805,26.772701,Sunderland,4.7752895
+2,Declan,Rice,Midfielder,Arsenal,7.4,5.220159190041678,30.901695,Man Utd,4.986834
+3,Enzo,Fernández,Midfielder,Chelsea,6.6,4.916184107462565,28.321136,Crystal Palace,4.698154
+4,Bruno,Borges Fernandes,Midfielder,Man Utd,9.3,4.894254934220086,30.403536,Arsenal,3.953745
+5,Florian,Wirtz,Midfielder,Liverpool,8.3,4.521933532896496,28.684004,Bournemouth,4.451887
+6,Antoine,Semenyo,Midfielder,Man City,7.7,4.4711363429114925,26.847141,Wolves,4.9842944
+7,Gabriel,dos Santos Magalhães,Defender,Arsenal,6.9,5.977071875617618,35.465736,Man Utd,6.1375203
+8,James,Tarkowski,Defender,Everton,5.8,4.539805389585949,27.028444,Leeds,4.911722
+9,Trevoh,Chalobah,Defender,Chelsea,5.6,4.465904973802111,26.309488,Crystal Palace,4.447266
+10,Jordan,Pickford,Goalkeeper,Everton,5.6,4.258290688196817,24.89949,Leeds,4.7790775
 11,,,,,,,,,
-12,,Total,,,78.5,54.7,326.0,,
+12,,Total,,,79.6,52.3,313.3,,
