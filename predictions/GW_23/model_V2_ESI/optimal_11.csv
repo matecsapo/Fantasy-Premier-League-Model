@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,15.1,6.809285118466332,40.775753,Wolves,6.6816325
-1,Ollie,Watkins,Forward,Aston Villa,8.8,5.723188763573057,35.45416,Newcastle,5.341534
-2,Hugo,Ekitiké,Forward,Liverpool,8.9,5.36293059303647,32.78765,Bournemouth,5.4265347
-3,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.0,5.362655571528844,32.416515,Arsenal,5.0913115
-4,Antoine,Semenyo,Midfielder,Man City,7.7,5.359704585302443,31.92127,Wolves,5.399154
-5,Morgan,Rogers,Midfielder,Aston Villa,7.7,5.002032143729074,30.162231,Newcastle,4.9289503
-6,Declan,Rice,Midfielder,Arsenal,7.4,4.877199263799757,28.874943,Man Utd,4.638089
-7,Jeremie,Frimpong,Defender,Liverpool,5.8,3.6913379033406577,22.545958,Bournemouth,3.7402132
-8,Reece,James,Defender,Chelsea,5.7,3.4637567429315474,19.933535,Crystal Palace,3.578532
+0,Erling,Haaland,Forward,Man City,15.1,6.363964693886893,38.084328,Wolves,6.3568635
+1,Ollie,Watkins,Forward,Aston Villa,8.8,5.794140202658516,35.906315,Newcastle,5.409495
+2,Jarrod,Bowen,Forward,West Ham,7.6,5.200249444870721,30.753448,Sunderland,5.5430946
+3,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.0,5.688816819872175,34.47463,Arsenal,5.3001943
+4,Antoine,Semenyo,Midfielder,Man City,7.7,5.406861486889066,32.17285,Wolves,5.511692
+5,Florian,Wirtz,Midfielder,Liverpool,8.3,5.2849248477390836,32.70183,Bournemouth,5.331125
+6,Morgan,Rogers,Midfielder,Aston Villa,7.7,5.178752399626232,31.396238,Newcastle,5.0928645
+7,Jeremie,Frimpong,Defender,Liverpool,5.8,3.73008318174453,22.819946,Bournemouth,3.833789
+8,Nico,O'Reilly,Defender,Man City,5.1,3.550841467721121,20.742037,Wolves,4.3918242
 9,Patrick,Dorgu,Defender,Man Utd,4.3,3.4160727319263273,21.935823,Arsenal,2.2209291
-10,Martin,Dúbravka,Goalkeeper,Burnley,4.0,3.415009441829863,19.866682,Spurs,3.5160298
+10,Robert,Lynch Sánchez,Goalkeeper,Chelsea,4.9,3.7157224246433804,21.03841,Crystal Palace,3.8502152
 11,,,,,,,,,
-12,,Total,,,83.4,52.5,316.7,,
+12,,Total,,,83.3,53.3,322.0,,
