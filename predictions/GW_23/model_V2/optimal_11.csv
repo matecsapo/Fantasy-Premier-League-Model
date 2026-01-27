@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Ollie,Watkins,Forward,Aston Villa,8.8,6.094606104351224,38.26161,Newcastle,5.641383
-1,Hugo,Ekitiké,Forward,Liverpool,8.9,4.825214817410424,29.724201,Bournemouth,4.833165
-2,Jarrod,Bowen,Forward,West Ham,7.6,4.820296855199905,28.12323,Sunderland,5.3053126
-3,Bukayo,Saka,Midfielder,Arsenal,10.1,6.258920669555665,36.830986,Man Utd,6.0750427
-4,Bruno,Borges Fernandes,Midfielder,Man Utd,9.3,5.689345246269589,33.318363,Arsenal,6.4464874
-5,Antoine,Semenyo,Midfielder,Man City,7.7,5.258589017958867,31.551693,Wolves,5.7912393
-6,Enzo,Fernández,Midfielder,Chelsea,6.6,4.7646024000077025,27.942175,Crystal Palace,4.552857
-7,Reece,James,Defender,Chelsea,5.7,4.275757063002813,25.125992,Crystal Palace,4.2921357
-8,Gabriel,dos Santos Magalhães,Defender,Arsenal,6.9,4.073716311227708,23.863424,Man Utd,3.9487178
-9,Jeremie,Frimpong,Defender,Liverpool,5.8,3.909483398709978,24.329865,Bournemouth,4.2097893
-10,Robert,Lynch Sánchez,Goalkeeper,Chelsea,4.9,3.9737746147882365,23.08976,Crystal Palace,3.9322858
+0,Ollie,Watkins,Forward,Aston Villa,8.8,6.17085872377668,38.590637,Newcastle,5.775579
+1,Jarrod,Bowen,Forward,West Ham,7.6,4.817653769538516,28.095478,Sunderland,5.3053126
+2,Hugo,Ekitiké,Forward,Liverpool,8.9,4.7838568687438965,29.267239,Bournemouth,4.844517
+3,Bukayo,Saka,Midfielder,Arsenal,10.1,6.329562119075231,37.08316,Man Utd,6.317361
+4,Bruno,Borges Fernandes,Midfielder,Man Utd,9.3,5.71430135908581,33.39998,Arsenal,6.562472
+5,Antoine,Semenyo,Midfielder,Man City,7.7,5.411570231119791,32.087128,Wolves,6.3266735
+6,Enzo,Fernández,Midfielder,Chelsea,6.6,4.780951238813855,27.999397,Crystal Palace,4.610078
+7,Reece,James,Defender,Chelsea,5.7,4.292105901808966,25.183214,Crystal Palace,4.3493567
+8,Gabriel,dos Santos Magalhães,Defender,Arsenal,6.9,4.0586331344786135,23.849346,Man Utd,3.8572135
+9,Jeremie,Frimpong,Defender,Liverpool,5.8,3.800373293104626,23.9303,Bournemouth,3.8367443
+10,Robert,Lynch Sánchez,Goalkeeper,Chelsea,4.9,3.990123521713983,23.14698,Crystal Palace,3.989507
 11,,,,,,,,,
-12,,Total,,,82.3,53.9,322.2,,
+12,,Total,,,82.3,54.1,322.6,,

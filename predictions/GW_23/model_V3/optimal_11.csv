@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Ollie,Watkins,Forward,Aston Villa,8.8,4.8293776512146,29.496153,Newcastle,4.4530845
-1,Declan,Rice,Midfielder,Arsenal,7.4,5.3146545092264805,31.459251,Man Utd,5.0272355
-2,Bruno,Borges Fernandes,Midfielder,Man Utd,9.3,5.234984579540433,32.587467,Arsenal,4.1479654
-3,Enzo,Fernández,Midfielder,Chelsea,6.6,5.197556359427315,29.853346,Crystal Palace,4.9276347
-4,Florian,Wirtz,Midfielder,Liverpool,8.3,4.789871329352969,30.50297,Bournemouth,4.7367043
-5,Antoine,Semenyo,Midfielder,Man City,7.7,4.746274107978456,28.348911,Wolves,5.5103602
-6,Gabriel,dos Santos Magalhães,Defender,Arsenal,6.9,6.267373130435034,37.078136,Man Utd,6.406023
-7,Trevoh,Chalobah,Defender,Chelsea,5.6,4.682331403096517,27.46395,Crystal Palace,4.62974
-8,Reece,James,Defender,Chelsea,5.7,4.664285092126756,26.778679,Crystal Palace,4.643695
-9,James,Tarkowski,Defender,Everton,5.8,4.539805389585949,27.028444,Leeds,4.911722
-10,Jordan,Pickford,Goalkeeper,Everton,5.6,4.258290688196817,24.89949,Leeds,4.7790775
+0,Ollie,Watkins,Forward,Aston Villa,8.8,4.616986093066987,28.622734,Newcastle,4.005344
+1,Declan,Rice,Midfielder,Arsenal,7.4,5.548634302048456,32.977203,Man Utd,5.0515933
+2,Enzo,Fernández,Midfielder,Chelsea,6.6,5.367852245058332,30.808582,Crystal Palace,5.3312407
+3,Antoine,Semenyo,Midfielder,Man City,7.7,5.099908374604725,30.414509,Wolves,5.9483466
+4,Bruno,Borges Fernandes,Midfielder,Man Utd,9.3,4.93663383665539,30.982464,Arsenal,3.6761718
+5,Florian,Wirtz,Midfielder,Liverpool,8.3,4.827850614275251,30.771801,Bournemouth,4.622361
+6,Gabriel,dos Santos Magalhães,Defender,Arsenal,6.9,5.615060647328694,33.221558,Man Utd,5.478006
+7,Trevoh,Chalobah,Defender,Chelsea,5.6,4.832062403361002,28.076475,Crystal Palace,4.928027
+8,Reece,James,Defender,Chelsea,5.7,4.777751831781297,27.316807,Crystal Palace,4.7637825
+9,James,Tarkowski,Defender,Everton,5.8,4.491940589178176,26.703445,Leeds,4.616416
+10,Alisson,Becker,Goalkeeper,Liverpool,5.4,4.139281795138404,25.531528,Bournemouth,4.0014324
 11,,,,,,,,,
-12,,Total,,,77.7,54.5,325.5,,
+12,,Total,,,77.5,54.3,325.4,,
