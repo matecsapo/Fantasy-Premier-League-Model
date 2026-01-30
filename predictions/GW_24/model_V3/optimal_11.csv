@@ -1,0 +1,14 @@
+,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
+0,Jarrod,Bowen,Forward,West Ham,7.6,4.530782427106584,26.811638,Chelsea,4.1883235
+1,Francisco Evanilson,de Lima Barbosa,Forward,Bournemouth,7.0,4.486268474942162,26.836445,Wolves,4.741218
+2,Bruno,Borges Fernandes,Midfielder,Man Utd,9.5,5.964557897476922,35.071712,Fulham,5.9497223
+3,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.0,5.201561087653751,30.610023,Fulham,5.3373117
+4,Florian,Wirtz,Midfielder,Liverpool,8.3,5.162638119288853,31.895895,Newcastle,5.043287
+5,Pedro,Lomba Neto,Midfielder,Chelsea,7.1,4.674450749442691,26.436562,West Ham,4.879834
+6,Declan,Rice,Midfielder,Arsenal,7.4,4.5893636998676115,25.958813,Leeds,4.8673677
+7,Virgil,van Dijk,Defender,Liverpool,5.9,4.7876119159516835,30.942318,Newcastle,4.083859
+8,Trevoh,Chalobah,Defender,Chelsea,5.7,4.4398672467186335,25.054623,West Ham,4.6385345
+9,Reece,James,Defender,Chelsea,5.7,4.245881784529913,24.06681,West Ham,4.3025546
+10,David,Raya Martín,Goalkeeper,Arsenal,5.9,3.7199079082125706,21.688847,Leeds,3.623096
+11,,,,,,,,,
+12,,Total,,,78.1,51.8,305.4,,
