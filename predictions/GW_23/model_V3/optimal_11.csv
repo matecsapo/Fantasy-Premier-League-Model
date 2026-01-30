@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,15.1,4.765495731717064,27.298851,Wolves,6.179281
-1,Declan,Rice,Midfielder,Arsenal,7.4,5.456849302564348,32.519722,Man Utd,4.956051
-2,Enzo,Fernández,Midfielder,Chelsea,6.6,5.342662947518485,30.94601,Crystal Palace,5.1295085
-3,Antoine,Semenyo,Midfielder,Man City,7.7,5.165287562779017,30.565346,Wolves,5.923699
-4,Florian,Wirtz,Midfielder,Liverpool,8.3,5.050213541303362,31.568684,Bournemouth,4.92158
-5,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.0,4.864283289228166,30.221277,Arsenal,3.808463
-6,Trevoh,Chalobah,Defender,Chelsea,5.6,5.313730035509382,30.665487,Crystal Palace,5.2612615
-7,Gabriel,dos Santos Magalhães,Defender,Arsenal,6.9,5.12218377703712,30.228374,Man Utd,4.965439
-8,Reece,James,Defender,Chelsea,5.7,4.8708371094294955,28.048687,Crystal Palace,4.814194
-9,James,Tarkowski,Defender,Everton,5.8,4.7118503252665205,28.124458,Leeds,4.6583595
-10,Jordan,Pickford,Goalkeeper,Everton,5.6,4.381499131520589,26.359135,Leeds,4.2405005
+0,Ollie,Watkins,Forward,Aston Villa,8.8,4.4244639078776045,27.928326,Newcastle,3.7033455
+1,Dominic,Calvert-Lewin,Forward,Leeds,6.0,4.405905121848695,25.735277,Everton,4.458022
+2,Declan,Rice,Midfielder,Arsenal,7.4,6.059658618200393,36.22995,Man Utd,5.822369
+3,Florian,Wirtz,Midfielder,Liverpool,8.3,5.175042470296224,32.37493,Bournemouth,5.1871367
+4,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.0,5.1720660754612515,31.931744,Arsenal,4.0950627
+5,Enzo,Fernández,Midfielder,Chelsea,6.6,5.074613582520258,29.085419,Crystal Palace,4.7772207
+6,Martin,Ødegaard,Midfielder,Arsenal,7.8,4.929785092671712,29.564543,Man Utd,4.8753552
+7,Gabriel,dos Santos Magalhães,Defender,Arsenal,6.9,5.22558798108782,30.884407,Man Utd,4.7792554
+8,Reece,James,Defender,Chelsea,5.7,4.835483516965593,27.715322,Crystal Palace,4.7288747
+9,Marc,Guéhi,Defender,Man City,5.2,4.4071782657078336,25.840738,Wolves,5.102691
+10,Robert,Lynch Sánchez,Goalkeeper,Chelsea,4.9,4.397420758292789,25.285246,Crystal Palace,4.319639
 11,,,,,,,,,
-12,,Total,,,82.7,55.0,326.5,,
+12,,Total,,,75.6,54.1,322.6,,
