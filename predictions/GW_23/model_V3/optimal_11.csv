@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Ollie,Watkins,Forward,Aston Villa,8.8,4.886269455864315,29.82037,Newcastle,4.3334045
-1,Declan,Rice,Midfielder,Arsenal,7.4,5.704689480009532,34.146698,Man Utd,5.3409476
-2,Enzo,Fernández,Midfielder,Chelsea,6.6,5.355244125638689,30.730068,Crystal Palace,5.2201643
-3,Antoine,Semenyo,Midfielder,Man City,7.7,5.161604427155994,30.375336,Wolves,6.1313267
-4,Bruno,Borges Fernandes,Midfielder,Man Utd,9.3,5.05803868884132,31.572159,Arsenal,4.140079
-5,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.0,4.721386773245675,29.296455,Arsenal,3.7493002
-6,Gabriel,dos Santos Magalhães,Defender,Arsenal,6.9,6.064053648994081,35.895912,Man Utd,5.96049
-7,Trevoh,Chalobah,Defender,Chelsea,5.6,4.968556892304193,28.669504,Crystal Palace,5.004212
-8,Reece,James,Defender,Chelsea,5.7,4.7966276691073455,27.451635,Crystal Palace,4.700282
-9,James,Tarkowski,Defender,Everton,5.8,4.547874632335844,26.958832,Leeds,4.740699
-10,Alisson,Becker,Goalkeeper,Liverpool,5.4,4.1503276370820545,25.55388,Bournemouth,3.9401464
+0,Erling,Haaland,Forward,Man City,15.1,4.765495731717064,27.298851,Wolves,6.179281
+1,Declan,Rice,Midfielder,Arsenal,7.4,5.456849302564348,32.519722,Man Utd,4.956051
+2,Enzo,Fernández,Midfielder,Chelsea,6.6,5.342662947518485,30.94601,Crystal Palace,5.1295085
+3,Antoine,Semenyo,Midfielder,Man City,7.7,5.165287562779017,30.565346,Wolves,5.923699
+4,Florian,Wirtz,Midfielder,Liverpool,8.3,5.050213541303362,31.568684,Bournemouth,4.92158
+5,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.0,4.864283289228166,30.221277,Arsenal,3.808463
+6,Trevoh,Chalobah,Defender,Chelsea,5.6,5.313730035509382,30.665487,Crystal Palace,5.2612615
+7,Gabriel,dos Santos Magalhães,Defender,Arsenal,6.9,5.12218377703712,30.228374,Man Utd,4.965439
+8,Reece,James,Defender,Chelsea,5.7,4.8708371094294955,28.048687,Crystal Palace,4.814194
+9,James,Tarkowski,Defender,Everton,5.8,4.7118503252665205,28.124458,Leeds,4.6583595
+10,Jordan,Pickford,Goalkeeper,Everton,5.6,4.381499131520589,26.359135,Leeds,4.2405005
 11,,,,,,,,,
-12,,Total,,,77.2,55.4,330.5,,
+12,,Total,,,82.7,55.0,326.5,,
