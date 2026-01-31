@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Jarrod,Bowen,Forward,West Ham,7.6,5.03609241758074,29.84028,Chelsea,4.676122
-1,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.3,4.53761176835923,25.61655,West Ham,4.683561
-2,Bruno,Borges Fernandes,Midfielder,Man Utd,9.5,6.104370775676909,36.266613,Fulham,6.1013966
-3,Enzo,Fernández,Midfielder,Chelsea,6.7,5.3299598693847665,29.377869,West Ham,5.7845345
-4,Florian,Wirtz,Midfielder,Liverpool,8.3,5.206389177413213,32.060257,Newcastle,5.06369
-5,Declan,Rice,Midfielder,Arsenal,7.4,5.029723894028436,29.19236,Leeds,5.197927
-6,Morgan,Gibbs-White,Midfielder,Nott'm Forest,7.3,4.729069811957222,27.306751,Crystal Palace,4.8826885
-7,Gabriel,dos Santos Magalhães,Defender,Arsenal,7.0,4.533364432198661,25.42039,Leeds,5.147196
-8,Virgil,van Dijk,Defender,Liverpool,5.9,4.295467240469796,27.036617,Newcastle,3.9552188
-9,Trevoh,Chalobah,Defender,Chelsea,5.7,4.250601268949962,24.012411,West Ham,4.4100933
-10,David,Raya Martín,Goalkeeper,Arsenal,5.9,3.9241744450160434,22.96775,Leeds,3.682815
+0,Francisco Evanilson,de Lima Barbosa,Forward,Bournemouth,7.1,4.745178381601969,28.771778,Wolves,4.8065157
+1,Jarrod,Bowen,Forward,West Ham,7.6,4.715198607671828,28.072601,Chelsea,4.298421
+2,Bruno,Borges Fernandes,Midfielder,Man Utd,9.5,5.5701097533816375,33.252174,Fulham,5.514379
+3,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.0,5.2154647282191675,30.66684,Fulham,5.3592405
+4,Florian,Wirtz,Midfielder,Liverpool,8.3,4.892654555184501,30.282673,Newcastle,4.6578536
+5,Enzo,Fernández,Midfielder,Chelsea,6.7,4.818682534354074,27.082697,West Ham,5.181287
+6,Morgan,Gibbs-White,Midfielder,Nott'm Forest,7.3,4.807505959556216,27.719648,Crystal Palace,4.9718194
+7,Virgil,van Dijk,Defender,Liverpool,5.9,4.490218412308465,27.854422,Newcastle,4.3022013
+8,Reece,James,Defender,Chelsea,5.7,4.3896526495615635,24.736383,West Ham,4.4285364
+9,Trevoh,Chalobah,Defender,Chelsea,5.7,4.253559044429234,23.759136,West Ham,4.482014
+10,Martin,Dúbravka,Goalkeeper,Burnley,4.0,3.9057616392771397,22.531904,Sunderland,4.4511905
 11,,,,,,,,,
-12,,Total,,,78.6,53.0,309.1,,
+12,,Total,,,75.8,51.8,304.7,,
