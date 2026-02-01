@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
 0,Jarrod,Bowen,Forward,West Ham,7.6,5.729263986860003,34.584457,Chelsea,5.4617414
-1,Dominic,Calvert-Lewin,Forward,Leeds,6.0,4.614880629948208,27.546297,Arsenal,4.8176804
-2,Florian,Wirtz,Midfielder,Liverpool,8.3,6.309376239776611,39.257736,Newcastle,6.187019
-3,Cole,Palmer,Midfielder,Chelsea,10.4,5.814284710657029,34.875153,West Ham,5.8014035
-4,Mohamed,Salah,Midfielder,Liverpool,14.0,5.707634857722691,34.39886,Newcastle,5.762165
-5,Bruno,Borges Fernandes,Midfielder,Man Utd,9.5,5.549388385954358,32.526955,Fulham,5.9852037
-6,Morgan,Rogers,Midfielder,Aston Villa,7.7,5.142325582958403,30.483158,Brentford,5.0706367
-7,Reece,James,Defender,Chelsea,5.7,3.50017211550758,20.225454,West Ham,3.850936
-8,Ezri,Konsa Ngoyo,Defender,Aston Villa,4.4,3.4595159008389422,20.265272,Brentford,3.4111266
-9,Nordi,Mukiele,Defender,Sunderland,4.5,3.0903223923274448,18.936796,Burnley,3.5437186
-10,Dean,Henderson,Goalkeeper,Crystal Palace,5.0,3.3272273313431513,19.930256,Nott'm Forest,3.3890984
+1,Dominic,Calvert-Lewin,Forward,Leeds,6.0,4.910990919385637,29.502922,Arsenal,5.099827
+2,Florian,Wirtz,Midfielder,Liverpool,8.3,6.769835063389369,42.393494,Newcastle,6.6103964
+3,Mohamed,Salah,Midfielder,Liverpool,14.0,5.846205711364746,35.465897,Newcastle,5.8308845
+4,Bruno,Borges Fernandes,Midfielder,Man Utd,9.5,5.758562791915167,33.705414,Fulham,6.1878114
+5,Cole,Palmer,Midfielder,Chelsea,10.4,5.721263295128232,34.201866,West Ham,5.698711
+6,Morgan,Rogers,Midfielder,Aston Villa,7.7,5.53632504599435,32.914536,Brentford,5.4366026
+7,Reece,James,Defender,Chelsea,5.7,3.733575491678147,21.308432,West Ham,4.052898
+8,Ezri,Konsa Ngoyo,Defender,Aston Villa,4.4,3.6826759292965843,21.70669,Brentford,3.6087615
+9,Daniel,Muñoz Mejía,Defender,Crystal Palace,5.8,3.6295023305075507,21.73142,Nott'm Forest,3.6099145
+10,Martin,Dúbravka,Goalkeeper,Burnley,4.0,3.172639449437459,18.566149,Sunderland,3.3873985
 11,,,,,,,,,
-12,,Total,,,83.1,52.2,313.0,,
+12,,Total,,,83.4,54.5,326.1,,

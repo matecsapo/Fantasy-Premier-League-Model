@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Erling,Haaland,Forward,Man City,15.0,6.432012126559304,38.20136,Spurs,7.000582
-1,Hugo,Ekitiké,Forward,Liverpool,8.8,6.006355490003313,37.269146,Newcastle,5.8014317
-2,Viktor,Gyökeres,Forward,Arsenal,8.7,5.3030885968889505,31.474026,Leeds,5.403109
-3,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.0,5.641262826465424,33.68936,Fulham,5.533944
-4,Cole,Palmer,Midfielder,Chelsea,10.4,5.453369617462157,31.747618,West Ham,5.6704617
-5,Enzo,Fernández,Midfielder,Chelsea,6.7,4.936470542635236,27.924082,West Ham,5.316994
-6,Declan,Rice,Midfielder,Arsenal,7.4,4.809329555148169,28.077961,Leeds,5.1647897
-7,Reece,James,Defender,Chelsea,5.7,3.66926376024882,20.481106,West Ham,3.979621
-8,Patrick,Dorgu,Defender,Man Utd,4.4,3.2500343095688593,19.123692,Fulham,3.1745195
-9,Ezri,Konsa Ngoyo,Defender,Aston Villa,4.4,3.0428903897603354,18.475994,Brentford,2.9608197
-10,Martin,Dúbravka,Goalkeeper,Burnley,4.0,3.4290001960027787,19.995232,Sunderland,3.4731493
+0,Hugo,Ekitiké,Forward,Liverpool,8.8,6.055654230571928,37.782497,Newcastle,5.8639007
+1,Viktor,Gyökeres,Forward,Arsenal,8.7,5.396617162795294,31.652397,Leeds,5.6407266
+2,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.0,5.983737400599888,35.758038,Fulham,5.862591
+3,Cole,Palmer,Midfielder,Chelsea,10.4,5.413701693216958,31.353071,West Ham,5.642755
+4,Enzo,Fernández,Midfielder,Chelsea,6.7,5.2145506881532215,29.427986,West Ham,5.577702
+5,Florian,Wirtz,Midfielder,Liverpool,8.3,5.097464243570964,31.147875,Newcastle,4.8924465
+6,Morgan,Rogers,Midfielder,Aston Villa,7.7,5.010275772639683,29.971737,Brentford,5.228566
+7,Reece,James,Defender,Chelsea,5.7,3.7973539148058206,21.122116,West Ham,4.085708
+8,Gabriel,dos Santos Magalhães,Defender,Arsenal,7.0,3.6273693584260487,20.855637,Leeds,3.9303625
+9,Virgil,van Dijk,Defender,Liverpool,5.9,3.590200526373727,22.128578,Newcastle,3.5306115
+10,Gianluigi,Donnarumma,Goalkeeper,Man City,5.6,3.7365297135852633,21.853897,Spurs,4.0888705
 11,,,,,,,,,
-12,,Total,,,83.5,52.0,306.5,,
+12,,Total,,,82.8,52.9,313.1,,
