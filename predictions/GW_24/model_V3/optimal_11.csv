@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Francisco Evanilson,de Lima Barbosa,Forward,Bournemouth,7.1,5.33481688726516,32.117508,Wolves,5.6692014
-1,Jarrod,Bowen,Forward,West Ham,7.6,4.715198607671828,28.072601,Chelsea,4.298421
-2,Bruno,Borges Fernandes,Midfielder,Man Utd,9.5,6.059560162680491,36.163433,Fulham,6.011948
-3,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.0,5.542910575866698,32.638817,Fulham,5.6798067
-4,Enzo,Fernández,Midfielder,Chelsea,6.7,5.424739610581171,30.496483,West Ham,5.720862
-5,Florian,Wirtz,Midfielder,Liverpool,8.3,5.352111339569092,33.354984,Newcastle,5.0649214
-6,Bryan,Mbeumo,Midfielder,Man Utd,8.4,5.066863627660842,29.881481,Fulham,5.1623473
-7,Reece,James,Defender,Chelsea,5.7,4.873593421209426,27.34969,West Ham,4.869871
-8,Trevoh,Chalobah,Defender,Chelsea,5.7,4.711316676366897,26.0048,West Ham,4.918922
-9,Virgil,van Dijk,Defender,Liverpool,5.9,4.490218412308465,27.854422,Newcastle,4.3022013
-10,Martin,Dúbravka,Goalkeeper,Burnley,4.0,3.990283228102184,22.779848,Sunderland,4.682117
+0,Jarrod,Bowen,Forward,West Ham,7.6,5.220561345418293,31.298414,Chelsea,4.473228
+1,Francisco Evanilson,de Lima Barbosa,Forward,Bournemouth,7.1,4.546781358264742,27.46045,Wolves,4.9219027
+2,Bruno,Borges Fernandes,Midfielder,Man Utd,9.5,6.442921479543049,38.120407,Fulham,6.540221
+3,Florian,Wirtz,Midfielder,Liverpool,8.3,5.715159711383638,35.35475,Newcastle,5.691509
+4,Declan,Rice,Midfielder,Arsenal,7.4,5.549180008116222,32.613853,Leeds,5.6656594
+5,Enzo,Fernández,Midfielder,Chelsea,6.7,5.412733418600899,29.347687,West Ham,6.0747666
+6,Antoine,Semenyo,Midfielder,Man City,7.8,5.140070665450323,31.36689,Spurs,5.415346
+7,Trevoh,Chalobah,Defender,Chelsea,5.7,4.893686828159151,26.880877,West Ham,5.2902813
+8,Reece,James,Defender,Chelsea,5.7,4.857953582491193,27.131105,West Ham,5.031933
+9,Virgil,van Dijk,Defender,Liverpool,5.9,4.43506257874625,27.649273,Newcastle,4.311954
+10,Alisson,Becker,Goalkeeper,Liverpool,5.4,3.9819397812797908,24.925331,Newcastle,4.0243444
 11,,,,,,,,,
-12,,Total,,,76.9,55.6,326.7,,
+12,,Total,,,77.1,56.2,332.1,,

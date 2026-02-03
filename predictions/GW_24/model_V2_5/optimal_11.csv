@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Jarrod,Bowen,Forward,West Ham,7.6,5.729263986860003,34.584457,Chelsea,5.4617414
-1,Dominic,Calvert-Lewin,Forward,Leeds,6.0,4.910990919385637,29.502922,Arsenal,5.099827
-2,Florian,Wirtz,Midfielder,Liverpool,8.3,6.769835063389369,42.393494,Newcastle,6.6103964
-3,Mohamed,Salah,Midfielder,Liverpool,14.0,5.846205711364746,35.465897,Newcastle,5.8308845
-4,Bruno,Borges Fernandes,Midfielder,Man Utd,9.5,5.758562791915167,33.705414,Fulham,6.1878114
-5,Cole,Palmer,Midfielder,Chelsea,10.4,5.721263295128232,34.201866,West Ham,5.698711
+0,Jarrod,Bowen,Forward,West Ham,7.6,5.647605078560965,34.298653,Chelsea,5.1759353
+1,Dominic,Calvert-Lewin,Forward,Leeds,6.0,4.926295484815324,29.556488,Arsenal,5.153393
+2,Florian,Wirtz,Midfielder,Liverpool,8.3,6.804791450500488,42.515846,Newcastle,6.7327437
+3,Mohamed,Salah,Midfielder,Liverpool,14.0,5.87796892438616,35.577065,Newcastle,5.9420557
+4,Bruno,Borges Fernandes,Midfielder,Man Utd,9.5,5.783185027894519,33.79159,Fulham,6.273989
+5,Cole,Palmer,Midfielder,Chelsea,10.4,5.687681425185431,34.084328,West Ham,5.5811744
 6,Morgan,Rogers,Midfielder,Aston Villa,7.7,5.53632504599435,32.914536,Brentford,5.4366026
 7,Reece,James,Defender,Chelsea,5.7,3.733575491678147,21.308432,West Ham,4.052898
-8,Ezri,Konsa Ngoyo,Defender,Aston Villa,4.4,3.6826759292965843,21.70669,Brentford,3.6087615
-9,Daniel,Muñoz Mejía,Defender,Crystal Palace,5.8,3.6295023305075507,21.73142,Nott'm Forest,3.6099145
-10,Martin,Dúbravka,Goalkeeper,Burnley,4.0,3.172639449437459,18.566149,Sunderland,3.3873985
+8,Daniel,Muñoz Mejía,Defender,Crystal Palace,5.8,3.7126696790967664,22.022507,Nott'm Forest,3.9010003
+9,Ezri,Konsa Ngoyo,Defender,Aston Villa,4.4,3.6826759292965843,21.70669,Brentford,3.6087615
+10,Martin,Dúbravka,Goalkeeper,Burnley,4.0,3.17519025575547,18.575077,Sunderland,3.3963263
 11,,,,,,,,,
-12,,Total,,,83.4,54.5,326.1,,
+12,,Total,,,83.4,54.6,326.4,,

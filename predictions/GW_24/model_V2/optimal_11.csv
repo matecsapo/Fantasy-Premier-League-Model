@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.3,5.046456291562035,29.13623,West Ham,5.2877407
-1,Jarrod,Bowen,Forward,West Ham,7.6,4.957968303135463,29.349064,Chelsea,4.623009
-2,Viktor,Gyökeres,Forward,Arsenal,8.7,4.857080323355538,28.483929,Leeds,4.912948
-3,Bruno,Borges Fernandes,Midfielder,Man Utd,9.5,6.467398302895681,38.45837,Fulham,6.242288
-4,Bukayo,Saka,Midfielder,Arsenal,10.0,5.988358134315127,35.16665,Leeds,6.2758665
-5,Florian,Wirtz,Midfielder,Liverpool,8.3,5.365899063292003,33.635883,Newcastle,5.1935296
-6,Bryan,Mbeumo,Midfielder,Man Utd,8.4,5.16182518005371,30.745266,Fulham,5.0678086
-7,Gabriel,dos Santos Magalhães,Defender,Arsenal,7.0,4.342255603699456,25.448097,Leeds,4.442486
-8,Reece,James,Defender,Chelsea,5.7,4.206960723513648,24.314816,West Ham,4.386827
-9,Virgil,van Dijk,Defender,Liverpool,5.9,3.643931002843947,22.498226,Newcastle,3.4684305
-10,Robert,Lynch Sánchez,Goalkeeper,Chelsea,4.9,3.875687179111299,22.155195,West Ham,4.1213303
+0,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.3,5.12110101609003,29.520927,West Ham,5.3021154
+1,Viktor,Gyökeres,Forward,Arsenal,8.7,4.9339560100010456,28.75299,Leeds,5.182013
+2,Jarrod,Bowen,Forward,West Ham,7.6,4.917145252227783,29.180794,Chelsea,4.505521
+3,Bruno,Borges Fernandes,Midfielder,Man Utd,9.5,6.448499384380522,38.397015,Fulham,6.1665587
+4,Bukayo,Saka,Midfielder,Arsenal,10.0,6.1058721996489025,35.57795,Leeds,6.6871657
+5,Florian,Wirtz,Midfielder,Liverpool,8.3,5.35441643851144,33.578278,Newcastle,5.1755524
+6,Bryan,Mbeumo,Midfielder,Man Utd,8.4,5.19351950145903,30.860989,Fulham,5.1691556
+7,Gabriel,dos Santos Magalhães,Defender,Arsenal,7.0,4.454765013286045,25.824955,Leeds,4.870125
+8,Reece,James,Defender,Chelsea,5.7,4.216119266691662,24.355711,West Ham,4.4012017
+9,Virgil,van Dijk,Defender,Liverpool,5.9,3.6545370192754834,22.636593,Newcastle,3.4684305
+10,Robert,Lynch Sánchez,Goalkeeper,Chelsea,4.9,3.9306511084238682,22.347569,West Ham,4.313704
 11,,,,,,,,,
-12,,Total,,,83.3,53.9,319.4,,
+12,,Total,,,83.3,54.3,321.0,,
