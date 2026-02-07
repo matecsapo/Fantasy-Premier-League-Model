@@ -1,7 +1,7 @@
 Metric,Value
 True Average Points,1.1673
-Predicted Average Points,1.1848
-Mean Squared Error (MSE),3.6948
-Mean Absolute Error (MAE),0.9722
-R^2 Score,0.3454
-Spearman Coefficient,0.7376
+Predicted Average Points,1.1856
+Mean Squared Error (MSE),3.7112
+Mean Absolute Error (MAE),0.9742
+R^2 Score,0.3425
+Spearman Coefficient,0.737

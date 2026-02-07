@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Jarrod,Bowen,Forward,West Ham,7.6,5.2439504350934705,31.240164,Chelsea,4.693556
-1,Francisco Evanilson,de Lima Barbosa,Forward,Bournemouth,7.1,5.031812349955239,30.248775,Wolves,5.4735494
-2,Bruno,Borges Fernandes,Midfielder,Man Utd,9.5,6.232516629355294,36.79407,Fulham,6.348519
-3,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.0,5.5531036286127,32.757977,Fulham,5.6604013
-4,Florian,Wirtz,Midfielder,Liverpool,8.3,5.391933736347017,33.57248,Newcastle,5.1924114
-5,Bryan,Mbeumo,Midfielder,Man Utd,8.4,5.359383333297004,31.517033,Fulham,5.570632
-6,Declan,Rice,Midfielder,Arsenal,7.4,5.227515356881278,30.15764,Leeds,5.664071
-7,Reece,James,Defender,Chelsea,5.7,4.919731968925112,27.661823,West Ham,5.094994
-8,Trevoh,Chalobah,Defender,Chelsea,5.7,4.57851911726452,25.275532,West Ham,4.8946905
-9,Marc,Cucurella Saseta,Defender,Chelsea,6.0,4.498340004966372,25.47402,West Ham,4.6841254
-10,Alisson,Becker,Goalkeeper,Liverpool,5.4,4.0516098113287065,25.567896,Newcastle,3.814736
+0,Jarrod,Bowen,Forward,West Ham,7.6,4.715813137236096,27.871758,Chelsea,4.294286
+1,Francisco Evanilson,de Lima Barbosa,Forward,Bournemouth,7.1,4.696854659489222,28.352863,Wolves,5.0148487
+2,Bruno,Borges Fernandes,Midfielder,Man Utd,9.5,5.965294974190848,35.39577,Fulham,6.196535
+3,Enzo,Fernández,Midfielder,Chelsea,6.7,5.600850536709739,30.72315,West Ham,6.2788157
+4,Florian,Wirtz,Midfielder,Liverpool,8.3,5.539564314342679,34.230064,Newcastle,5.406272
+5,Bryan,Mbeumo,Midfielder,Man Utd,8.4,5.3612328711010155,31.417374,Fulham,5.528316
+6,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.0,5.26883586247762,31.07089,Fulham,5.3927803
+7,Trevoh,Chalobah,Defender,Chelsea,5.7,4.8346109957922065,26.230108,West Ham,5.474106
+8,Virgil,van Dijk,Defender,Liverpool,5.9,4.430744159789312,28.099693,Newcastle,4.0401177
+9,Daniel,Muñoz Mejía,Defender,Crystal Palace,5.8,4.375922884259905,26.071192,Nott'm Forest,4.383113
+10,Robert,Lynch Sánchez,Goalkeeper,Chelsea,4.9,4.222772530147007,23.30722,West Ham,4.6944847
 11,,,,,,,,,
-12,,Total,,,79.1,56.1,330.3,,
+12,,Total,,,77.9,55.0,322.8,,

@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.3,5.12110101609003,29.520927,West Ham,5.3021154
-1,Viktor,Gyökeres,Forward,Arsenal,8.7,4.9339560100010456,28.75299,Leeds,5.182013
-2,Jarrod,Bowen,Forward,West Ham,7.6,4.917145252227783,29.180794,Chelsea,4.505521
+0,João Pedro,Junqueira de Jesus,Forward,Chelsea,7.3,4.977549870808919,28.767284,West Ham,5.3021154
+1,Jarrod,Bowen,Forward,West Ham,7.6,4.917145252227783,29.180794,Chelsea,4.505521
+2,Viktor,Gyökeres,Forward,Arsenal,8.7,4.827530997140066,28.380505,Leeds,4.8095255
 3,Bruno,Borges Fernandes,Midfielder,Man Utd,9.5,6.448499384380522,38.397015,Fulham,6.1665587
-4,Bukayo,Saka,Midfielder,Arsenal,10.0,6.1058721996489025,35.57795,Leeds,6.6871657
+4,Bukayo,Saka,Midfielder,Arsenal,10.0,5.923006920587448,34.93792,Leeds,6.0471373
 5,Florian,Wirtz,Midfielder,Liverpool,8.3,5.35441643851144,33.578278,Newcastle,5.1755524
 6,Bryan,Mbeumo,Midfielder,Man Utd,8.4,5.19351950145903,30.860989,Fulham,5.1691556
-7,Gabriel,dos Santos Magalhães,Defender,Arsenal,7.0,4.454765013286045,25.824955,Leeds,4.870125
-8,Reece,James,Defender,Chelsea,5.7,4.216119266691662,24.355711,West Ham,4.4012017
+7,Gabriel,dos Santos Magalhães,Defender,Arsenal,7.0,4.291599375861031,25.253872,Leeds,4.299045
+8,Reece,James,Defender,Chelsea,5.7,4.200318972269693,24.272758,West Ham,4.4012017
 9,Virgil,van Dijk,Defender,Liverpool,5.9,3.6545370192754834,22.636593,Newcastle,3.4684305
-10,Robert,Lynch Sánchez,Goalkeeper,Chelsea,4.9,3.9306511084238682,22.347569,West Ham,4.313704
+10,Robert,Lynch Sánchez,Goalkeeper,Chelsea,4.9,3.9109306676047186,22.244036,West Ham,4.313704
 11,,,,,,,,,
-12,,Total,,,83.3,54.3,321.0,,
+12,,Total,,,83.3,53.7,318.5,,

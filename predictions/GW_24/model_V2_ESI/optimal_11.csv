@@ -1,14 +1,14 @@
 ,first_name,second_name,position,team_name,now_cost,linear_horizon_performance_score,predicted_horizon_points,opponent_game_1,predicted_points_game_1
-0,Hugo,Ekitiké,Forward,Liverpool,8.8,5.892355169568742,37.249302,Newcastle,5.2783895
-1,Viktor,Gyökeres,Forward,Arsenal,8.7,5.315617107209705,31.368896,Leeds,5.3572264
-2,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.0,5.971632548740931,35.585995,Fulham,5.9457664
-3,Cole,Palmer,Midfielder,Chelsea,10.4,5.3984050296601795,31.299532,West Ham,5.5892167
-4,Enzo,Fernández,Midfielder,Chelsea,6.7,5.183222623098464,29.318338,West Ham,5.468054
+0,Erling,Haaland,Forward,Man City,15.0,5.979354040963308,35.201107,Spurs,6.8129306
+1,Hugo,Ekitiké,Forward,Liverpool,8.8,5.892355169568742,37.249302,Newcastle,5.2783895
+2,Viktor,Gyökeres,Forward,Arsenal,8.7,5.2909977322533015,31.28273,Leeds,5.2710586
+3,Matheus,Santos Carneiro da Cunha,Midfielder,Man Utd,8.0,5.971632548740931,35.585995,Fulham,5.9457664
+4,Enzo,Fernández,Midfielder,Chelsea,6.7,5.1556886831919355,29.173784,West Ham,5.468054
 5,Florian,Wirtz,Midfielder,Liverpool,8.3,5.110730670747303,31.20258,Newcastle,4.934743
-6,Morgan,Rogers,Midfielder,Aston Villa,7.7,4.926933038802374,29.679604,Brentford,4.9390235
-7,Reece,James,Defender,Chelsea,5.7,3.824499573026384,21.217127,West Ham,4.180718
-8,Gabriel,dos Santos Magalhães,Defender,Arsenal,7.0,3.7089372362409323,21.064194,Leeds,4.3697124
-9,Virgil,van Dijk,Defender,Liverpool,5.9,3.6472137655530656,22.328125,Newcastle,3.7301579
-10,Gianluigi,Donnarumma,Goalkeeper,Man City,5.6,3.6681705429440457,21.586084,Spurs,3.9923975
+6,Morgan,Rogers,Midfielder,Aston Villa,7.7,4.9123219308399015,29.577328,Brentford,4.9390235
+7,Reece,James,Defender,Chelsea,5.7,3.8279015563783187,21.234987,West Ham,4.180718
+8,Virgil,van Dijk,Defender,Liverpool,5.9,3.6472137655530656,22.328125,Newcastle,3.7301579
+9,Jan Paul,van Hecke,Defender,Brighton,4.5,3.2308612096877325,18.609228,Everton,3.536548
+10,Martin,Dúbravka,Goalkeeper,Burnley,4.0,3.384515580676851,19.40044,Sunderland,3.6597643
 11,,,,,,,,,
-12,,Total,,,82.8,52.6,311.9,,
+12,,Total,,,83.3,52.4,310.8,,
